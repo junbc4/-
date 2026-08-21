@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-21T06:45:34+00:00",
-  "count": 58,
+  "generatedAt": "2026-08-21T10:19:59+00:00",
+  "count": 59,
   "errors": [
     {
       "source": "은평구립도서관",
@@ -41,10 +41,6 @@
     {
       "source": "성북문화재단",
       "error": "Page.goto: Timeout 45000ms exceeded.\nCall log:\nnavigating to \"https://www.sbculture.or.kr/culture/bbs/BMSR00034/list.do?menuNo=500348\", waiting until \"domcontentloaded\"\n"
-    },
-    {
-      "source": "강서구청(고시공고)",
-      "error": "Page.content: Unable to retrieve content because the page is navigating and changing the content."
     }
   ],
   "postings": [
@@ -627,6 +623,16 @@
       "deadline": null,
       "deadlineEstimated": false,
       "link": "https://gcfac.or.kr/board/recruit"
+    },
+    {
+      "source": "마포구청",
+      "sourceUrl": "https://www.mapo.go.kr/site/main/nPortalr/lists",
+      "title": "마포중앙도서관 개관시간 연장 지원 근로자 채용 공고",
+      "category": "채용",
+      "posted": "2026-08-21",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.mapo.go.kr/site/main/nPortalr/details?bcId=20869"
     }
   ]
 }
