@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-21T15:08:00+00:00",
-  "count": 93,
+  "generatedAt": "2026-08-21T23:03:11+00:00",
+  "count": 122,
   "errors": [],
   "postings": [
     {
@@ -704,6 +704,96 @@
       "link": "https://library.gangnam.go.kr/nhlib/menu/12440/bbs/20290/bbsPostList.do"
     },
     {
+      "source": "강남 역삼도서관",
+      "sourceUrl": "https://library.gangnam.go.kr/yllib/menu/12451/bbs/20301/bbsPostList.do",
+      "title": "강남구립 열린도서관 주말 초단시간 근로자 채용 최종 합격자 공고",
+      "category": "채용",
+      "posted": "2026-06-18",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://library.gangnam.go.kr/yllib/menu/12451/bbs/20301/bbsPostList.do"
+    },
+    {
+      "source": "강남 역삼도서관",
+      "sourceUrl": "https://library.gangnam.go.kr/yllib/menu/12451/bbs/20301/bbsPostList.do",
+      "title": "강남구립 열린도서관 주말 초단시간 근로자 채용 서류 합격자 발표",
+      "category": "채용",
+      "posted": "2026-06-16",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://library.gangnam.go.kr/yllib/menu/12451/bbs/20301/bbsPostList.do"
+    },
+    {
+      "source": "강남 역삼도서관",
+      "sourceUrl": "https://library.gangnam.go.kr/yllib/menu/12451/bbs/20301/bbsPostList.do",
+      "title": "강남구립 열린도서관 주말 초단시간 근로자 채용 공고 (~6/14)",
+      "category": "채용",
+      "posted": "2026-06-04",
+      "deadline": "2027-06-14",
+      "deadlineEstimated": true,
+      "link": "https://library.gangnam.go.kr/yllib/menu/12451/bbs/20301/bbsPostList.do"
+    },
+    {
+      "source": "강남 역삼도서관",
+      "sourceUrl": "https://library.gangnam.go.kr/yllib/menu/12451/bbs/20301/bbsPostList.do",
+      "title": "강남구립 열린도서관 계약직 사서 채용 최종합격자 공고",
+      "category": "채용",
+      "posted": "2026-05-15",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://library.gangnam.go.kr/yllib/menu/12451/bbs/20301/bbsPostList.do"
+    },
+    {
+      "source": "강남 역삼도서관",
+      "sourceUrl": "https://library.gangnam.go.kr/yllib/menu/12451/bbs/20301/bbsPostList.do",
+      "title": "강남구립 열린도서관 계약직 사서 채용 서류합격자 공고",
+      "category": "채용",
+      "posted": "2026-05-12",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://library.gangnam.go.kr/yllib/menu/12451/bbs/20301/bbsPostList.do"
+    },
+    {
+      "source": "강남 역삼도서관",
+      "sourceUrl": "https://library.gangnam.go.kr/yllib/menu/12451/bbs/20301/bbsPostList.do",
+      "title": "강남구립 열린도서관 계약직 사서 채용 공고 (-5/11)",
+      "category": "채용",
+      "posted": "2026-04-28",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://library.gangnam.go.kr/yllib/menu/12451/bbs/20301/bbsPostList.do"
+    },
+    {
+      "source": "강남 역삼도서관",
+      "sourceUrl": "https://library.gangnam.go.kr/yllib/menu/12451/bbs/20301/bbsPostList.do",
+      "title": "강남구립 열린도서관 평일 초단시간 근로자 채용 최종 합격자 공고",
+      "category": "채용",
+      "posted": "2026-04-03",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://library.gangnam.go.kr/yllib/menu/12451/bbs/20301/bbsPostList.do"
+    },
+    {
+      "source": "강남 역삼도서관",
+      "sourceUrl": "https://library.gangnam.go.kr/yllib/menu/12451/bbs/20301/bbsPostList.do",
+      "title": "강남구립 열린도서관 평일 초단시간 근로자 채용 서류 합격자 발표",
+      "category": "채용",
+      "posted": "2026-04-01",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://library.gangnam.go.kr/yllib/menu/12451/bbs/20301/bbsPostList.do"
+    },
+    {
+      "source": "강남 역삼도서관",
+      "sourceUrl": "https://library.gangnam.go.kr/yllib/menu/12451/bbs/20301/bbsPostList.do",
+      "title": "강남구립 열린도서관 평일 초단시간 근로자 채용 공고 (~3/31)",
+      "category": "채용",
+      "posted": "2026-03-25",
+      "deadline": "2027-03-31",
+      "deadlineEstimated": true,
+      "link": "https://library.gangnam.go.kr/yllib/menu/12451/bbs/20301/bbsPostList.do"
+    },
+    {
       "source": "강남 도곡도서관",
       "sourceUrl": "https://library.gangnam.go.kr/dch1lib/menu/12442/bbs/20292/bbsPostList.do",
       "title": "[결과 발표] 강남구립대치1작은도서관 계약직 사서 채용 최종 합격자 발표",
@@ -802,6 +892,206 @@
       "deadline": null,
       "deadlineEstimated": false,
       "link": "https://www.gdlibrary.or.kr/portal/menu/51/board/1/post/301343"
+    },
+    {
+      "source": "l4d 도서관(추정)",
+      "sourceUrl": "https://www.l4d.or.kr/small/menu/10018/bbs/20001/bbsPostList.do",
+      "title": "[용두어울림] 개관 4주년 및 독서의 달 행사 「책으로 연결! 어울림, 도서관」 안내",
+      "category": "공지",
+      "posted": "2026-08-11",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.l4d.or.kr/small/menu/10018/bbs/20001/bbsPostList.do"
+    },
+    {
+      "source": "l4d 도서관(추정)",
+      "sourceUrl": "https://www.l4d.or.kr/small/menu/10018/bbs/20001/bbsPostList.do",
+      "title": "[장안마루] [협력] 장안마루작은도서관 2026년 협력 프로그램 <책과 함께, 도서관 행복 공방>",
+      "category": "공지",
+      "posted": "2026-08-11",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.l4d.or.kr/small/menu/10018/bbs/20001/bbsPostList.do"
+    },
+    {
+      "source": "l4d 도서관(추정)",
+      "sourceUrl": "https://www.l4d.or.kr/small/menu/10018/bbs/20001/bbsPostList.do",
+      "title": "[장안마루] 장안마루작은도서관 2026년 독서의 달 행사 안내",
+      "category": "공지",
+      "posted": "2026-08-11",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.l4d.or.kr/small/menu/10018/bbs/20001/bbsPostList.do"
+    },
+    {
+      "source": "l4d 도서관(추정)",
+      "sourceUrl": "https://www.l4d.or.kr/small/menu/10018/bbs/20001/bbsPostList.do",
+      "title": "[장안꿈마루어린이] 2026년 독서의 달 행사 「김진 작가와의 만남 <이순신을 찾아라> 」 프로그램 안내",
+      "category": "공지",
+      "posted": "2026-08-04",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.l4d.or.kr/small/menu/10018/bbs/20001/bbsPostList.do"
+    },
+    {
+      "source": "l4d 도서관(추정)",
+      "sourceUrl": "https://www.l4d.or.kr/small/menu/10018/bbs/20001/bbsPostList.do",
+      "title": "[장안꿈마루어린이] 장안꿈마루어린이작은도서관 2026년 독서의 달 행사 안내",
+      "category": "공지",
+      "posted": "2026-08-04",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.l4d.or.kr/small/menu/10018/bbs/20001/bbsPostList.do"
+    },
+    {
+      "source": "l4d 도서관(추정)",
+      "sourceUrl": "https://www.l4d.or.kr/small/menu/10018/bbs/20001/bbsPostList.do",
+      "title": "[장안꿈마루어린이] [협력] 2026년 <도서관과 함께, 여름 안에서> 프로그램 안내",
+      "category": "공지",
+      "posted": "2026-07-27",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.l4d.or.kr/small/menu/10018/bbs/20001/bbsPostList.do"
+    },
+    {
+      "source": "l4d 도서관(추정)",
+      "sourceUrl": "https://www.l4d.or.kr/small/menu/10018/bbs/20001/bbsPostList.do",
+      "title": "[장안꿈마루어린이] 2026년 북스타트 플러스(2단계) 책꾸러미 배부 안내",
+      "category": "공지",
+      "posted": "2026-07-13",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.l4d.or.kr/small/menu/10018/bbs/20001/bbsPostList.do"
+    },
+    {
+      "source": "l4d 도서관(추정)",
+      "sourceUrl": "https://www.l4d.or.kr/small/menu/10018/bbs/20001/bbsPostList.do",
+      "title": "[용두어울림] 2026년 북스타트 플러스(2단계) 책꾸러미 배부 안내",
+      "category": "공지",
+      "posted": "2026-07-05",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.l4d.or.kr/small/menu/10018/bbs/20001/bbsPostList.do"
+    },
+    {
+      "source": "l4d 도서관(추정)",
+      "sourceUrl": "https://www.l4d.or.kr/small/menu/10018/bbs/20001/bbsPostList.do",
+      "title": "[용두어울림] 2026년 3분기 북 큐레이션 「쉼표, 하나」 ​",
+      "category": "공지",
+      "posted": "2026-07-01",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.l4d.or.kr/small/menu/10018/bbs/20001/bbsPostList.do"
+    },
+    {
+      "source": "l4d 도서관(추정)",
+      "sourceUrl": "https://www.l4d.or.kr/small/menu/10018/bbs/20001/bbsPostList.do",
+      "title": "[장안마루] 장안마루작은도서관 6/22(화) VPN 교체 작업에 따른 도서관 서비스 일시 중단 안내",
+      "category": "공지",
+      "posted": "2026-06-18",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.l4d.or.kr/small/menu/10018/bbs/20001/bbsPostList.do"
+    },
+    {
+      "source": "l4d 도서관(추정)",
+      "sourceUrl": "https://www.l4d.or.kr/small/menu/10018/bbs/20001/bbsPostList.do",
+      "title": "[용두어울림] 2026년 독서 문화 프로그램 <단편소설 읽는 사이> 안내",
+      "category": "공지",
+      "posted": "2026-06-16",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.l4d.or.kr/small/menu/10018/bbs/20001/bbsPostList.do"
+    },
+    {
+      "source": "l4d 도서관(추정)",
+      "sourceUrl": "https://www.l4d.or.kr/small/menu/10018/bbs/20001/bbsPostList.do",
+      "title": "[장안꿈마루어린이] VPN 교체작업에 따른 도서관 서비스 일시 중단 안내",
+      "category": "공지",
+      "posted": "2026-06-15",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.l4d.or.kr/small/menu/10018/bbs/20001/bbsPostList.do"
+    },
+    {
+      "source": "l4d 도서관(추정)",
+      "sourceUrl": "https://www.l4d.or.kr/small/menu/10018/bbs/20001/bbsPostList.do",
+      "title": "[장안마루] 장안마루작은도서관 6/13(토) 도서관 앞 및 인근 도로 공사 안내",
+      "category": "공지",
+      "posted": "2026-06-11",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.l4d.or.kr/small/menu/10018/bbs/20001/bbsPostList.do"
+    },
+    {
+      "source": "l4d 도서관(추정)",
+      "sourceUrl": "https://www.l4d.or.kr/small/menu/10018/bbs/20001/bbsPostList.do",
+      "title": "[휘경1동새싹마루] [휘경1동새싹마루] 장서 점검 및 휴관 안내",
+      "category": "공지",
+      "posted": "2026-06-04",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.l4d.or.kr/small/menu/10018/bbs/20001/bbsPostList.do"
+    },
+    {
+      "source": "l4d 도서관(추정)",
+      "sourceUrl": "https://www.l4d.or.kr/small/menu/10018/bbs/20001/bbsPostList.do",
+      "title": "[장안꿈마루어린이] 2026년 동대문구탄소중립지원센터 협약 프로그램 안내",
+      "category": "공지",
+      "posted": "2026-05-27",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.l4d.or.kr/small/menu/10018/bbs/20001/bbsPostList.do"
+    },
+    {
+      "source": "l4d 도서관(추정)",
+      "sourceUrl": "https://www.l4d.or.kr/small/menu/10018/bbs/20001/bbsPostList.do",
+      "title": "[용두어울림] 2026년 동대문구탄소중립지원센터 협약 프로그램 안내",
+      "category": "공지",
+      "posted": "2026-05-20",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.l4d.or.kr/small/menu/10018/bbs/20001/bbsPostList.do"
+    },
+    {
+      "source": "l4d 도서관(추정)",
+      "sourceUrl": "https://www.l4d.or.kr/small/menu/10018/bbs/20001/bbsPostList.do",
+      "title": "[장안꿈마루어린이] 2026년 4월 \"문화가 있는 날\" 이벤트 두배로데이",
+      "category": "공지",
+      "posted": "2026-04-29",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.l4d.or.kr/small/menu/10018/bbs/20001/bbsPostList.do"
+    },
+    {
+      "source": "l4d 도서관(추정)",
+      "sourceUrl": "https://www.l4d.or.kr/small/menu/10018/bbs/20001/bbsPostList.do",
+      "title": "[용두어울림] 2026년 5월 가정의 달 행사 안내",
+      "category": "공지",
+      "posted": "2026-04-21",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.l4d.or.kr/small/menu/10018/bbs/20001/bbsPostList.do"
+    },
+    {
+      "source": "l4d 도서관(추정)",
+      "sourceUrl": "https://www.l4d.or.kr/small/menu/10018/bbs/20001/bbsPostList.do",
+      "title": "[장안마루] 장안마루작은도서관 2026년 도서관의 날·도서관 주간 『시끌벅적! 도서관 속으로』 행사 안내",
+      "category": "공지",
+      "posted": "2026-04-12",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.l4d.or.kr/small/menu/10018/bbs/20001/bbsPostList.do"
+    },
+    {
+      "source": "l4d 도서관(추정)",
+      "sourceUrl": "https://www.l4d.or.kr/small/menu/10018/bbs/20001/bbsPostList.do",
+      "title": "[장안꿈마루어린이] 2026년 2분기 북 큐레이션 「햇살 가득 봄나들이」",
+      "category": "공지",
+      "posted": "2026-04-08",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.l4d.or.kr/small/menu/10018/bbs/20001/bbsPostList.do"
     },
     {
       "source": "영등포문화재단",
