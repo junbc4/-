@@ -20,7 +20,7 @@ sites:
   - { name: 중구구립도서관,   url: "https://www.junggulib.or.kr/SJGL/menu/10095/bbs/20008/bbsPostList.do", wait_for: "table tr", settle_ms: 1500 }
   - { name: 광진정보도서관,   url: "https://www.gwangjinlib.seoul.kr/gjinfo/menu/10082/bbs/20003/bbsPostList.do", wait_for: "table tr", settle_ms: 1500 }
   - { name: 강북구립도서관,   url: "https://www.gblib.or.kr/gangbuk/board/notice_list.do", wait_for: "table tr", settle_ms: 1500 }
-  - { name: 은평구립도서관,   url: "https://lib.eplib.or.kr/infomation/recruit.asp", settle_ms: 1200 }
+  - { name: 은평구공공도서관,  url: "https://www.eplib.or.kr/intro/menu/10041/bbs/20002/bbsPostList.do", wait_for: "table tr", settle_ms: 1500 }  # 채용공고 게시판(교체됨)
   - { name: 서대문구립도서관, url: "https://lib.sdm.or.kr/sdmlib/menu/10115/bbs/20001/bbsPostList.do", wait_for: "table tr", settle_ms: 1500 }
   - { name: "양천구립도서관(yslibrary)", url: "https://www.yslibrary.or.kr/intro/unityNoticeList.do", wait_for: "table tr, .board li", settle_ms: 1500 }  # 교체된 목록 주소
   - { name: 강남구립도서관(통합), url: "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do", wait_for: "table tr", settle_ms: 1500 }
@@ -39,7 +39,7 @@ sites:
   - { name: 영등포문화재단,   url: "https://www.ydpcf.or.kr/board.do?bid=3", topics: *lib, wait_for: "table tr", settle_ms: 1500 }
   - { name: 동작문화재단(채용), url: "https://www.idfac.or.kr/bbs/board.php?bo_table=job", topics: *lib, settle_ms: 1200 }
   - { name: 서초문화재단(채용), url: "https://www.seochocf.or.kr/site/main/archive/post/category/공지사항?metaCode1=RECRUIT", topics: *lib, wait_for: ".board_list li, table tr", settle_ms: 2000 }  # SPA
-  - { name: 관악문화재단(채용/추정), url: "https://gfac.or.kr/site/main/recruit/accordionList", topics: *lib, wait_for: ".accordion li, table tr, .list li", settle_ms: 2000 }  # SPA
+  - { name: 관악문화재단(채용), url: "https://gfac.or.kr/site/main/recruit/accordionList", topics: *lib, wait_for: ".accordion li, table tr, .list li", settle_ms: 2000 }  # SPA. 이전 실행서 도메인 미해석 → 재실행 시 확인
   - { name: 금천문화재단(채용/추정), url: "https://gcfac.or.kr/board/recruit", topics: *lib, wait_for: "table tr, .board li", settle_ms: 1800 }
   - { name: 용산문화재단(추정), url: "https://yfac.kr/main/contents.do?a_num=78696582", topics: *lib, wait_for: "table tr, .list li", settle_ms: 1800 }
   - { name: 노원문화재단(채용), url: "https://www.nowonarts.kr/html/openspace/recruit.php", topics: *lib, settle_ms: 1200 }  # 이전 404 이력 — 첫 실행 시 확인
