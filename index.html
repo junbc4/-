@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>도서관·사서 채용 모아보기</title>
+<link rel="preconnect" href="https://cdn.jsdelivr.net" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css" />
+<style>
+  :root {
+    --paper: #FBFBF9;
+    --ink: #1A1D24;
+    --ink-soft: #565C68;
+    --line: #E7E5DF;
+    --card: #FFFFFF;
+    --navy: #234061;
+    --navy-soft: #EAF0F6;
+    --urgent: #C0392B;
+    --urgent-bg: #FBEAE7;
+    --soon: #B26A00;
+    --soon-bg: #FBF1E0;
+    --calm: #3B6B4A;
+    --calm-bg: #E9F2EC;
+    --closed: #9A9A93;
+    --closed-bg: #F0EFEB;
+    --new: #234061;
+    --radius: 12px;
+    --shadow: 0 1px 2px rgba(26,29,36,.04), 0 4px 14px rgba(26,29,36,.05);
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html { scroll-behavior: smooth; }
+  body {
+    font-family: "Pretendard", -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+    background: var(--paper);
+    color: var(--ink);
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+  }
+  .wrap { max-width: 880px; margin: 0 auto; padding: 0 20px; }
+
+  /* Header */
+  header.top {
+    padding: 40px 0 24px;
+    border-bottom: 1px solid var(--line);
+  }
+  .kicker {
+    font-size: 12px; font-weight: 600; letter-spacing: .12em;
+    color: var(--navy); text-transform: uppercase; margin-bottom: 10px;
+  }
+  h1 {
+    font-size: 30px; font-weight: 800; letter-spacing: -.02em; line-height: 1.2;
+  }
+  .lede { margin-top: 10px; color: var(--ink-soft); font-size: 15px; max-width: 620px; }
+  .demo-flag {
+    margin-top: 18px; display: inline-flex; align-items: center; gap: 8px;
+    background: var(--soon-bg); color: var(--soon);
+    font-size: 12.5px; font-weight: 600;
+    padding: 7px 12px; border-radius: 999px; border: 1px solid #F0D9AE;
+  }
+
+  /* Filter bar */
+  .filters {
+    position: sticky; top: 0; z-index: 20;
+    background: rgba(251,251,249,.9); backdrop-filter: blur(8px);
+    border-bottom: 1px solid var(--line);
+    padding: 14px 0;
+  }
+  .filters .row { display: flex; gap: 10px; flex-wrap: wrap; align-items: center; }
+  .search {
+    flex: 1 1 240px; min-width: 180px;
+    display: flex; align-items: center; gap: 8px;
+    background: var(--card); border: 1px solid var(--line);
+    border-radius: 10px; padding: 9px 12px;
+  }
+  .search input { border: none; outline: none; width: 100%; font-size: 14px; background: transparent; color: var(--ink); font-family: inherit; }
+  .search svg { flex: none; color: var(--ink-soft); }
+  select {
+    font-family: inherit; font-size: 13.5px; color: var(--ink);
+    background: var(--card); border: 1px solid var(--line);
+    border-radius: 10px; padding: 9px 30px 9px 12px; cursor: pointer;
+    appearance: none;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 24 24' fill='none' stroke='%23565C68' stroke-width='2.5'%3E%3Cpath d='M6 9l6 6 6-6'/%3E%3C/svg%3E");
+    background-repeat: no-repeat; background-position: right 10px center;
+  }
+  .toggle {
+    display: inline-flex; background: var(--card); border: 1px solid var(--line);
+    border-radius: 10px; padding: 3px; gap: 2px;
+  }
+  .toggle button {
+    font-family: inherit; font-size: 13px; font-weight: 600;
+    border: none; background: transparent; color: var(--ink-soft);
+    padding: 6px 12px; border-radius: 8px; cursor: pointer; transition: all .12s;
+  }
+  .toggle button[aria-pressed="true"] { background: var(--navy); color: #fff; }
+
+  /* Count */
+  .count { padding: 20px 0 4px; font-size: 13.5px; color: var(--ink-soft); }
+  .count b { color: var(--ink); }
+
+  /* List */
+  .list { padding: 12px 0 60px; display: flex; flex-direction: column; gap: 12px; }
+  .card {
+    background: var(--card); border: 1px solid var(--line);
+    border-radius: var(--radius); box-shadow: var(--shadow);
+    padding: 16px 18px; display: flex; gap: 14px; align-items: flex-start;
+    transition: border-color .12s, transform .12s;
+  }
+  .card:hover { border-color: #D6D3CB; }
+  .card .dchip {
+    flex: none; width: 62px; text-align: center;
+    border-radius: 10px; padding: 8px 4px;
+    display: flex; flex-direction: column; gap: 2px;
+  }
+  .dchip .dnum { font-size: 17px; font-weight: 800; letter-spacing: -.02em; line-height: 1; }
+  .dchip .dlabel { font-size: 10.5px; font-weight: 600; opacity: .8; }
+  .d-urgent { background: var(--urgent-bg); color: var(--urgent); }
+  .d-soon { background: var(--soon-bg); color: var(--soon); }
+  .d-calm { background: var(--calm-bg); color: var(--calm); }
+  .d-closed { background: var(--closed-bg); color: var(--closed); }
+
+  .card .body { flex: 1; min-width: 0; }
+  .card .meta-top { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; margin-bottom: 6px; }
+  .badge-src {
+    font-size: 11.5px; font-weight: 700; color: var(--navy);
+    background: var(--navy-soft); padding: 3px 9px; border-radius: 6px;
+  }
+  .tag {
+    font-size: 11px; font-weight: 600; padding: 2px 8px; border-radius: 6px;
+    border: 1px solid var(--line); color: var(--ink-soft);
+  }
+  .tag.recruit { color: var(--calm); border-color: #C5DECB; background: var(--calm-bg); }
+  .badge-new {
+    font-size: 10.5px; font-weight: 800; color: #fff; background: var(--new);
+    padding: 2px 7px; border-radius: 6px; letter-spacing: .02em;
+  }
+  .card h3 {
+    font-size: 15.5px; font-weight: 700; letter-spacing: -.01em; line-height: 1.4;
+    margin-bottom: 8px;
+  }
+  .card h3 a { color: var(--ink); text-decoration: none; }
+  .card h3 a:hover { text-decoration: underline; text-underline-offset: 2px; }
+  .card mark { background: #FDF3C4; color: inherit; padding: 0 1px; border-radius: 2px; }
+  .card .meta-bot { font-size: 12.5px; color: var(--ink-soft); display: flex; gap: 14px; flex-wrap: wrap; }
+  .card .meta-bot span { display: inline-flex; align-items: center; gap: 4px; }
+
+  .empty { text-align: center; padding: 60px 20px; color: var(--ink-soft); }
+  .empty b { color: var(--ink); display: block; margin-bottom: 6px; font-size: 15px; }
+
+  /* Footer */
+  footer {
+    border-top: 1px solid var(--line); padding: 28px 0 48px;
+    font-size: 12.5px; color: var(--ink-soft);
+  }
+  footer h4 { font-size: 13px; color: var(--ink); margin-bottom: 8px; font-weight: 700; }
+  footer p { margin-bottom: 6px; }
+  footer .srclist { margin-top: 12px; display: flex; flex-direction: column; gap: 4px; }
+  footer a { color: var(--navy); }
+
+  @media (max-width: 560px) {
+    h1 { font-size: 24px; }
+    .card { padding: 14px; gap: 10px; }
+    .card .dchip { width: 54px; }
+  }
+</style>
+</head>
+<body>
+
+<header class="top">
+  <div class="wrap">
+    <div class="kicker">Library · Librarian Jobs</div>
+    <h1>도서관·사서 채용 모아보기</h1>
+    <p class="lede">여러 문화재단·구립도서관 사이트에 흩어진 채용 공고를 한 곳에서. 관련 없는 일반 공지는 걸러내고, 마감이 임박한 순으로 보여줍니다.</p>
+    <div class="demo-flag">
+      ⚠️ 예시(데모) 데이터입니다 — 실제 크롤러 연결 전 화면 미리보기
+    </div>
+  </div>
+</header>
+
+<div class="filters">
+  <div class="wrap">
+    <div class="row">
+      <label class="search">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4-4"/></svg>
+        <input id="q" type="text" placeholder="제목·기관 검색 (예: 사서, 기간제, 성동)" />
+      </label>
+      <select id="src"><option value="">전체 기관</option></select>
+      <select id="sort">
+        <option value="deadline">마감임박순</option>
+        <option value="posted">최신 등록순</option>
+      </select>
+      <div class="toggle" role="group" aria-label="분류 필터">
+        <button id="only-recruit" aria-pressed="true">채용만</button>
+        <button id="show-all" aria-pressed="false">전체 공지</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<main class="wrap">
+  <div class="count" id="count"></div>
+  <div class="list" id="list"></div>
+</main>
+
+<footer>
+  <div class="wrap">
+    <h4>이 사이트는 어떻게 갱신되나요?</h4>
+    <p>현재 화면은 <b>예시 데이터</b>로 채워진 미리보기입니다. 실제 운영 시에는 각 기관 사이트를 자동으로 읽어(크롤링) 채용 관련 글만 추려 하루 몇 차례 갱신하도록 설계됩니다.</p>
+    <p>기관 사이트가 JavaScript로 목록을 그리는 구조라, 실제 수집에는 헤드리스 브라우저 방식이 필요합니다(배포 후 자동 처리).</p>
+    <div class="srclist">
+      <span>· 현재 <b>30개 기관</b>이 수집 대상으로 등록되어 있습니다 (구립도서관·문화재단·구청).</span>
+      <span>· 전체 목록·상태는 패키지의 <b>sites.yaml / README.md</b>에서 확인·수정할 수 있습니다.</span>
+    </div>
+  </div>
+</footer>
+
+<script>
+/* ============================================================
+   데이터 스키마 (크롤러가 만들어낼 postings.json 과 동일 구조)
+   ------------------------------------------------------------
+   source     : 기관명
+   sourceUrl  : 기관 목록 페이지
+   title      : 공고 제목
+   category   : '채용' | '공지'  (isRecruit 판정 결과)
+   posted     : 등록일 (YYYY-MM-DD)
+   deadline   : 마감일 (YYYY-MM-DD) | null
+   link       : 원문 링크
+   ------------------------------------------------------------
+   ※ 아래는 예시 데이터. 일부는 검색으로 확인된 실제 공고를
+      반영했고, 나머지는 화면 구성을 위한 가상 예시입니다.
+   ============================================================ */
+const TODAY = new Date();
+const iso = d => d.toISOString().slice(0,10);
+const plus = n => { const d = new Date(TODAY); d.setDate(d.getDate()+n); return iso(d); };
+
+// 실데이터 로드 실패 시 보여줄 폴백 예시(미리보기용)
+const SAMPLE = [
+  { source:"성동문화재단", title:"성동구립성수도서관 기간제근로자(초단시간) 채용 — 열람실 운영(사서보조)",
+    category:"채용", posted:plus(-2), deadline:plus(9), link:"https://www.sdfac.or.kr/kor/recruit/app/empmn_list.do" },
+  { source:"성동문화재단", title:"성동문화재단 일반직 8급(사서) 직원 채용 공고",
+    category:"채용", posted:plus(-1), deadline:plus(2), link:"https://www.sdfac.or.kr/kor/recruit/app/empmn_list.do" },
+  { source:"성동문화재단", title:"[안내] 재단 홈페이지 정기 서버점검 실시 안내",
+    category:"공지", posted:plus(-3), deadline:null, link:"https://www.sdfac.or.kr/kor/recruit/app/empmn_list.do" },
+  { source:"서초구립도서관", title:"서초구립반포도서관 자료실 운영 사서(기간제근로자) 채용 공고",
+    category:"채용", posted:plus(0), deadline:plus(5), link:"https://www.seocholib.or.kr/NoticeInfo" },
+  { source:"서초구립도서관", title:"2026년 서초구립도서관 통합 사서(정규직) 공개채용 시행 공고",
+    category:"채용", posted:plus(-1), deadline:plus(14), link:"https://www.seocholib.or.kr/NoticeInfo" },
+  { source:"서초구립도서관", title:"도서관 휴관일 변경 및 자료 대출 연장 안내",
+    category:"공지", posted:plus(-5), deadline:null, link:"https://www.seocholib.or.kr/NoticeInfo" },
+];
+
+let DATA = SAMPLE;      // 우선 폴백으로 시작
+let IS_LIVE = false;    // data.json 로드 성공 여부
+let GENERATED_AT = null;
+
+/* ---------- 렌더링 ---------- */
+const $ = s => document.querySelector(s);
+const listEl = $("#list"), countEl = $("#count");
+const state = { q:"", src:"", sort:"deadline", onlyRecruit:true };
+
+// 기관 드롭다운 채우기
+[...new Set(DATA.map(d=>d.source))].forEach(s=>{
+  const o=document.createElement("option"); o.value=s; o.textContent=s; $("#src").appendChild(o);
+});
+
+function dday(deadline){
+  if(!deadline) return {txt:"상시", cls:"d-calm", n:9999};
+  const d=new Date(deadline+"T23:59:59");
+  const diff=Math.ceil((d-TODAY)/(1000*60*60*24));
+  if(diff<0) return {txt:"마감", cls:"d-closed", n:diff, closed:true};
+  if(diff===0) return {txt:"D-day", cls:"d-urgent", n:0};
+  let cls = diff<=3 ? "d-urgent" : diff<=7 ? "d-soon" : "d-calm";
+  return {txt:"D-"+diff, cls, n:diff};
+}
+function isNew(posted){
+  const diff=(TODAY-new Date(posted+"T00:00:00"))/(1000*60*60*24);
+  return diff<=2;
+}
+function esc(s){return s.replace(/[&<>]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;"}[c]));}
+function hl(s,q){
+  if(!q) return esc(s);
+  const re=new RegExp("("+q.replace(/[.*+?^${}()|[\]\\]/g,"\\$&")+")","gi");
+  return esc(s).replace(re,"<mark>$1</mark>");
+}
+
+function render(){
+  let rows = DATA.filter(d=>{
+    if(state.onlyRecruit && d.category!=="채용") return false;
+    if(state.src && d.source!==state.src) return false;
+    if(state.q){
+      const q=state.q.toLowerCase();
+      if(!(d.title.toLowerCase().includes(q)||d.source.toLowerCase().includes(q))) return false;
+    }
+    return true;
+  });
+
+  rows.sort((a,b)=>{
+    if(state.sort==="posted") return b.posted.localeCompare(a.posted);
+    // 마감임박순: 마감 안 지난 것 우선, 그 안에서 D-day 오름차순, 상시/마감은 뒤로
+    const da=dday(a.deadline), db=dday(b.deadline);
+    const ka = da.closed ? 100000 : da.n;
+    const kb = db.closed ? 100000 : db.n;
+    return ka-kb;
+  });
+
+  const recruitCount = DATA.filter(d=>d.category==="채용").length;
+  countEl.innerHTML = state.onlyRecruit
+    ? `채용 공고 <b>${rows.length}</b>건 (전체 채용 ${recruitCount}건 중 필터 결과)`
+    : `전체 <b>${rows.length}</b>건 표시 중 · 채용 ${recruitCount}건`;
+
+  if(rows.length===0){
+    listEl.innerHTML=`<div class="empty"><b>조건에 맞는 공고가 없습니다</b>검색어나 필터를 바꿔보세요.</div>`;
+    return;
+  }
+
+  listEl.innerHTML = rows.map(d=>{
+    const dd=dday(d.deadline);
+    const [dnum,dlab] = dd.txt==="상시" ? ["상시",""] : dd.txt==="마감" ? ["마감",""] : dd.txt==="D-day" ? ["D-","day"] : [dd.txt,"남음"];
+    return `
+    <article class="card">
+      <div class="dchip ${dd.cls}">
+        <span class="dnum">${dnum}</span>
+        ${dlab?`<span class="dlabel">${dlab}</span>`:""}
+      </div>
+      <div class="body">
+        <div class="meta-top">
+          <span class="badge-src">${esc(d.source)}</span>
+          <span class="tag ${d.category==="채용"?"recruit":""}">${d.category}</span>
+          ${isNew(d.posted)?`<span class="badge-new">NEW</span>`:""}
+        </div>
+        <h3><a href="${d.link}" target="_blank" rel="noopener">${hl(d.title,state.q)}</a></h3>
+        <div class="meta-bot">
+          <span>📅 등록 ${d.posted}</span>
+          ${d.deadline?`<span>⏳ 마감 ${d.deadline}</span>`:`<span>⏳ 상시접수</span>`}
+        </div>
+      </div>
+    </article>`;
+  }).join("");
+}
+
+/* ---------- 이벤트 ---------- */
+$("#q").addEventListener("input", e=>{ state.q=e.target.value.trim(); render(); });
+$("#src").addEventListener("change", e=>{ state.src=e.target.value; render(); });
+$("#sort").addEventListener("change", e=>{ state.sort=e.target.value; render(); });
+$("#only-recruit").addEventListener("click", ()=>{
+  state.onlyRecruit=true; $("#only-recruit").setAttribute("aria-pressed","true"); $("#show-all").setAttribute("aria-pressed","false"); render();
+});
+$("#show-all").addEventListener("click", ()=>{
+  state.onlyRecruit=false; $("#show-all").setAttribute("aria-pressed","true"); $("#only-recruit").setAttribute("aria-pressed","false"); render();
+});
+
+// ---- 실데이터(data.json) 로드 ----
+function refreshSourceOptions(){
+  const sel=$("#src"); const cur=sel.value;
+  sel.innerHTML='<option value="">전체 기관</option>';
+  [...new Set(DATA.map(d=>d.source))].forEach(s=>{
+    const o=document.createElement("option"); o.value=s; o.textContent=s; sel.appendChild(o);
+  });
+  sel.value=cur;
+}
+function updateFlag(){
+  const flag=document.querySelector(".demo-flag");
+  if(IS_LIVE){
+    const when = GENERATED_AT ? new Date(GENERATED_AT).toLocaleString("ko-KR") : "";
+    flag.style.background="var(--calm-bg)"; flag.style.color="var(--calm)"; flag.style.borderColor="#C5DECB";
+    flag.innerHTML = `✅ 자동 수집 데이터 · 최종 갱신 ${when}`;
+  }
+}
+fetch("data.json", {cache:"no-store"})
+  .then(r=>{ if(!r.ok) throw new Error("no data.json"); return r.json(); })
+  .then(j=>{
+    if(j && Array.isArray(j.postings) && j.postings.length){
+      DATA = j.postings; IS_LIVE = true; GENERATED_AT = j.generatedAt || null;
+      refreshSourceOptions(); updateFlag();
+    }
+    render();
+  })
+  .catch(()=>{ render(); });  // data.json 없으면 폴백 예시로 표시
+
+render();
+</script>
+</body>
+</html>
