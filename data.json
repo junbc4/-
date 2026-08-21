@@ -1,116 +1,7 @@
 {
-  "generatedAt": "2026-08-21T14:25:36+00:00",
-  "count": 30,
-  "errors": [
-    {
-      "source": "은평구립도서관",
-      "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://lib.eplib.or.kr/infomation/recruit.asp\nCall log:\nnavigating to \"https://lib.eplib.or.kr/infomation/recruit.asp\", waiting until \"domcontentloaded\"\n"
-    },
-    {
-      "source": "서대문구립도서관",
-      "error": "Page.goto: Navigation to \"https://lib.sdm.or.kr/sdmlib/menu/10115/bbs/20001/bbsPostList.do\" is interrupted by another navigation to \"chrome-error://chromewebdata/\"\nCall log:\nnavigating to \"https://lib.sdm.or.kr/sdmlib/menu/10115/bbs/20001/bbsPostList.do\", waiting until \"domcontentloaded\"\n"
-    },
-    {
-      "source": "양천구립도서관(yslibrary)",
-      "error": "Page.goto: Navigation to \"https://www.yslibrary.or.kr/intro/unityNoticeList.do\" is interrupted by another navigation to \"https://lib.sdm.or.kr/sdmlib/menu/10115/bbs/20001/bbsPostList.do\"\nCall log:\nnavigating to \"https://www.yslibrary.or.kr/intro/unityNoticeList.do\", waiting until \"domcontentloaded\"\n"
-    },
-    {
-      "source": "강남구립도서관(통합)",
-      "error": "Page.goto: Navigation to \"https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do\" is interrupted by another navigation to \"https://www.yslibrary.or.kr/intro/unityNoticeList.do\"\nCall log:\nnavigating to \"https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do\", waiting until \"domcontentloaded\"\n"
-    },
-    {
-      "source": "강남 논현도서관",
-      "error": "Page.goto: Navigation to \"https://library.gangnam.go.kr/nhlib/menu/12440/bbs/20290/bbsPostList.do\" is interrupted by another navigation to \"https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do\"\nCall log:\nnavigating to \"https://library.gangnam.go.kr/nhlib/menu/12440/bbs/20290/bbsPostList.do\", waiting until \"domcontentloaded\"\n"
-    },
-    {
-      "source": "강남 역삼도서관",
-      "error": "Page.goto: Navigation to \"https://library.gangnam.go.kr/yllib/menu/12451/bbs/20301/bbsPostList.do\" is interrupted by another navigation to \"https://library.gangnam.go.kr/nhlib/menu/12440/bbs/20290/bbsPostList.do\"\nCall log:\nnavigating to \"https://library.gangnam.go.kr/yllib/menu/12451/bbs/20301/bbsPostList.do\", waiting until \"domcontentloaded\"\n"
-    },
-    {
-      "source": "강남 도곡도서관",
-      "error": "Page.goto: Navigation to \"https://library.gangnam.go.kr/dch1lib/menu/12442/bbs/20292/bbsPostList.do\" is interrupted by another navigation to \"https://library.gangnam.go.kr/yllib/menu/12451/bbs/20301/bbsPostList.do\"\nCall log:\nnavigating to \"https://library.gangnam.go.kr/dch1lib/menu/12442/bbs/20292/bbsPostList.do\", waiting until \"domcontentloaded\"\n"
-    },
-    {
-      "source": "강동구립도서관",
-      "error": "Page.goto: Navigation to \"https://www.gdlibrary.or.kr/portal/menu/51/board/1/list\" is interrupted by another navigation to \"https://library.gangnam.go.kr/dch1lib/menu/12442/bbs/20292/bbsPostList.do\"\nCall log:\nnavigating to \"https://www.gdlibrary.or.kr/portal/menu/51/board/1/list\", waiting until \"domcontentloaded\"\n"
-    },
-    {
-      "source": "l4d 도서관(추정)",
-      "error": "Page.goto: Navigation to \"https://www.l4d.or.kr/small/menu/10018/bbs/20001/bbsPostList.do\" is interrupted by another navigation to \"https://www.gdlibrary.or.kr/portal/menu/51/board/1/list\"\nCall log:\nnavigating to \"https://www.l4d.or.kr/small/menu/10018/bbs/20001/bbsPostList.do\", waiting until \"domcontentloaded\"\n"
-    },
-    {
-      "source": "성동문화재단(채용)",
-      "error": "Page.goto: Navigation to \"https://www.sdfac.or.kr/kor/recruit/app/empmn_list.do?gotoMenuNo=03010000\" is interrupted by another navigation to \"https://www.l4d.or.kr/small/menu/10018/bbs/20001/bbsPostList.do\"\nCall log:\nnavigating to \"https://www.sdfac.or.kr/kor/recruit/app/empmn_list.do?gotoMenuNo=03010000\", waiting until \"domcontentloaded\"\n"
-    },
-    {
-      "source": "종로문화재단(채용정보)",
-      "error": "Page.goto: Navigation to \"https://www.jfac.or.kr/site/main/archive/post/category/%EC%B1%84%EC%9A%A9%EC%A0%95%EB%B3%B4\" is interrupted by another navigation to \"https://www.sdfac.or.kr/kor/recruit/app/empmn_list.do?gotoMenuNo=03010000\"\nCall log:\nnavigating to \"https://www.jfac.or.kr/site/main/archive/post/category/%EC%B1%84%EC%9A%A9%EC%A0%95%EB%B3%B4\", waiting until \"domcontentloaded\"\n"
-    },
-    {
-      "source": "광진문화재단(나루아트/채용)",
-      "error": "Page.goto: Navigation to \"https://www.naruart.or.kr/community/recruit_list.php\" is interrupted by another navigation to \"https://www.jfac.or.kr/site/main/archive/post/category/%EC%B1%84%EC%9A%A9%EC%A0%95%EB%B3%B4\"\nCall log:\nnavigating to \"https://www.naruart.or.kr/community/recruit_list.php\", waiting until \"domcontentloaded\"\n"
-    },
-    {
-      "source": "성북문화재단",
-      "error": "Page.goto: Timeout 45000ms exceeded.\nCall log:\nnavigating to \"https://www.sbculture.or.kr/culture/bbs/BMSR00034/list.do?menuNo=500348\", waiting until \"domcontentloaded\"\n"
-    },
-    {
-      "source": "관악문화재단(채용/추정)",
-      "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://gfac.or.kr/site/main/recruit/accordionList\nCall log:\nnavigating to \"https://gfac.or.kr/site/main/recruit/accordionList\", waiting until \"domcontentloaded\"\n"
-    },
-    {
-      "source": "금천문화재단(채용/추정)",
-      "error": "Page.goto: Navigation to \"https://gcfac.or.kr/board/recruit\" is interrupted by another navigation to \"chrome-error://chromewebdata/\"\nCall log:\nnavigating to \"https://gcfac.or.kr/board/recruit\", waiting until \"domcontentloaded\"\n"
-    },
-    {
-      "source": "용산문화재단(추정)",
-      "error": "Page.goto: Navigation to \"https://yfac.kr/main/contents.do?a_num=78696582\" is interrupted by another navigation to \"https://gcfac.or.kr/board/recruit\"\nCall log:\nnavigating to \"https://yfac.kr/main/contents.do?a_num=78696582\", waiting until \"domcontentloaded\"\n"
-    },
-    {
-      "source": "노원문화재단(채용)",
-      "error": "Page.goto: Navigation to \"https://www.nowonarts.kr/html/openspace/recruit.php\" is interrupted by another navigation to \"https://yfac.kr/main/contents.do?a_num=78696582\"\nCall log:\nnavigating to \"https://www.nowonarts.kr/html/openspace/recruit.php\", waiting until \"domcontentloaded\"\n"
-    },
-    {
-      "source": "강북문화(brms/추정)",
-      "error": "Page.goto: Navigation to \"https://gbcmc.brms.kr/posting\" is interrupted by another navigation to \"https://www.nowonarts.kr/html/openspace/recruit.php\"\nCall log:\nnavigating to \"https://gbcmc.brms.kr/posting\", waiting until \"domcontentloaded\"\n"
-    },
-    {
-      "source": "dfmc(채용/추정)",
-      "error": "Page.goto: Navigation to \"https://www.dfmc.kr/course/announce/recruit_li.asp\" is interrupted by another navigation to \"https://gbcmc.brms.kr/posting/view?id=1905\"\nCall log:\nnavigating to \"https://www.dfmc.kr/course/announce/recruit_li.asp\", waiting until \"domcontentloaded\"\n"
-    },
-    {
-      "source": "caci(공지)",
-      "error": "Page.goto: Navigation to \"https://www.caci.or.kr/community/notice\" is interrupted by another navigation to \"https://www.dfmc.kr/course/announce/recruit_li.asp\"\nCall log:\nnavigating to \"https://www.caci.or.kr/community/notice\", waiting until \"domcontentloaded\"\n"
-    },
-    {
-      "source": "sscmc 고시공고(추정)",
-      "error": "Page.goto: Navigation to \"https://www.sscmc.or.kr/bbs/board.php?bo_table=gosi_gonggo\" is interrupted by another navigation to \"https://www.caci.or.kr/community/notice\"\nCall log:\nnavigating to \"https://www.sscmc.or.kr/bbs/board.php?bo_table=gosi_gonggo\", waiting until \"domcontentloaded\"\n"
-    },
-    {
-      "source": "중구청",
-      "error": "Page.goto: Navigation to \"https://www.junggu.seoul.kr/content.do?cmsid=15450\" is interrupted by another navigation to \"https://www.sscmc.or.kr/bbs/board.php?bo_table=gosi_gonggo\"\nCall log:\nnavigating to \"https://www.junggu.seoul.kr/content.do?cmsid=15450\", waiting until \"domcontentloaded\"\n"
-    },
-    {
-      "source": "마포구청",
-      "error": "Page.goto: Navigation to \"https://www.mapo.go.kr/site/main/nPortalr/lists\" is interrupted by another navigation to \"https://www.junggu.seoul.kr/content.do?cmsid=15450\"\nCall log:\nnavigating to \"https://www.mapo.go.kr/site/main/nPortalr/lists\", waiting until \"domcontentloaded\"\n"
-    },
-    {
-      "source": "강서구청(고시공고)",
-      "error": "Page.goto: Navigation to \"https://eminwon.gangseo.seoul.kr/emwp/jsp/ofr/OfrNotAncmtL.jsp?not_ancmt_se_code=05&epcCheck=Y&list_gubun=A&recent_mm=3&dep_se=%25&subcheck=Y\" is interrupted by another navigation to \"https://www.mapo.go.kr/site/main/nPortalr/lists\"\nCall log:\nnavigating to \"https://eminwon.gangseo.seoul.kr/emwp/jsp/ofr/OfrNotAncmtL.jsp?not_ancmt_se_code=05&epcCheck=Y&list_gubun=A&recent_mm=3&dep_se=%25&subcheck=Y\", waiting until \"domcontentloaded\"\n"
-    },
-    {
-      "source": "구로구청(채용정보)",
-      "error": "Page.goto: Navigation to \"https://www.guro.go.kr/www/selectBbsNttList.do?bbsNo=664&key=1792\" is interrupted by another navigation to \"https://eminwon.gangseo.seoul.kr/emwp/jsp/ofr/OfrNotAncmtL.jsp?not_ancmt_se_code=05&epcCheck=Y&list_gubun=A&recent_mm=3&dep_se=%25&subcheck=Y\"\nCall log:\nnavigating to \"https://www.guro.go.kr/www/selectBbsNttList.do?bbsNo=664&key=1792\", waiting until \"domcontentloaded\"\n"
-    },
-    {
-      "source": "송파문화재단(Incruit)",
-      "error": "Page.goto: Navigation to \"https://recruit.incruit.com/songpafac/\" is interrupted by another navigation to \"https://www.guro.go.kr/www/selectBbsNttList.do?bbsNo=664&key=1792\"\nCall log:\nnavigating to \"https://recruit.incruit.com/songpafac/\", waiting until \"domcontentloaded\"\n"
-    },
-    {
-      "source": "강동문화재단(Incruit)",
-      "error": "Page.goto: Navigation to \"https://recruit.incruit.com/gdfac/\" is interrupted by another navigation to \"https://recruit.incruit.com/songpafac/\"\nCall log:\nnavigating to \"https://recruit.incruit.com/gdfac/\", waiting until \"domcontentloaded\"\n"
-    }
-  ],
+  "generatedAt": "2026-08-21T15:08:00+00:00",
+  "count": 93,
+  "errors": [],
   "postings": [
     {
       "source": "광진정보도서관",
@@ -323,6 +214,596 @@
       "link": "https://www.gblib.or.kr/gangbuk/board/notice_list.do"
     },
     {
+      "source": "은평구공공도서관",
+      "sourceUrl": "https://www.eplib.or.kr/intro/menu/10041/bbs/20002/bbsPostList.do",
+      "title": "「내를 건너서 숲으로 도서관」 (계약직)환경미화 서류심사 합격자 발표 및 면접심사 공고",
+      "category": "공지",
+      "posted": "2026-08-19",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.eplib.or.kr/intro/menu/10041/bbs/20002/bbsPostList.do"
+    },
+    {
+      "source": "은평구공공도서관",
+      "sourceUrl": "https://www.eplib.or.kr/intro/menu/10041/bbs/20002/bbsPostList.do",
+      "title": "「내를 건너서 숲으로 도서관」 (계약직)환경미화 공개 채용 공고(~8.17)",
+      "category": "채용",
+      "posted": "2026-08-04",
+      "deadline": "2027-08-17",
+      "deadlineEstimated": true,
+      "link": "https://www.eplib.or.kr/intro/menu/10041/bbs/20002/bbsPostList.do"
+    },
+    {
+      "source": "은평구공공도서관",
+      "sourceUrl": "https://www.eplib.or.kr/intro/menu/10041/bbs/20002/bbsPostList.do",
+      "title": "은평구립도서관 정규직(사서)·계약직(육아휴직대체 사서) 직원 공개경쟁채용 공고(~8/7)",
+      "category": "채용",
+      "posted": "2026-07-28",
+      "deadline": "2027-08-07",
+      "deadlineEstimated": true,
+      "link": "https://www.eplib.or.kr/intro/menu/10041/bbs/20002/bbsPostList.do"
+    },
+    {
+      "source": "은평구공공도서관",
+      "sourceUrl": "https://www.eplib.or.kr/intro/menu/10041/bbs/20002/bbsPostList.do",
+      "title": "은뜨락도서관 직원 채용 최종합격자 발표(정규직 5급 행정)",
+      "category": "채용",
+      "posted": "2026-07-07",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.eplib.or.kr/intro/menu/10041/bbs/20002/bbsPostList.do"
+    },
+    {
+      "source": "은평구공공도서관",
+      "sourceUrl": "https://www.eplib.or.kr/intro/menu/10041/bbs/20002/bbsPostList.do",
+      "title": "서류전형심사 합격자 발표 및 면접심사 공고 (정규직 도서관 5급 행정)",
+      "category": "공지",
+      "posted": "2026-06-30",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.eplib.or.kr/intro/menu/10041/bbs/20002/bbsPostList.do"
+    },
+    {
+      "source": "은평구공공도서관",
+      "sourceUrl": "https://www.eplib.or.kr/intro/menu/10041/bbs/20002/bbsPostList.do",
+      "title": "기간제 사서(개관시간 연장사업) 최종 합격자 공고",
+      "category": "채용",
+      "posted": "2026-06-17",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.eplib.or.kr/intro/menu/10041/bbs/20002/bbsPostList.do"
+    },
+    {
+      "source": "은평구공공도서관",
+      "sourceUrl": "https://www.eplib.or.kr/intro/menu/10041/bbs/20002/bbsPostList.do",
+      "title": "2026-020호 은뜨락도서관 정규직 직원 채용 공고(행정)",
+      "category": "채용",
+      "posted": "2026-06-16",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.eplib.or.kr/intro/menu/10041/bbs/20002/bbsPostList.do"
+    },
+    {
+      "source": "은평구공공도서관",
+      "sourceUrl": "https://www.eplib.or.kr/intro/menu/10041/bbs/20002/bbsPostList.do",
+      "title": "「내를 건너서 숲으로 도서관」 (계약직)개관연장 사서 면접심사 합격자 발표",
+      "category": "공지",
+      "posted": "2026-06-15",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.eplib.or.kr/intro/menu/10041/bbs/20002/bbsPostList.do"
+    },
+    {
+      "source": "은평구공공도서관",
+      "sourceUrl": "https://www.eplib.or.kr/intro/menu/10041/bbs/20002/bbsPostList.do",
+      "title": "기간제 사서(개관시간 연장사업) 서류심사 합격자 발표 및 면접 심사 공고",
+      "category": "채용",
+      "posted": "2026-06-11",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.eplib.or.kr/intro/menu/10041/bbs/20002/bbsPostList.do"
+    },
+    {
+      "source": "은평구공공도서관",
+      "sourceUrl": "https://www.eplib.or.kr/intro/menu/10041/bbs/20002/bbsPostList.do",
+      "title": "「내를 건너서 숲으로 도서관」 (계약직)개관연장 사서 서류심사 합격자 발표 및 면접심사 공고",
+      "category": "공지",
+      "posted": "2026-06-09",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.eplib.or.kr/intro/menu/10041/bbs/20002/bbsPostList.do"
+    },
+    {
+      "source": "서대문구립도서관",
+      "sourceUrl": "https://lib.sdm.or.kr/sdmlib/menu/10115/bbs/20001/bbsPostList.do",
+      "title": "2026년 하반기 서대문구 작은도서관 어린이 독서동아리 회원모집",
+      "category": "공지",
+      "posted": "2026-08-10",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://lib.sdm.or.kr/sdmlib/menu/10115/bbs/20001/bbsPostList.do"
+    },
+    {
+      "source": "서대문구립도서관",
+      "sourceUrl": "https://lib.sdm.or.kr/sdmlib/menu/10115/bbs/20001/bbsPostList.do",
+      "title": "해담는도서관 2026년 제2기 독서동아리 모집",
+      "category": "공지",
+      "posted": "2026-08-10",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://lib.sdm.or.kr/sdmlib/menu/10115/bbs/20001/bbsPostList.do"
+    },
+    {
+      "source": "서대문구립도서관",
+      "sourceUrl": "https://lib.sdm.or.kr/sdmlib/menu/10115/bbs/20001/bbsPostList.do",
+      "title": "서대문구립도서관 2026 독서의 달 행사 안내",
+      "category": "공지",
+      "posted": "2026-08-04",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://lib.sdm.or.kr/sdmlib/menu/10115/bbs/20001/bbsPostList.do"
+    },
+    {
+      "source": "서대문구립도서관",
+      "sourceUrl": "https://lib.sdm.or.kr/sdmlib/menu/10115/bbs/20001/bbsPostList.do",
+      "title": "스포티독(Sporty讀) 서대문 : 홍은도담도서관 서대문 리딩크루 독서모임 (2026년 제2기 독서동아리) 모집",
+      "category": "공지",
+      "posted": "2026-08-01",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://lib.sdm.or.kr/sdmlib/menu/10115/bbs/20001/bbsPostList.do"
+    },
+    {
+      "source": "서대문구립도서관",
+      "sourceUrl": "https://lib.sdm.or.kr/sdmlib/menu/10115/bbs/20001/bbsPostList.do",
+      "title": "스포티독(Sporty讀)서대문 '90일간 FEEL 독서 챌린지' 참여자 모집 안내",
+      "category": "공지",
+      "posted": "2026-08-01",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://lib.sdm.or.kr/sdmlib/menu/10115/bbs/20001/bbsPostList.do"
+    },
+    {
+      "source": "서대문구립도서관",
+      "sourceUrl": "https://lib.sdm.or.kr/sdmlib/menu/10115/bbs/20001/bbsPostList.do",
+      "title": "남가좌새롬어린이도서관 서대문 리딩크루 멤버 모집 (2026년 제2기 독서동아리) 모집",
+      "category": "공지",
+      "posted": "2026-07-30",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://lib.sdm.or.kr/sdmlib/menu/10115/bbs/20001/bbsPostList.do"
+    },
+    {
+      "source": "서대문구립도서관",
+      "sourceUrl": "https://lib.sdm.or.kr/sdmlib/menu/10115/bbs/20001/bbsPostList.do",
+      "title": "해담는도서관 개관 1주년 기념 행사 🎉함께 담은 365일🎉",
+      "category": "공지",
+      "posted": "2026-07-15",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://lib.sdm.or.kr/sdmlib/menu/10115/bbs/20001/bbsPostList.do"
+    },
+    {
+      "source": "서대문구립도서관",
+      "sourceUrl": "https://lib.sdm.or.kr/sdmlib/menu/10115/bbs/20001/bbsPostList.do",
+      "title": "[2026 스포티독(Sporty讀) 서대문] 나의 독서 포지션 테스트 및 프로그램 소개",
+      "category": "공지",
+      "posted": "2026-06-18",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://lib.sdm.or.kr/sdmlib/menu/10115/bbs/20001/bbsPostList.do"
+    },
+    {
+      "source": "서대문구립도서관",
+      "sourceUrl": "https://lib.sdm.or.kr/sdmlib/menu/10115/bbs/20001/bbsPostList.do",
+      "title": "해담는도서관 자원활동가 모집",
+      "category": "채용",
+      "posted": "2026-08-13",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://lib.sdm.or.kr/sdmlib/menu/10115/bbs/20001/bbsPostList.do"
+    },
+    {
+      "source": "서대문구립도서관",
+      "sourceUrl": "https://lib.sdm.or.kr/sdmlib/menu/10115/bbs/20001/bbsPostList.do",
+      "title": "해담는도서관 견학 프로그램 신청 안내",
+      "category": "공지",
+      "posted": "2026-08-13",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://lib.sdm.or.kr/sdmlib/menu/10115/bbs/20001/bbsPostList.do"
+    },
+    {
+      "source": "양천구립도서관(yslibrary)",
+      "sourceUrl": "https://www.yslibrary.or.kr/intro/unityNoticeList.do",
+      "title": "[꿈나무] [성인 글쓰기 강연] 내가 살고있는 용산, 글로 기록하다 (우리 동네 아카이빙 연계 사업)",
+      "category": "공지",
+      "posted": "2026-08-21",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.yslibrary.or.kr/intro/unityNoticeList.do"
+    },
+    {
+      "source": "양천구립도서관(yslibrary)",
+      "sourceUrl": "https://www.yslibrary.or.kr/intro/unityNoticeList.do",
+      "title": "[효창동] \"맛있는 시간, 오늘은 나도 쉐프\"",
+      "category": "공지",
+      "posted": "2026-08-14",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.yslibrary.or.kr/intro/unityNoticeList.do"
+    },
+    {
+      "source": "양천구립도서관(yslibrary)",
+      "sourceUrl": "https://www.yslibrary.or.kr/intro/unityNoticeList.do",
+      "title": "[푸르미르] \"과학을 열다\"",
+      "category": "공지",
+      "posted": "2026-08-11",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.yslibrary.or.kr/intro/unityNoticeList.do"
+    },
+    {
+      "source": "양천구립도서관(yslibrary)",
+      "sourceUrl": "https://www.yslibrary.or.kr/intro/unityNoticeList.do",
+      "title": "[꿈나무] [지역상생 도서추천 8월호] 독립서점 별책부록과 함께하는 도서 추천 리스트",
+      "category": "공지",
+      "posted": "2026-08-06",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.yslibrary.or.kr/intro/unityNoticeList.do"
+    },
+    {
+      "source": "양천구립도서관(yslibrary)",
+      "sourceUrl": "https://www.yslibrary.or.kr/intro/unityNoticeList.do",
+      "title": "[원효로2동] \"맛있는 여름, 나도 쉐프\"",
+      "category": "공지",
+      "posted": "2026-08-06",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.yslibrary.or.kr/intro/unityNoticeList.do"
+    },
+    {
+      "source": "양천구립도서관(yslibrary)",
+      "sourceUrl": "https://www.yslibrary.or.kr/intro/unityNoticeList.do",
+      "title": "[청파영어] 청파어린이영어도서관 2026년 8월 일정 안내",
+      "category": "공지",
+      "posted": "2026-08-06",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.yslibrary.or.kr/intro/unityNoticeList.do"
+    },
+    {
+      "source": "양천구립도서관(yslibrary)",
+      "sourceUrl": "https://www.yslibrary.or.kr/intro/unityNoticeList.do",
+      "title": "[푸르미르] \"우주탐험여행\"_별과 행성의 비밀을 찾아서",
+      "category": "공지",
+      "posted": "2026-07-10",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.yslibrary.or.kr/intro/unityNoticeList.do"
+    },
+    {
+      "source": "양천구립도서관(yslibrary)",
+      "sourceUrl": "https://www.yslibrary.or.kr/intro/unityNoticeList.do",
+      "title": "[효창동] \"수학을 열다\"",
+      "category": "공지",
+      "posted": "2026-06-25",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.yslibrary.or.kr/intro/unityNoticeList.do"
+    },
+    {
+      "source": "양천구립도서관(yslibrary)",
+      "sourceUrl": "https://www.yslibrary.or.kr/intro/unityNoticeList.do",
+      "title": "[푸르미르] \" 책과 함께 떠나는 즐거운 수학 여행! \"",
+      "category": "공지",
+      "posted": "2026-06-24",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.yslibrary.or.kr/intro/unityNoticeList.do"
+    },
+    {
+      "source": "양천구립도서관(yslibrary)",
+      "sourceUrl": "https://www.yslibrary.or.kr/intro/unityNoticeList.do",
+      "title": "[한강로동] 어른들을 위한 초록 테라피",
+      "category": "공지",
+      "posted": "2026-06-15",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.yslibrary.or.kr/intro/unityNoticeList.do"
+    },
+    {
+      "source": "강남구립도서관(통합)",
+      "sourceUrl": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do",
+      "title": "청담 [청담도서관] 9월 휴관일 안내",
+      "category": "공지",
+      "posted": "2026-08-21",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do"
+    },
+    {
+      "source": "강남구립도서관(통합)",
+      "sourceUrl": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do",
+      "title": "못골 [못골도서관] 2026년 8월 1차 신착도서 안내 (원서)",
+      "category": "공지",
+      "posted": "2026-08-21",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do"
+    },
+    {
+      "source": "강남구립도서관(통합)",
+      "sourceUrl": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do",
+      "title": "못골 [못골도서관] 2026년 8월 1차 신착도서 안내 (아동 그림책)",
+      "category": "공지",
+      "posted": "2026-08-21",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do"
+    },
+    {
+      "source": "강남구립도서관(통합)",
+      "sourceUrl": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do",
+      "title": "못골 [못골도서관] 2026년 8월 1차 신착도서 안내 (성인)",
+      "category": "공지",
+      "posted": "2026-08-21",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do"
+    },
+    {
+      "source": "강남구립도서관(통합)",
+      "sourceUrl": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do",
+      "title": "정다운 [정다운] 2026년 8월 정다운시네마 상영 안내",
+      "category": "공지",
+      "posted": "2026-08-21",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do"
+    },
+    {
+      "source": "강남구립도서관(통합)",
+      "sourceUrl": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do",
+      "title": "행복한 [신착도서] 8월 2차 아동 신착도서 안내",
+      "category": "공지",
+      "posted": "2026-08-21",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do"
+    },
+    {
+      "source": "강남구립도서관(통합)",
+      "sourceUrl": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do",
+      "title": "행복한 [신착도서] 8월 성인 신착도서 안내",
+      "category": "공지",
+      "posted": "2026-08-21",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do"
+    },
+    {
+      "source": "강남구립도서관(통합)",
+      "sourceUrl": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do",
+      "title": "역삼 [신착자료] 8월 2차 신착도서 안내 (아동, 유아)",
+      "category": "공지",
+      "posted": "2026-08-20",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do"
+    },
+    {
+      "source": "강남구립도서관(통합)",
+      "sourceUrl": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do",
+      "title": "역삼 [신착자료] 8월 2차 신착도서 안내 (성인)",
+      "category": "공지",
+      "posted": "2026-08-20",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do"
+    },
+    {
+      "source": "강남구립도서관(통합)",
+      "sourceUrl": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do",
+      "title": "도곡정보 찾아가는 독립영화 공공상영회 9월 1차 <홍이> 안내",
+      "category": "공지",
+      "posted": "2026-08-20",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do"
+    },
+    {
+      "source": "강남 논현도서관",
+      "sourceUrl": "https://library.gangnam.go.kr/nhlib/menu/12440/bbs/20290/bbsPostList.do",
+      "title": "[강남구립논현도서관] 계약직 사서 서류 합격자 공고(26.08.21.)",
+      "category": "공지",
+      "posted": "2026-08-21",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://library.gangnam.go.kr/nhlib/menu/12440/bbs/20290/bbsPostList.do"
+    },
+    {
+      "source": "강남 논현도서관",
+      "sourceUrl": "https://library.gangnam.go.kr/nhlib/menu/12440/bbs/20290/bbsPostList.do",
+      "title": "[강남구립논현도서관] 계약직 사서 채용 공고(~8/20)",
+      "category": "채용",
+      "posted": "2026-08-09",
+      "deadline": "2027-08-20",
+      "deadlineEstimated": true,
+      "link": "https://library.gangnam.go.kr/nhlib/menu/12440/bbs/20290/bbsPostList.do"
+    },
+    {
+      "source": "강남 논현도서관",
+      "sourceUrl": "https://library.gangnam.go.kr/nhlib/menu/12440/bbs/20290/bbsPostList.do",
+      "title": "[강남구립논현도서관] 2026년 개관연장사서 채용 최종 합격자 공고",
+      "category": "채용",
+      "posted": "2026-02-27",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://library.gangnam.go.kr/nhlib/menu/12440/bbs/20290/bbsPostList.do"
+    },
+    {
+      "source": "강남 논현도서관",
+      "sourceUrl": "https://library.gangnam.go.kr/nhlib/menu/12440/bbs/20290/bbsPostList.do",
+      "title": "[강남구립논현도서관] 2026년 개관연장사서 채용 서류 합격자 공고",
+      "category": "채용",
+      "posted": "2026-02-23",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://library.gangnam.go.kr/nhlib/menu/12440/bbs/20290/bbsPostList.do"
+    },
+    {
+      "source": "강남 논현도서관",
+      "sourceUrl": "https://library.gangnam.go.kr/nhlib/menu/12440/bbs/20290/bbsPostList.do",
+      "title": "[강남구립논현도서관] 2026년 개관연장사서 채용 공고(~2/21)",
+      "category": "채용",
+      "posted": "2026-02-06",
+      "deadline": "2027-02-21",
+      "deadlineEstimated": true,
+      "link": "https://library.gangnam.go.kr/nhlib/menu/12440/bbs/20290/bbsPostList.do"
+    },
+    {
+      "source": "강남 논현도서관",
+      "sourceUrl": "https://library.gangnam.go.kr/nhlib/menu/12440/bbs/20290/bbsPostList.do",
+      "title": "[강남구립논현도서관] 경력직(팀장급) 사서 채용 최종 합격자 공고",
+      "category": "채용",
+      "posted": "2025-11-14",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://library.gangnam.go.kr/nhlib/menu/12440/bbs/20290/bbsPostList.do"
+    },
+    {
+      "source": "강남 논현도서관",
+      "sourceUrl": "https://library.gangnam.go.kr/nhlib/menu/12440/bbs/20290/bbsPostList.do",
+      "title": "[강남구립논현도서관] 경력직(팀장급) 사서 채용 서류 합격자 공고(25.11.12.)",
+      "category": "채용",
+      "posted": "2025-11-12",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://library.gangnam.go.kr/nhlib/menu/12440/bbs/20290/bbsPostList.do"
+    },
+    {
+      "source": "강남 논현도서관",
+      "sourceUrl": "https://library.gangnam.go.kr/nhlib/menu/12440/bbs/20290/bbsPostList.do",
+      "title": "[강남구립논현도서관] 경력직(팀장급) 사서 채용 재공고(~11/11)",
+      "category": "채용",
+      "posted": "2025-10-31",
+      "deadline": "2026-11-11",
+      "deadlineEstimated": true,
+      "link": "https://library.gangnam.go.kr/nhlib/menu/12440/bbs/20290/bbsPostList.do"
+    },
+    {
+      "source": "강남 논현도서관",
+      "sourceUrl": "https://library.gangnam.go.kr/nhlib/menu/12440/bbs/20290/bbsPostList.do",
+      "title": "[강남구립논현도서관] 경력직(팀장급) 사서 채용 서류 합격자 공고",
+      "category": "채용",
+      "posted": "2025-10-27",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://library.gangnam.go.kr/nhlib/menu/12440/bbs/20290/bbsPostList.do"
+    },
+    {
+      "source": "강남 도곡도서관",
+      "sourceUrl": "https://library.gangnam.go.kr/dch1lib/menu/12442/bbs/20292/bbsPostList.do",
+      "title": "[결과 발표] 강남구립대치1작은도서관 계약직 사서 채용 최종 합격자 발표",
+      "category": "채용",
+      "posted": "2025-12-19",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://library.gangnam.go.kr/dch1lib/menu/12442/bbs/20292/bbsPostList.do"
+    },
+    {
+      "source": "강남 도곡도서관",
+      "sourceUrl": "https://library.gangnam.go.kr/dch1lib/menu/12442/bbs/20292/bbsPostList.do",
+      "title": "[결과 발표] 강남구립대치1작은도서관 계약직 사서 채용 서류 합격자 발표",
+      "category": "채용",
+      "posted": "2025-12-16",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://library.gangnam.go.kr/dch1lib/menu/12442/bbs/20292/bbsPostList.do"
+    },
+    {
+      "source": "강남 도곡도서관",
+      "sourceUrl": "https://library.gangnam.go.kr/dch1lib/menu/12442/bbs/20292/bbsPostList.do",
+      "title": "[채용 공고] 강남구립대치1작은도서관 계약직 사서 채용 공고(~12/13)",
+      "category": "채용",
+      "posted": "2025-12-06",
+      "deadline": "2026-12-13",
+      "deadlineEstimated": true,
+      "link": "https://library.gangnam.go.kr/dch1lib/menu/12442/bbs/20292/bbsPostList.do"
+    },
+    {
+      "source": "강남 도곡도서관",
+      "sourceUrl": "https://library.gangnam.go.kr/dch1lib/menu/12442/bbs/20292/bbsPostList.do",
+      "title": "강남구립 대치1작은도서관 발열 및 업무보조 인력 채용 공고 (~9/22)",
+      "category": "채용",
+      "posted": "2021-09-17",
+      "deadline": "2026-09-22",
+      "deadlineEstimated": true,
+      "link": "https://library.gangnam.go.kr/dch1lib/menu/12442/bbs/20292/bbsPostList.do"
+    },
+    {
+      "source": "강동구립도서관",
+      "sourceUrl": "https://www.gdlibrary.or.kr/portal/menu/51/board/1/list",
+      "title": "[모집] 강동인사이트 9월 강연 <음악의 힘, 삶의 울림>",
+      "category": "채용",
+      "posted": null,
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.gdlibrary.or.kr/portal/menu/51/board/1/post/301352"
+    },
+    {
+      "source": "강동구립도서관",
+      "sourceUrl": "https://www.gdlibrary.or.kr/portal/menu/51/board/1/list",
+      "title": "강동구청스마트도서관 운영 일시 중단안내(8/22, 9시30분~12시30분)",
+      "category": "공지",
+      "posted": null,
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.gdlibrary.or.kr/portal/menu/51/board/1/post/301337"
+    },
+    {
+      "source": "강동구립도서관",
+      "sourceUrl": "https://www.gdlibrary.or.kr/portal/menu/51/board/1/list",
+      "title": "[모집] '안될과학' 항성 크리에이터 강연 <알면 진짜 재미있는 우주의 모든 것>",
+      "category": "채용",
+      "posted": null,
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.gdlibrary.or.kr/portal/menu/51/board/1/post/301354"
+    },
+    {
+      "source": "강동구립도서관",
+      "sourceUrl": "https://www.gdlibrary.or.kr/portal/menu/51/board/1/list",
+      "title": "[모집][문화예술동아리지원사업] 내 손 안의 꽃밭: 시니어 그림책 테라피",
+      "category": "공지",
+      "posted": null,
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.gdlibrary.or.kr/portal/menu/51/board/1/post/301350"
+    },
+    {
+      "source": "강동구립도서관",
+      "sourceUrl": "https://www.gdlibrary.or.kr/portal/menu/51/board/1/list",
+      "title": "[모집] 나를 지키는 향기: 아로마 테라피, 나만의 롤온 DIY 수업",
+      "category": "채용",
+      "posted": null,
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.gdlibrary.or.kr/portal/menu/51/board/1/post/301345"
+    },
+    {
+      "source": "강동구립도서관",
+      "sourceUrl": "https://www.gdlibrary.or.kr/portal/menu/51/board/1/list",
+      "title": "[모집] AI 시대 부모교육: 교과서가 쉬워지는 초등 신문 읽기",
+      "category": "채용",
+      "posted": null,
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.gdlibrary.or.kr/portal/menu/51/board/1/post/301343"
+    },
+    {
       "source": "영등포문화재단",
       "sourceUrl": "https://www.ydpcf.or.kr/board.do?bid=3",
       "title": "영등포구립도서관 신규직원(블라인드)채용 서류합격자 발표 및 면접시험 공고(26.09.05.임용)",
@@ -411,6 +892,46 @@
       "deadline": null,
       "deadlineEstimated": false,
       "link": "https://www.idfac.or.kr/bbs/board.php?bo_table=job&wr_id=644"
+    },
+    {
+      "source": "금천문화재단(채용/추정)",
+      "sourceUrl": "https://gcfac.or.kr/board/recruit",
+      "title": "(재)금천문화재단 2026년 작은도서관 순회사서 재채용 면접전형 합격자 공고",
+      "category": "채용",
+      "posted": "2026-08-21",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://gcfac.or.kr/board/recruit"
+    },
+    {
+      "source": "금천문화재단(채용/추정)",
+      "sourceUrl": "https://gcfac.or.kr/board/recruit",
+      "title": "(재)금천문화재단 2026년 작은도서관 순회사서 재채용 서류전형 합격자 및 면접전형 계획 공고",
+      "category": "채용",
+      "posted": "2026-08-14",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://gcfac.or.kr/board/recruit"
+    },
+    {
+      "source": "금천문화재단(채용/추정)",
+      "sourceUrl": "https://gcfac.or.kr/board/recruit",
+      "title": "(재)금천문화재단 2026년 작은도서관 순회사서 채용 공고",
+      "category": "채용",
+      "posted": "2026-08-06",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://gcfac.or.kr/board/recruit"
+    },
+    {
+      "source": "마포구청",
+      "sourceUrl": "https://www.mapo.go.kr/site/main/nPortalr/lists",
+      "title": "마포중앙도서관 개관시간 연장 지원 근로자 채용 공고",
+      "category": "채용",
+      "posted": "2026-08-21",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.mapo.go.kr/site/main/nPortalr/details?bcId=20869"
     }
   ]
 }
