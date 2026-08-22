@@ -1,8 +1,18 @@
 {
-  "generatedAt": "2026-08-21T23:03:11+00:00",
+  "generatedAt": "2026-08-22T04:26:54+00:00",
   "count": 122,
   "errors": [],
   "postings": [
+    {
+      "source": "광진정보도서관",
+      "sourceUrl": "https://www.gwangjinlib.seoul.kr/gjinfo/menu/10082/bbs/20003/bbsPostList.do",
+      "title": "아차산숲속도서관 휴관일 변경 관련 의견수렴 설문조사",
+      "category": "공지",
+      "posted": "2026-08-22",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.gwangjinlib.seoul.kr/gjinfo/menu/10082/bbs/20003/bbsPostList.do"
+    },
     {
       "source": "광진정보도서관",
       "sourceUrl": "https://www.gwangjinlib.seoul.kr/gjinfo/menu/10082/bbs/20003/bbsPostList.do",
@@ -89,16 +99,6 @@
       "title": "[공지] 여름방학 특별 대출 확대 이벤트 「Level up!」 안내",
       "category": "공지",
       "posted": "2026-06-24",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.gwangjinlib.seoul.kr/gjinfo/menu/10082/bbs/20003/bbsPostList.do"
-    },
-    {
-      "source": "광진정보도서관",
-      "sourceUrl": "https://www.gwangjinlib.seoul.kr/gjinfo/menu/10082/bbs/20003/bbsPostList.do",
-      "title": "[공지] 주민이 함께 만드는 <클린북 신문고> 운영 안내",
-      "category": "공지",
-      "posted": "2026-06-14",
       "deadline": null,
       "deadlineEstimated": false,
       "link": "https://www.gwangjinlib.seoul.kr/gjinfo/menu/10082/bbs/20003/bbsPostList.do"
@@ -516,6 +516,66 @@
     {
       "source": "강남구립도서관(통합)",
       "sourceUrl": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do",
+      "title": "대치1 [대치1작은도서관] 2026년 8, 9월 동아리실 이용 안내",
+      "category": "공지",
+      "posted": "2026-08-22",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do"
+    },
+    {
+      "source": "강남구립도서관(통합)",
+      "sourceUrl": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do",
+      "title": "개포하늘꿈 [개포하늘꿈] 8월 입수도서 안내 (성인)",
+      "category": "공지",
+      "posted": "2026-08-22",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do"
+    },
+    {
+      "source": "강남구립도서관(통합)",
+      "sourceUrl": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do",
+      "title": "개포하늘꿈 [개포하늘꿈] 8월 입수도서 안내 (청소년)",
+      "category": "공지",
+      "posted": "2026-08-22",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do"
+    },
+    {
+      "source": "강남구립도서관(통합)",
+      "sourceUrl": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do",
+      "title": "개포하늘꿈 [개포하늘꿈] 8월 입수도서 안내 (아동)",
+      "category": "공지",
+      "posted": "2026-08-22",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do"
+    },
+    {
+      "source": "강남구립도서관(통합)",
+      "sourceUrl": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do",
+      "title": "개포하늘꿈 [개포하늘꿈] 8월 입수도서 안내 (유아)",
+      "category": "공지",
+      "posted": "2026-08-22",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do"
+    },
+    {
+      "source": "강남구립도서관(통합)",
+      "sourceUrl": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do",
+      "title": "도곡정보 도곡정보문화도서관 7월 4~5주차 희망·신간도서 입수 안내",
+      "category": "공지",
+      "posted": "2026-08-22",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do"
+    },
+    {
+      "source": "강남구립도서관(통합)",
+      "sourceUrl": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do",
       "title": "청담 [청담도서관] 9월 휴관일 안내",
       "category": "공지",
       "posted": "2026-08-21",
@@ -549,66 +609,6 @@
       "title": "못골 [못골도서관] 2026년 8월 1차 신착도서 안내 (성인)",
       "category": "공지",
       "posted": "2026-08-21",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do"
-    },
-    {
-      "source": "강남구립도서관(통합)",
-      "sourceUrl": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do",
-      "title": "정다운 [정다운] 2026년 8월 정다운시네마 상영 안내",
-      "category": "공지",
-      "posted": "2026-08-21",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do"
-    },
-    {
-      "source": "강남구립도서관(통합)",
-      "sourceUrl": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do",
-      "title": "행복한 [신착도서] 8월 2차 아동 신착도서 안내",
-      "category": "공지",
-      "posted": "2026-08-21",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do"
-    },
-    {
-      "source": "강남구립도서관(통합)",
-      "sourceUrl": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do",
-      "title": "행복한 [신착도서] 8월 성인 신착도서 안내",
-      "category": "공지",
-      "posted": "2026-08-21",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do"
-    },
-    {
-      "source": "강남구립도서관(통합)",
-      "sourceUrl": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do",
-      "title": "역삼 [신착자료] 8월 2차 신착도서 안내 (아동, 유아)",
-      "category": "공지",
-      "posted": "2026-08-20",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do"
-    },
-    {
-      "source": "강남구립도서관(통합)",
-      "sourceUrl": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do",
-      "title": "역삼 [신착자료] 8월 2차 신착도서 안내 (성인)",
-      "category": "공지",
-      "posted": "2026-08-20",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do"
-    },
-    {
-      "source": "강남구립도서관(통합)",
-      "sourceUrl": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do",
-      "title": "도곡정보 찾아가는 독립영화 공공상영회 9월 1차 <홍이> 안내",
-      "category": "공지",
-      "posted": "2026-08-20",
       "deadline": null,
       "deadlineEstimated": false,
       "link": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do"
