@@ -294,7 +294,13 @@ function render(){
   });
 
   rows.sort((a,b)=>{
-    if(state.sort==="posted") return b.posted.localeCompare(a.posted);
+    if(state.sort==="posted"){
+      const pa=a.posted||"", pb=b.posted||"";
+      if(pa && pb) return pb.localeCompare(pa);   // 최신 등록일 먼저
+      if(pa && !pb) return -1;                    // 날짜 있는 것 우선
+      if(!pa && pb) return 1;
+      return 0;
+    }
     // 마감임박순: 마감 안 지난 것 우선, 그 안에서 D-day 오름차순, 상시/마감은 뒤로
     const da=dday(a.deadline), db=dday(b.deadline);
     const ka = da.closed ? 100000 : da.n;
