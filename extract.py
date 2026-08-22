@@ -168,6 +168,34 @@ def extract_generic(soup, base_url):
             picked.append({"title": title, "link": link, "posted": posted})
         if len(picked) > len(best):
             best = picked
+
+    # 폴백: 표/리스트로 못 잡으면 div/article 카드형 목록을 시도(성동류 SPA)
+    if len(best) < 2:
+        card_picked = []
+        for a in soup.find_all("a", href=True):
+            title = _clean(a.get_text())
+            if len(title) < 6 or len(title) > 160:
+                continue
+            if re.fullmatch(r"[\d\s<>«»‹›]+", title):
+                continue
+            # a 주변 3단계 조상 블록에서 날짜 탐색
+            block = a
+            ctx_text = ""
+            for _ in range(3):
+                block = block.parent
+                if block is None:
+                    break
+                ctx_text = block.get_text(" ", strip=True)
+                if _has_date(ctx_text):
+                    break
+            if not (_has_date(ctx_text) or any(k in title for k in kw)):
+                continue
+            href = a["href"]
+            link = urljoin(base_url, href) if not href.startswith(("javascript:", "#")) else base_url
+            card_picked.append({"title": title, "link": link, "posted": find_posted(ctx_text)})
+        if len(card_picked) > len(best):
+            best = card_picked
+
     seen, dedup = set(), []
     for p in best:
         if p["title"] in seen:
