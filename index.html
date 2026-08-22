@@ -365,16 +365,23 @@ function updateFlag(){
     flag.innerHTML = `✅ 자동 수집 데이터 · 최종 갱신 ${when}`;
   }
 }
-fetch("data.json", {cache:"no-store"})
-  .then(r=>{ if(!r.ok) throw new Error("no data.json"); return r.json(); })
-  .then(j=>{
-    if(j && Array.isArray(j.postings) && j.postings.length){
-      DATA = j.postings; IS_LIVE = true; GENERATED_AT = j.generatedAt || null;
-      refreshSourceOptions(); updateFlag();
-    }
-    render();
-  })
-  .catch(()=>{ render(); });  // data.json 없으면 폴백 예시로 표시
+async function loadJson(path){
+  try{ const r=await fetch(path,{cache:"no-store"}); if(!r.ok) return null; return await r.json(); }
+  catch(e){ return null; }
+}
+Promise.all([loadJson("data.json"), loadJson("data_local.json")]).then(([main,local])=>{
+  let posts=[]; let gen=null;
+  if(main && Array.isArray(main.postings)){ posts=posts.concat(main.postings); gen=main.generatedAt||gen; }
+  if(local && Array.isArray(local.postings)){ posts=posts.concat(local.postings); if(local.generatedAt && (!gen || local.generatedAt>gen)) {} }
+  // 중복 제거(기관+제목)
+  const seen=new Set(); const merged=[];
+  for(const p of posts){ const k=(p.source||"")+"|"+(p.title||""); if(seen.has(k)) continue; seen.add(k); merged.push(p); }
+  if(merged.length){
+    DATA=merged; IS_LIVE=true; GENERATED_AT=gen;
+    refreshSourceOptions(); updateFlag();
+  }
+  render();
+});
 
 render();
 </script>
