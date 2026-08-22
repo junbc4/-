@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-22T08:16:07+00:00",
-  "count": 266,
+  "generatedAt": "2026-08-22T08:55:12+00:00",
+  "count": 276,
   "errors": [],
   "postings": [
     {
@@ -66,7 +66,7 @@
     {
       "source": "서울교육포털(사서검색)",
       "sourceUrl": "https://work.sen.go.kr/work/main/BD_selectMainSrch.do?q_searchWord=%EC%82%AC%EC%84%9C",
-      "title": "채용공고등록",
+      "title": "채용공고등록 채용공고등록",
       "category": "채용",
       "posted": null,
       "deadline": null,
@@ -542,6 +542,106 @@
       "deadline": null,
       "deadlineEstimated": false,
       "link": "https://www.gblib.or.kr/gangbuk/board/notice_list.do"
+    },
+    {
+      "source": "은평구공공도서관",
+      "sourceUrl": "https://www.eplib.or.kr/intro/menu/10041/bbs/20002/bbsPostList.do",
+      "title": "「내를 건너서 숲으로 도서관」 (계약직)환경미화 서류심사 합격자 발표 및 면접심사 공고",
+      "category": "공지",
+      "posted": "2026-08-19",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.eplib.or.kr/intro/menu/10041/bbs/20002/bbsPostList.do"
+    },
+    {
+      "source": "은평구공공도서관",
+      "sourceUrl": "https://www.eplib.or.kr/intro/menu/10041/bbs/20002/bbsPostList.do",
+      "title": "「내를 건너서 숲으로 도서관」 (계약직)환경미화 공개 채용 공고(~8.17)",
+      "category": "채용",
+      "posted": "2026-08-04",
+      "deadline": "2027-08-17",
+      "deadlineEstimated": true,
+      "link": "https://www.eplib.or.kr/intro/menu/10041/bbs/20002/bbsPostList.do"
+    },
+    {
+      "source": "은평구공공도서관",
+      "sourceUrl": "https://www.eplib.or.kr/intro/menu/10041/bbs/20002/bbsPostList.do",
+      "title": "은평구립도서관 정규직(사서)·계약직(육아휴직대체 사서) 직원 공개경쟁채용 공고(~8/7)",
+      "category": "채용",
+      "posted": "2026-07-28",
+      "deadline": "2027-08-07",
+      "deadlineEstimated": true,
+      "link": "https://www.eplib.or.kr/intro/menu/10041/bbs/20002/bbsPostList.do"
+    },
+    {
+      "source": "은평구공공도서관",
+      "sourceUrl": "https://www.eplib.or.kr/intro/menu/10041/bbs/20002/bbsPostList.do",
+      "title": "은뜨락도서관 직원 채용 최종합격자 발표(정규직 5급 행정)",
+      "category": "채용",
+      "posted": "2026-07-07",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.eplib.or.kr/intro/menu/10041/bbs/20002/bbsPostList.do"
+    },
+    {
+      "source": "은평구공공도서관",
+      "sourceUrl": "https://www.eplib.or.kr/intro/menu/10041/bbs/20002/bbsPostList.do",
+      "title": "서류전형심사 합격자 발표 및 면접심사 공고 (정규직 도서관 5급 행정)",
+      "category": "공지",
+      "posted": "2026-06-30",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.eplib.or.kr/intro/menu/10041/bbs/20002/bbsPostList.do"
+    },
+    {
+      "source": "은평구공공도서관",
+      "sourceUrl": "https://www.eplib.or.kr/intro/menu/10041/bbs/20002/bbsPostList.do",
+      "title": "기간제 사서(개관시간 연장사업) 최종 합격자 공고",
+      "category": "채용",
+      "posted": "2026-06-17",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.eplib.or.kr/intro/menu/10041/bbs/20002/bbsPostList.do"
+    },
+    {
+      "source": "은평구공공도서관",
+      "sourceUrl": "https://www.eplib.or.kr/intro/menu/10041/bbs/20002/bbsPostList.do",
+      "title": "2026-020호 은뜨락도서관 정규직 직원 채용 공고(행정)",
+      "category": "채용",
+      "posted": "2026-06-16",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.eplib.or.kr/intro/menu/10041/bbs/20002/bbsPostList.do"
+    },
+    {
+      "source": "은평구공공도서관",
+      "sourceUrl": "https://www.eplib.or.kr/intro/menu/10041/bbs/20002/bbsPostList.do",
+      "title": "「내를 건너서 숲으로 도서관」 (계약직)개관연장 사서 면접심사 합격자 발표",
+      "category": "공지",
+      "posted": "2026-06-15",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.eplib.or.kr/intro/menu/10041/bbs/20002/bbsPostList.do"
+    },
+    {
+      "source": "은평구공공도서관",
+      "sourceUrl": "https://www.eplib.or.kr/intro/menu/10041/bbs/20002/bbsPostList.do",
+      "title": "기간제 사서(개관시간 연장사업) 서류심사 합격자 발표 및 면접 심사 공고",
+      "category": "채용",
+      "posted": "2026-06-11",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.eplib.or.kr/intro/menu/10041/bbs/20002/bbsPostList.do"
+    },
+    {
+      "source": "은평구공공도서관",
+      "sourceUrl": "https://www.eplib.or.kr/intro/menu/10041/bbs/20002/bbsPostList.do",
+      "title": "「내를 건너서 숲으로 도서관」 (계약직)개관연장 사서 서류심사 합격자 발표 및 면접심사 공고",
+      "category": "공지",
+      "posted": "2026-06-09",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.eplib.or.kr/intro/menu/10041/bbs/20002/bbsPostList.do"
     },
     {
       "source": "서대문구립도서관",
