@@ -15,6 +15,8 @@ sites:
 
   # ---------- 교육청 채용 포털 (학교도서관 사서·실무사) ----------
   - { name: 서울교육일자리포털, url: "https://work.sen.go.kr/work/search/recInfo/BD_selectSrchRecInfo.do", topics: *lib, wait_for: "ul li a, .list li", settle_ms: 1500 }  # READY. 567건 중 도서관만 선별. 제목이 길게 잡히면 selector 튜닝 권장
+  - { name: "서울교육포털(도서관검색)", url: "https://work.sen.go.kr/work/main/BD_selectMainSrch.do?q_searchWord=%EB%8F%84%EC%84%9C%EA%B4%80", wait_for: "table tr, ul li a, .list li", settle_ms: 2500 }  # 검색=도서관
+  - { name: "서울교육포털(사서검색)", url: "https://work.sen.go.kr/work/main/BD_selectMainSrch.do?q_searchWord=%EC%82%AC%EC%84%9C", wait_for: "table tr, ul li a, .list li", settle_ms: 2500 }  # 검색=사서
 
   # ---------- 구립도서관 (채용글 전부 도서관 관련 → topics 불필요) ----------
   - { name: 중구구립도서관,   url: "https://www.junggulib.or.kr/SJGL/menu/10095/bbs/20008/bbsPostList.do", wait_for: "table tr", settle_ms: 1500 }
@@ -25,16 +27,17 @@ sites:
   - { name: "양천구립도서관(yslibrary)", url: "https://www.yslibrary.or.kr/intro/unityNoticeList.do", wait_for: "table tr, .board li", settle_ms: 1500 }  # 교체된 목록 주소
   - { name: 강남구립도서관(통합), url: "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do", wait_for: "table tr", settle_ms: 1500 }
   - { name: 강남 논현도서관,  url: "https://library.gangnam.go.kr/nhlib/menu/12440/bbs/20290/bbsPostList.do", wait_for: "table tr", settle_ms: 1500 }
-  - { name: 강남 역삼도서관,  url: "https://library.gangnam.go.kr/yllib/menu/12451/bbs/20301/bbsPostList.do", wait_for: "table tr", settle_ms: 1500 }
+  - { name: 강남 역삼도서관,  url: "https://library.gangnam.go.kr/yslib/menu/10542/bbs/20001/bbsPostList.do", wait_for: "table tr", settle_ms: 1500 }  # URL 교체
   - { name: 강남 도곡도서관,  url: "https://library.gangnam.go.kr/dch1lib/menu/12442/bbs/20292/bbsPostList.do", wait_for: "table tr", settle_ms: 1500 }
   - { name: 강동구립도서관,   url: "https://www.gdlibrary.or.kr/portal/menu/51/board/1/list", wait_for: "table tr, .board-list li", settle_ms: 1500 }
+  - { name: 강남문화재단(채용), url: "https://www.gangnam.go.kr/office/gfac/board/gfac_staffrec/list.do?mid=gfac_staffRec", topics: *lib, wait_for: "table tr", settle_ms: 1500 }  # 신규
   - { name: "l4d 도서관(추정)", url: "https://www.l4d.or.kr/small/menu/10018/bbs/20001/bbsPostList.do", wait_for: "table tr", settle_ms: 1500 }  # 기관 확인 필요
 
   # ---------- 문화재단 (도서관/사서 관련만 topics 필터) ----------
-  - { name: 성동문화재단(채용), url: "https://www.sdfac.or.kr/kor/recruit/app/empmn_list.do?gotoMenuNo=03010000", topics: *lib, wait_for: "table tbody tr, .list li", settle_ms: 1800 }
+  - { name: 성동문화재단(채용), url: "https://www.sdfac.or.kr/kor/recruit/app/empmn_list.do?gotoMenuNo=03010000", topics: *lib, wait_for: "table tbody tr, .list li", settle_ms: 1800, proxy: true }
   - { name: 종로문화재단(채용정보), url: "https://www.jfac.or.kr/site/main/archive/post/category/채용정보", topics: *lib, wait_for: ".board_list li, table tr, .post-list li", settle_ms: 2000 }  # SPA
   - { name: 광진문화재단(나루아트/채용), url: "https://www.naruart.or.kr/community/recruit_list.php", topics: *lib, settle_ms: 1200 }
-  - { name: 성북문화재단,     url: "https://www.sbculture.or.kr/culture/bbs/BMSR00034/list.do?menuNo=500348", topics: *lib, wait_for: "table tr", settle_ms: 1500 }
+  - { name: 성북문화재단,     url: "https://www.sbculture.or.kr/culture/bbs/BMSR00034/list.do?menuNo=500348", topics: *lib, wait_for: "table tr", settle_ms: 1500, proxy: true }
   - { name: 도봉문화재단,     url: "https://dbfac.or.kr/front/board/boardContentsListPage.do?board_id=7", topics: *lib, wait_for: "table tr, .board li", settle_ms: 1800 }
   - { name: 영등포문화재단,   url: "https://www.ydpcf.or.kr/board.do?bid=3", topics: *lib, wait_for: "table tr", settle_ms: 1500 }
   - { name: 동작문화재단(채용), url: "https://www.idfac.or.kr/bbs/board.php?bo_table=job", topics: *lib, settle_ms: 1200 }
@@ -42,7 +45,7 @@ sites:
   - { name: 관악문화재단(채용), url: "https://gfac.or.kr/site/main/recruit/accordionList", topics: *lib, wait_for: ".accordion li, table tr, .list li", settle_ms: 2000 }  # SPA. 이전 실행서 도메인 미해석 → 재실행 시 확인
   - { name: 금천문화재단(채용/추정), url: "https://gcfac.or.kr/board/recruit", topics: *lib, wait_for: "table tr, .board li", settle_ms: 1800 }
   - { name: 용산문화재단(추정), url: "https://yfac.kr/main/contents.do?a_num=78696582", topics: *lib, wait_for: "table tr, .list li", settle_ms: 1800 }
-  - { name: 노원문화재단(채용), url: "https://www.nowonarts.kr/html/openspace/recruit.php", topics: *lib, settle_ms: 1200 }  # 이전 404 이력 — 첫 실행 시 확인
+  - { name: 노원문화재단(채용), url: "https://www.nowonarts.kr/channels/job/posts", topics: *lib, wait_for: "table tr", settle_ms: 1500 }  # URL 교체(확인완료)
   - { name: 강북문화(brms/추정), url: "https://gbcmc.brms.kr/posting", topics: *lib, wait_for: ".posting, .list li, table tr", settle_ms: 2000 }  # ATS
   - { name: "dfmc(채용/추정)", url: "https://www.dfmc.kr/course/announce/recruit_li.asp", topics: *lib, settle_ms: 1200 }  # 기관 확인 필요
   - { name: "caci(공지)", url: "https://www.caci.or.kr/community/notice", topics: *lib, wait_for: "table tr, .board li, .list li", settle_ms: 1800 }  # 교체된 목록 주소
@@ -51,7 +54,7 @@ sites:
   # ---------- 구청/자치구 게시판 (도서관/사서 관련만) ----------
   - { name: 중구청, url: "https://www.junggu.seoul.kr/content.do?cmsid=15450", topics: *lib, wait_for: "table tr", settle_ms: 1500 }
   - { name: 마포구청, url: "https://www.mapo.go.kr/site/main/nPortalr/lists", topics: *lib, wait_for: "table tr, .list li", settle_ms: 1800 }
-  - { name: 강서구청(고시공고), url: "https://eminwon.gangseo.seoul.kr/emwp/jsp/ofr/OfrNotAncmtL.jsp?not_ancmt_se_code=05&epcCheck=Y&list_gubun=A&recent_mm=3&dep_se=%25&subcheck=Y", topics: *lib, wait_for: "table tr", settle_ms: 1500 }
+  # - { name: 강서구청(고시공고), url: "https://eminwon.gangseo.seoul.kr/..." }  # 사용자 요청으로 제외(버림)
   - { name: 구로구청(채용정보), url: "https://www.guro.go.kr/www/selectBbsNttList.do?bbsNo=664&key=1792", topics: *lib, wait_for: "table tr", settle_ms: 1500 }
 
   # ---------- 외부 채용 플랫폼 (Incruit) — 구조 상이, 개별 확인 권장 ----------
