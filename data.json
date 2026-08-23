@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-23T05:06:01+00:00",
-  "count": 275,
+  "generatedAt": "2026-08-23T10:04:57+00:00",
+  "count": 274,
   "errors": [],
   "postings": [
     {
@@ -26,7 +26,7 @@
     {
       "source": "서울교육포털(도서관검색)",
       "sourceUrl": "https://work.sen.go.kr/work/main/BD_selectMainSrch.do?q_searchWord=%EB%8F%84%EC%84%9C%EA%B4%80",
-      "title": "채용공고등록 채용공고등록",
+      "title": "채용공고등록",
       "category": "채용",
       "posted": null,
       "deadline": null,
@@ -66,7 +66,7 @@
     {
       "source": "서울교육포털(사서검색)",
       "sourceUrl": "https://work.sen.go.kr/work/main/BD_selectMainSrch.do?q_searchWord=%EC%82%AC%EC%84%9C",
-      "title": "채용공고등록",
+      "title": "채용공고등록 채용공고등록",
       "category": "채용",
       "posted": null,
       "deadline": null,
@@ -116,16 +116,6 @@
     {
       "source": "서울교육포털(사서검색)",
       "sourceUrl": "https://work.sen.go.kr/work/main/BD_selectMainSrch.do?q_searchWord=%EC%82%AC%EC%84%9C",
-      "title": "사서 대체인력 채용공고",
-      "category": "채용",
-      "posted": "2026-08-19",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://work.sen.go.kr/work/search/recInfo/BD_selectRecDetail.do?q_rcrtSn=108329"
-    },
-    {
-      "source": "서울교육포털(사서검색)",
-      "sourceUrl": "https://work.sen.go.kr/work/main/BD_selectMainSrch.do?q_searchWord=%EC%82%AC%EC%84%9C",
       "title": "언주중학교 기간제근로자( 사서 ) 채용 공고",
       "category": "채용",
       "posted": "2026-08-14",
@@ -138,7 +128,7 @@
       "sourceUrl": "https://www.junggulib.or.kr/SJGL/menu/10095/bbs/20008/bbsPostList.do",
       "title": "본문 바로가기",
       "category": "공지",
-      "posted": "2026-08-07",
+      "posted": "2026-08-23",
       "deadline": null,
       "deadlineEstimated": false,
       "link": "https://www.junggulib.or.kr/SJGL/menu/10095/bbs/20008/bbsPostList.do"
@@ -148,7 +138,7 @@
       "sourceUrl": "https://www.junggulib.or.kr/SJGL/menu/10095/bbs/20008/bbsPostList.do",
       "title": "하위메뉴 바로가기",
       "category": "공지",
-      "posted": "2026-08-07",
+      "posted": "2026-08-23",
       "deadline": null,
       "deadlineEstimated": false,
       "link": "https://www.junggulib.or.kr/SJGL/menu/10095/bbs/20008/bbsPostList.do"
@@ -158,7 +148,7 @@
       "sourceUrl": "https://www.junggulib.or.kr/SJGL/menu/10095/bbs/20008/bbsPostList.do",
       "title": "이전으로 돌아가기",
       "category": "공지",
-      "posted": "2026-08-07",
+      "posted": "2026-08-23",
       "deadline": null,
       "deadlineEstimated": false,
       "link": "https://www.junggulib.or.kr/SJGL/menu/10095/bbs/20008/bbsPostList.do"
@@ -168,7 +158,17 @@
       "sourceUrl": "https://www.junggulib.or.kr/SJGL/menu/10095/bbs/20008/bbsPostList.do",
       "title": "검색창 비활성화",
       "category": "공지",
-      "posted": "2026-08-07",
+      "posted": "2026-08-23",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.junggulib.or.kr/SJGL/menu/10095/bbs/20008/bbsPostList.do"
+    },
+    {
+      "source": "중구구립도서관",
+      "sourceUrl": "https://www.junggulib.or.kr/SJGL/menu/10095/bbs/20008/bbsPostList.do",
+      "title": "가온 2026년 가온도서관 이용 만족도 조사 안내 2026.08.23",
+      "category": "공지",
+      "posted": "2026-08-23",
       "deadline": null,
       "deadlineEstimated": false,
       "link": "https://www.junggulib.or.kr/SJGL/menu/10095/bbs/20008/bbsPostList.do"
@@ -178,7 +178,7 @@
       "sourceUrl": "https://www.junggulib.or.kr/SJGL/menu/10095/bbs/20008/bbsPostList.do",
       "title": "작은 [휴관] 다산동작은도서관 8/11(화) ~ 8/31(월) 2026.08.07",
       "category": "공지",
-      "posted": "2026-08-07",
+      "posted": "2026-08-23",
       "deadline": "2026-08-31",
       "deadlineEstimated": true,
       "link": "https://www.junggulib.or.kr/SJGL/menu/10095/bbs/20008/bbsPostList.do"
@@ -188,7 +188,7 @@
       "sourceUrl": "https://www.junggulib.or.kr/SJGL/menu/10095/bbs/20008/bbsPostList.do",
       "title": "가온 2026년 가온도서관 휴관안내(9.1.~10.31) 2026.08.04",
       "category": "공지",
-      "posted": "2026-08-07",
+      "posted": "2026-08-23",
       "deadline": "2026-10-31",
       "deadlineEstimated": true,
       "link": "https://www.junggulib.or.kr/SJGL/menu/10095/bbs/20008/bbsPostList.do"
@@ -198,7 +198,7 @@
       "sourceUrl": "https://www.junggulib.or.kr/SJGL/menu/10095/bbs/20008/bbsPostList.do",
       "title": "어울림 2026년 냉난방기 공사로 인한 어울림도서관 휴관안내(7.1.~7.31) 2026.06.13",
       "category": "공지",
-      "posted": "2026-08-07",
+      "posted": "2026-08-23",
       "deadline": "2027-07-31",
       "deadlineEstimated": true,
       "link": "https://www.junggulib.or.kr/SJGL/menu/10095/bbs/20008/bbsPostList.do"
@@ -208,7 +208,7 @@
       "sourceUrl": "https://www.junggulib.or.kr/SJGL/menu/10095/bbs/20008/bbsPostList.do",
       "title": "손기정어린이 2025년 손기정어린이도서관 이용 만족도 조사 2025.11.14",
       "category": "공지",
-      "posted": "2026-08-07",
+      "posted": "2026-08-23",
       "deadline": null,
       "deadlineEstimated": false,
       "link": "https://www.junggulib.or.kr/SJGL/menu/10095/bbs/20008/bbsPostList.do"
@@ -218,7 +218,7 @@
       "sourceUrl": "https://www.junggulib.or.kr/SJGL/menu/10095/bbs/20008/bbsPostList.do",
       "title": "작은 [휴관] (동화동 작은도서관) 8/10(월) *야간 정상 운영 2026.08.03",
       "category": "공지",
-      "posted": "2026-08-07",
+      "posted": "2026-08-23",
       "deadline": null,
       "deadlineEstimated": false,
       "link": "https://www.junggulib.or.kr/SJGL/menu/10095/bbs/20008/bbsPostList.do"
@@ -228,7 +228,7 @@
       "sourceUrl": "https://www.junggulib.or.kr/SJGL/menu/10095/bbs/20008/bbsPostList.do",
       "title": "신당누리 신당누리도서관 단축운영 안내 2026.08.03",
       "category": "공지",
-      "posted": "2026-08-07",
+      "posted": "2026-08-23",
       "deadline": null,
       "deadlineEstimated": false,
       "link": "https://www.junggulib.or.kr/SJGL/menu/10095/bbs/20008/bbsPostList.do"
@@ -238,7 +238,7 @@
       "sourceUrl": "https://www.junggulib.or.kr/SJGL/menu/10095/bbs/20008/bbsPostList.do",
       "title": "작은 [휴관] (황학동 작은도서관) 8/10(월) *야간 정상 운영 2026.08.03",
       "category": "공지",
-      "posted": "2026-08-07",
+      "posted": "2026-08-23",
       "deadline": null,
       "deadlineEstimated": false,
       "link": "https://www.junggulib.or.kr/SJGL/menu/10095/bbs/20008/bbsPostList.do"
@@ -248,7 +248,7 @@
       "sourceUrl": "https://www.junggulib.or.kr/SJGL/menu/10095/bbs/20008/bbsPostList.do",
       "title": "가온 가온도서관 2026년 7월 분실물 안내 2026.08.02",
       "category": "공지",
-      "posted": "2026-08-07",
+      "posted": "2026-08-23",
       "deadline": null,
       "deadlineEstimated": false,
       "link": "https://www.junggulib.or.kr/SJGL/menu/10095/bbs/20008/bbsPostList.do"
@@ -258,7 +258,7 @@
       "sourceUrl": "https://www.junggulib.or.kr/SJGL/menu/10095/bbs/20008/bbsPostList.do",
       "title": "어울림 어울림도서관 2026년 1차 분실물 안내 2026.07.30",
       "category": "공지",
-      "posted": "2026-08-07",
+      "posted": "2026-08-23",
       "deadline": null,
       "deadlineEstimated": false,
       "link": "https://www.junggulib.or.kr/SJGL/menu/10095/bbs/20008/bbsPostList.do"
@@ -268,7 +268,7 @@
       "sourceUrl": "https://www.junggulib.or.kr/SJGL/menu/10095/bbs/20008/bbsPostList.do",
       "title": "작은 [휴관] (다산동 작은도서관) 8/3(월) 2026.07.29",
       "category": "공지",
-      "posted": "2026-08-07",
+      "posted": "2026-08-23",
       "deadline": null,
       "deadlineEstimated": false,
       "link": "https://www.junggulib.or.kr/SJGL/menu/10095/bbs/20008/bbsPostList.do"
@@ -278,17 +278,7 @@
       "sourceUrl": "https://www.junggulib.or.kr/SJGL/menu/10095/bbs/20008/bbsPostList.do",
       "title": "작은 [야간 정상운영] 청구동작은도서관 야간 운영 안내 [7/27(월)~ ] 2026.07.27",
       "category": "공지",
-      "posted": "2026-08-07",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.junggulib.or.kr/SJGL/menu/10095/bbs/20008/bbsPostList.do"
-    },
-    {
-      "source": "중구구립도서관",
-      "sourceUrl": "https://www.junggulib.or.kr/SJGL/menu/10095/bbs/20008/bbsPostList.do",
-      "title": "손기정문화 손기정문화도서관 2026년 2분기 분실물 안내 2026.07.15",
-      "category": "공지",
-      "posted": "2026-08-07",
+      "posted": "2026-08-23",
       "deadline": null,
       "deadlineEstimated": false,
       "link": "https://www.junggulib.or.kr/SJGL/menu/10095/bbs/20008/bbsPostList.do"
@@ -298,7 +288,7 @@
       "sourceUrl": "https://www.junggulib.or.kr/SJGL/menu/10095/bbs/20008/bbsPostList.do",
       "title": "맨 첫 페이지로 가기",
       "category": "공지",
-      "posted": "2026-08-07",
+      "posted": "2026-08-23",
       "deadline": null,
       "deadlineEstimated": false,
       "link": "https://www.junggulib.or.kr/SJGL/menu/10095/bbs/20008/bbsPostList.do"
@@ -308,7 +298,7 @@
       "sourceUrl": "https://www.junggulib.or.kr/SJGL/menu/10095/bbs/20008/bbsPostList.do",
       "title": "이전 10개 보기",
       "category": "공지",
-      "posted": "2026-08-07",
+      "posted": "2026-08-23",
       "deadline": null,
       "deadlineEstimated": false,
       "link": "https://www.junggulib.or.kr/SJGL/menu/10095/bbs/20008/bbsPostList.do"
@@ -318,7 +308,7 @@
       "sourceUrl": "https://www.junggulib.or.kr/SJGL/menu/10095/bbs/20008/bbsPostList.do",
       "title": "다음 10개 보기",
       "category": "공지",
-      "posted": "2026-08-07",
+      "posted": "2026-08-23",
       "deadline": null,
       "deadlineEstimated": false,
       "link": "https://www.junggulib.or.kr/SJGL/menu/10095/bbs/20008/bbsPostList.do"
@@ -328,7 +318,7 @@
       "sourceUrl": "https://www.junggulib.or.kr/SJGL/menu/10095/bbs/20008/bbsPostList.do",
       "title": "맨 마지막 페이지로 가기",
       "category": "공지",
-      "posted": "2026-08-07",
+      "posted": "2026-08-23",
       "deadline": null,
       "deadlineEstimated": false,
       "link": "https://www.junggulib.or.kr/SJGL/menu/10095/bbs/20008/bbsPostList.do"
