@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-23T23:06:19+00:00",
-  "count": 264,
+  "generatedAt": "2026-08-24T05:33:19+00:00",
+  "count": 274,
   "errors": [],
   "postings": [
     {
@@ -26,7 +26,7 @@
     {
       "source": "서울교육포털(도서관검색)",
       "sourceUrl": "https://work.sen.go.kr/work/main/BD_selectMainSrch.do?q_searchWord=%EB%8F%84%EC%84%9C%EA%B4%80",
-      "title": "채용공고등록",
+      "title": "채용공고등록 채용공고등록",
       "category": "채용",
       "posted": null,
       "deadline": null,
@@ -112,16 +112,6 @@
       "deadline": null,
       "deadlineEstimated": false,
       "link": "https://work.sen.go.kr/work/search/recInfo/BD_selectRecDetail.do?q_rcrtSn=108369"
-    },
-    {
-      "source": "서울교육포털(사서검색)",
-      "sourceUrl": "https://work.sen.go.kr/work/main/BD_selectMainSrch.do?q_searchWord=%EC%82%AC%EC%84%9C",
-      "title": "언주중학교 기간제근로자( 사서 ) 채용 공고",
-      "category": "채용",
-      "posted": "2026-08-14",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://work.sen.go.kr/work/search/recInfo/BD_selectRecDetail.do?q_rcrtSn=108084"
     },
     {
       "source": "중구구립도서관",
@@ -326,6 +316,16 @@
     {
       "source": "광진정보도서관",
       "sourceUrl": "https://www.gwangjinlib.seoul.kr/gjinfo/menu/10082/bbs/20003/bbsPostList.do",
+      "title": "[광진어린이영어도서관] 플리마켓 with Little Librarian Crew",
+      "category": "공지",
+      "posted": "2026-08-24",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.gwangjinlib.seoul.kr/gjinfo/menu/10082/bbs/20003/bbsPostList.do"
+    },
+    {
+      "source": "광진정보도서관",
+      "sourceUrl": "https://www.gwangjinlib.seoul.kr/gjinfo/menu/10082/bbs/20003/bbsPostList.do",
       "title": "아차산숲속도서관 휴관일 변경 관련 의견수렴 설문조사",
       "category": "공지",
       "posted": "2026-08-22",
@@ -407,16 +407,6 @@
       "source": "광진정보도서관",
       "sourceUrl": "https://www.gwangjinlib.seoul.kr/gjinfo/menu/10082/bbs/20003/bbsPostList.do",
       "title": "자료구입 정상화 추진 및 희망도서 신청 재개 안내",
-      "category": "공지",
-      "posted": "2026-06-24",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.gwangjinlib.seoul.kr/gjinfo/menu/10082/bbs/20003/bbsPostList.do"
-    },
-    {
-      "source": "광진정보도서관",
-      "sourceUrl": "https://www.gwangjinlib.seoul.kr/gjinfo/menu/10082/bbs/20003/bbsPostList.do",
-      "title": "[공지] 여름방학 특별 대출 확대 이벤트 「Level up!」 안내",
       "category": "공지",
       "posted": "2026-06-24",
       "deadline": null,
@@ -532,6 +522,106 @@
       "deadline": null,
       "deadlineEstimated": false,
       "link": "https://www.gblib.or.kr/gangbuk/board/notice_list.do"
+    },
+    {
+      "source": "은평구공공도서관",
+      "sourceUrl": "https://www.eplib.or.kr/intro/menu/10041/bbs/20002/bbsPostList.do",
+      "title": "「내를 건너서 숲으로 도서관」 (계약직)환경미화 서류심사 합격자 발표 및 면접심사 공고",
+      "category": "공지",
+      "posted": "2026-08-19",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.eplib.or.kr/intro/menu/10041/bbs/20002/bbsPostList.do"
+    },
+    {
+      "source": "은평구공공도서관",
+      "sourceUrl": "https://www.eplib.or.kr/intro/menu/10041/bbs/20002/bbsPostList.do",
+      "title": "「내를 건너서 숲으로 도서관」 (계약직)환경미화 공개 채용 공고(~8.17)",
+      "category": "채용",
+      "posted": "2026-08-04",
+      "deadline": "2027-08-17",
+      "deadlineEstimated": true,
+      "link": "https://www.eplib.or.kr/intro/menu/10041/bbs/20002/bbsPostList.do"
+    },
+    {
+      "source": "은평구공공도서관",
+      "sourceUrl": "https://www.eplib.or.kr/intro/menu/10041/bbs/20002/bbsPostList.do",
+      "title": "은평구립도서관 정규직(사서)·계약직(육아휴직대체 사서) 직원 공개경쟁채용 공고(~8/7)",
+      "category": "채용",
+      "posted": "2026-07-28",
+      "deadline": "2027-08-07",
+      "deadlineEstimated": true,
+      "link": "https://www.eplib.or.kr/intro/menu/10041/bbs/20002/bbsPostList.do"
+    },
+    {
+      "source": "은평구공공도서관",
+      "sourceUrl": "https://www.eplib.or.kr/intro/menu/10041/bbs/20002/bbsPostList.do",
+      "title": "은뜨락도서관 직원 채용 최종합격자 발표(정규직 5급 행정)",
+      "category": "채용",
+      "posted": "2026-07-07",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.eplib.or.kr/intro/menu/10041/bbs/20002/bbsPostList.do"
+    },
+    {
+      "source": "은평구공공도서관",
+      "sourceUrl": "https://www.eplib.or.kr/intro/menu/10041/bbs/20002/bbsPostList.do",
+      "title": "서류전형심사 합격자 발표 및 면접심사 공고 (정규직 도서관 5급 행정)",
+      "category": "공지",
+      "posted": "2026-06-30",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.eplib.or.kr/intro/menu/10041/bbs/20002/bbsPostList.do"
+    },
+    {
+      "source": "은평구공공도서관",
+      "sourceUrl": "https://www.eplib.or.kr/intro/menu/10041/bbs/20002/bbsPostList.do",
+      "title": "기간제 사서(개관시간 연장사업) 최종 합격자 공고",
+      "category": "채용",
+      "posted": "2026-06-17",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.eplib.or.kr/intro/menu/10041/bbs/20002/bbsPostList.do"
+    },
+    {
+      "source": "은평구공공도서관",
+      "sourceUrl": "https://www.eplib.or.kr/intro/menu/10041/bbs/20002/bbsPostList.do",
+      "title": "2026-020호 은뜨락도서관 정규직 직원 채용 공고(행정)",
+      "category": "채용",
+      "posted": "2026-06-16",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.eplib.or.kr/intro/menu/10041/bbs/20002/bbsPostList.do"
+    },
+    {
+      "source": "은평구공공도서관",
+      "sourceUrl": "https://www.eplib.or.kr/intro/menu/10041/bbs/20002/bbsPostList.do",
+      "title": "「내를 건너서 숲으로 도서관」 (계약직)개관연장 사서 면접심사 합격자 발표",
+      "category": "공지",
+      "posted": "2026-06-15",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.eplib.or.kr/intro/menu/10041/bbs/20002/bbsPostList.do"
+    },
+    {
+      "source": "은평구공공도서관",
+      "sourceUrl": "https://www.eplib.or.kr/intro/menu/10041/bbs/20002/bbsPostList.do",
+      "title": "기간제 사서(개관시간 연장사업) 서류심사 합격자 발표 및 면접 심사 공고",
+      "category": "채용",
+      "posted": "2026-06-11",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.eplib.or.kr/intro/menu/10041/bbs/20002/bbsPostList.do"
+    },
+    {
+      "source": "은평구공공도서관",
+      "sourceUrl": "https://www.eplib.or.kr/intro/menu/10041/bbs/20002/bbsPostList.do",
+      "title": "「내를 건너서 숲으로 도서관」 (계약직)개관연장 사서 서류심사 합격자 발표 및 면접심사 공고",
+      "category": "공지",
+      "posted": "2026-06-09",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.eplib.or.kr/intro/menu/10041/bbs/20002/bbsPostList.do"
     },
     {
       "source": "서대문구립도서관",
@@ -736,6 +826,26 @@
     {
       "source": "강남구립도서관(통합)",
       "sourceUrl": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do",
+      "title": "대치 2026년 9월 프로그램 일정 및 휴관일",
+      "category": "공지",
+      "posted": "2026-08-24",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do"
+    },
+    {
+      "source": "강남구립도서관(통합)",
+      "sourceUrl": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do",
+      "title": "개포하늘꿈 개포하늘꿈도서관 9월 휴관일 안내",
+      "category": "공지",
+      "posted": "2026-08-24",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do"
+    },
+    {
+      "source": "강남구립도서관(통합)",
+      "sourceUrl": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do",
       "title": "대치1 [대치1작은도서관] 2026년 8월 1차 신착도서 안내",
       "category": "공지",
       "posted": "2026-08-23",
@@ -807,26 +917,6 @@
       "source": "강남구립도서관(통합)",
       "sourceUrl": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do",
       "title": "개포하늘꿈 [개포하늘꿈] 8월 입수도서 안내 (성인)",
-      "category": "공지",
-      "posted": "2026-08-22",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do"
-    },
-    {
-      "source": "강남구립도서관(통합)",
-      "sourceUrl": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do",
-      "title": "개포하늘꿈 [개포하늘꿈] 8월 입수도서 안내 (청소년)",
-      "category": "공지",
-      "posted": "2026-08-22",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do"
-    },
-    {
-      "source": "강남구립도서관(통합)",
-      "sourceUrl": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do",
-      "title": "개포하늘꿈 [개포하늘꿈] 8월 입수도서 안내 (아동)",
       "category": "공지",
       "posted": "2026-08-22",
       "deadline": null,
@@ -1076,22 +1166,22 @@
     {
       "source": "강동구립도서관",
       "sourceUrl": "https://www.gdlibrary.or.kr/portal/menu/51/board/1/list",
+      "title": "[모집] 구소정 영화감독 강연 <텍스트 너머: 기록하는 삶>",
+      "category": "채용",
+      "posted": null,
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.gdlibrary.or.kr/portal/menu/51/board/1/post/301358"
+    },
+    {
+      "source": "강동구립도서관",
+      "sourceUrl": "https://www.gdlibrary.or.kr/portal/menu/51/board/1/list",
       "title": "[모집] 강동숲속도서관×탐조책방 <우리동네 탐조단 4기>",
       "category": "채용",
       "posted": null,
       "deadline": null,
       "deadlineEstimated": false,
       "link": "https://www.gdlibrary.or.kr/portal/menu/51/board/1/post/301357"
-    },
-    {
-      "source": "강동구립도서관",
-      "sourceUrl": "https://www.gdlibrary.or.kr/portal/menu/51/board/1/list",
-      "title": "강일도서관 2026년 3차(9-12월) 사물함 모집 안내",
-      "category": "채용",
-      "posted": null,
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.gdlibrary.or.kr/portal/menu/51/board/1/post/301356"
     },
     {
       "source": "강동구립도서관",
@@ -2622,6 +2712,16 @@
       "deadline": null,
       "deadlineEstimated": false,
       "link": "https://gcfac.or.kr/board/recruit"
+    },
+    {
+      "source": "노원문화재단(채용)",
+      "sourceUrl": "https://www.nowonarts.kr/channels/job/posts",
+      "title": "2026년 7차 노원문화재단 노원구립도서관 채용 공고[대체계약직-사서] N",
+      "category": "채용",
+      "posted": "2026-08-24",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.nowonarts.kr/channels/job/posts/6446"
     },
     {
       "source": "노원문화재단(채용)",
