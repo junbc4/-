@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T10:24:43+00:00",
+  "generatedAt": "2026-08-25T23:10:11+00:00",
   "count": 272,
   "errors": [],
   "postings": [
@@ -26,7 +26,7 @@
     {
       "source": "서울교육포털(도서관검색)",
       "sourceUrl": "https://work.sen.go.kr/work/main/BD_selectMainSrch.do?q_searchWord=%EB%8F%84%EC%84%9C%EA%B4%80",
-      "title": "채용공고등록 채용공고등록",
+      "title": "채용공고등록",
       "category": "채용",
       "posted": null,
       "deadline": null,
@@ -56,7 +56,7 @@
     {
       "source": "서울교육포털(사서검색)",
       "sourceUrl": "https://work.sen.go.kr/work/main/BD_selectMainSrch.do?q_searchWord=%EC%82%AC%EC%84%9C",
-      "title": "채용공고등록",
+      "title": "채용공고등록 채용공고등록",
       "category": "채용",
       "posted": null,
       "deadline": null,
@@ -636,16 +636,6 @@
     {
       "source": "서대문구립도서관",
       "sourceUrl": "https://lib.sdm.or.kr/sdmlib/menu/10115/bbs/20001/bbsPostList.do",
-      "title": "스포티독(Sporty讀) 서대문 : 홍은도담도서관 서대문 리딩크루 독서모임 (2026년 제2기 독서동아리) 모집",
-      "category": "공지",
-      "posted": "2026-08-01",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://lib.sdm.or.kr/sdmlib/menu/10115/bbs/20001/bbsPostList.do"
-    },
-    {
-      "source": "서대문구립도서관",
-      "sourceUrl": "https://lib.sdm.or.kr/sdmlib/menu/10115/bbs/20001/bbsPostList.do",
       "title": "남가좌새롬어린이도서관 서대문 리딩크루 멤버 모집 (2026년 제2기 독서동아리) 모집",
       "category": "공지",
       "posted": "2026-07-30",
@@ -699,6 +689,16 @@
       "title": "2026 광복절 및 대체휴일 휴관 안내",
       "category": "공지",
       "posted": "2026-08-06",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://lib.sdm.or.kr/sdmlib/menu/10115/bbs/20001/bbsPostList.do"
+    },
+    {
+      "source": "서대문구립도서관",
+      "sourceUrl": "https://lib.sdm.or.kr/sdmlib/menu/10115/bbs/20001/bbsPostList.do",
+      "title": "폭염에 따른 상호대차 긴급중단 안내",
+      "category": "공지",
+      "posted": "2026-08-05",
       "deadline": null,
       "deadlineEstimated": false,
       "link": "https://lib.sdm.or.kr/sdmlib/menu/10115/bbs/20001/bbsPostList.do"
