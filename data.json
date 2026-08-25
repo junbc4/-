@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T05:12:26+00:00",
+  "generatedAt": "2026-08-25T10:24:43+00:00",
   "count": 272,
   "errors": [],
   "postings": [
@@ -34,16 +34,6 @@
       "link": "https://work.sen.go.kr/work/main/BD_selectMainSrch.do?q_searchWord=%EB%8F%84%EC%84%9C%EA%B4%80"
     },
     {
-      "source": "서울교육포털(도서관검색)",
-      "sourceUrl": "https://work.sen.go.kr/work/main/BD_selectMainSrch.do?q_searchWord=%EB%8F%84%EC%84%9C%EA%B4%80",
-      "title": "송곡여자고등학교 교육공무직원( 도서관 실무사) 채용 공고",
-      "category": "채용",
-      "posted": "2026-08-21",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://work.sen.go.kr/work/search/recInfo/BD_selectRecDetail.do?q_rcrtSn=108629"
-    },
-    {
       "source": "서울교육포털(사서검색)",
       "sourceUrl": "https://work.sen.go.kr/work/main/BD_selectMainSrch.do?q_searchWord=%EC%82%AC%EC%84%9C",
       "title": "채용담당자로그인 채용담당자로그인",
@@ -72,6 +62,16 @@
       "deadline": null,
       "deadlineEstimated": false,
       "link": "https://work.sen.go.kr/work/main/BD_selectMainSrch.do?q_searchWord=%EC%82%AC%EC%84%9C"
+    },
+    {
+      "source": "서울교육포털(사서검색)",
+      "sourceUrl": "https://work.sen.go.kr/work/main/BD_selectMainSrch.do?q_searchWord=%EC%82%AC%EC%84%9C",
+      "title": "(서울은로초) 기간제근로자( 사서 ) 채용 공고",
+      "category": "채용",
+      "posted": "2026-08-25",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://work.sen.go.kr/work/search/recInfo/BD_selectRecDetail.do?q_rcrtSn=109059"
     },
     {
       "source": "서울교육포털(사서검색)",
@@ -406,6 +406,16 @@
     {
       "source": "강북구립도서관",
       "sourceUrl": "https://www.gblib.or.kr/gangbuk/board/notice_list.do",
+      "title": "[강북] 9월 문화가 있는 날 「음악듀오 솔솔과 함께하는 <노래와 그림책>」",
+      "category": "공지",
+      "posted": "2026-08-25",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.gblib.or.kr/gangbuk/board/notice_list.do"
+    },
+    {
+      "source": "강북구립도서관",
+      "sourceUrl": "https://www.gblib.or.kr/gangbuk/board/notice_list.do",
       "title": "[청소년] 당신이 만난 프로 9월: 홍성윤 기자",
       "category": "공지",
       "posted": "2026-08-20",
@@ -489,16 +499,6 @@
       "title": "[청소년](재능기부)읽는사람에서 쓰는사람으로: 생활에세이 쓰기 프로그램 안내",
       "category": "공지",
       "posted": "2026-08-13",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.gblib.or.kr/gangbuk/board/notice_list.do"
-    },
-    {
-      "source": "강북구립도서관",
-      "sourceUrl": "https://www.gblib.or.kr/gangbuk/board/notice_list.do",
-      "title": "[청소년]포토에세이북 만들기 '내 인생의 명장면'",
-      "category": "공지",
-      "posted": "2026-08-06",
       "deadline": null,
       "deadlineEstimated": false,
       "link": "https://www.gblib.or.kr/gangbuk/board/notice_list.do"
@@ -806,6 +806,36 @@
     {
       "source": "강남구립도서관(통합)",
       "sourceUrl": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do",
+      "title": "열린 8월 신착도서(희망도서) 안내",
+      "category": "공지",
+      "posted": "2026-08-25",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do"
+    },
+    {
+      "source": "강남구립도서관(통합)",
+      "sourceUrl": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do",
+      "title": "즐거운 대치4문화센터 리모델렝 공사 소음 안내",
+      "category": "공지",
+      "posted": "2026-08-25",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do"
+    },
+    {
+      "source": "강남구립도서관(통합)",
+      "sourceUrl": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do",
+      "title": "일원라온영어 2026년도 9월 라온시네마 영화 상영 안내",
+      "category": "공지",
+      "posted": "2026-08-25",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do"
+    },
+    {
+      "source": "강남구립도서관(통합)",
+      "sourceUrl": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do",
       "title": "못골한옥 못골한옥어린이도서관 2026년 9월 휴관일 안내",
       "category": "공지",
       "posted": "2026-08-25",
@@ -869,36 +899,6 @@
       "title": "대치1 [대치1작은도서관] 2026년 8월 1차 신착도서 안내",
       "category": "공지",
       "posted": "2026-08-23",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do"
-    },
-    {
-      "source": "강남구립도서관(통합)",
-      "sourceUrl": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do",
-      "title": "역삼푸른솔 [역삼푸른솔도서관] 9월 휴관일 안내",
-      "category": "공지",
-      "posted": "2026-08-23",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do"
-    },
-    {
-      "source": "강남구립도서관(통합)",
-      "sourceUrl": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do",
-      "title": "즐거운 [강남구립도서관] 여름방학 야간 두배로 대출(8/1~8/31)",
-      "category": "공지",
-      "posted": "2026-08-23",
-      "deadline": "2026-08-31",
-      "deadlineEstimated": true,
-      "link": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do"
-    },
-    {
-      "source": "강남구립도서관(통합)",
-      "sourceUrl": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do",
-      "title": "논현 [신간도서 안내] 2026년 7월 2차 입수도서 목록 및 카드뉴스",
-      "category": "공지",
-      "posted": "2026-08-22",
       "deadline": null,
       "deadlineEstimated": false,
       "link": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do"
@@ -1146,6 +1146,16 @@
     {
       "source": "강동구립도서관",
       "sourceUrl": "https://www.gdlibrary.or.kr/portal/menu/51/board/1/list",
+      "title": "암사도서관 2026년 3차 사물함 모집 안내",
+      "category": "채용",
+      "posted": null,
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.gdlibrary.or.kr/portal/menu/51/board/1/post/301364"
+    },
+    {
+      "source": "강동구립도서관",
+      "sourceUrl": "https://www.gdlibrary.or.kr/portal/menu/51/board/1/list",
       "title": "[모집] 구소정 영화감독 강연 <텍스트 너머: 기록하는 삶>",
       "category": "채용",
       "posted": null,
@@ -1192,16 +1202,6 @@
       "deadline": null,
       "deadlineEstimated": false,
       "link": "https://www.gdlibrary.or.kr/portal/menu/51/board/1/post/301345"
-    },
-    {
-      "source": "강동구립도서관",
-      "sourceUrl": "https://www.gdlibrary.or.kr/portal/menu/51/board/1/list",
-      "title": "[모집] AI 시대 부모교육: 교과서가 쉬워지는 초등 신문 읽기",
-      "category": "채용",
-      "posted": null,
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.gdlibrary.or.kr/portal/menu/51/board/1/post/301343"
     },
     {
       "source": "강남문화재단(채용)",
@@ -2696,7 +2696,7 @@
     {
       "source": "노원문화재단(채용)",
       "sourceUrl": "https://www.nowonarts.kr/channels/job/posts",
-      "title": "2026년 7차 노원문화재단 노원구립도서관 채용 공고[대체계약직-사서] N",
+      "title": "2026년 7차 노원문화재단 노원구립도서관 채용 공고[대체계약직-사서]",
       "category": "채용",
       "posted": "2026-08-24",
       "deadline": null,
