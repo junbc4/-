@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-26T06:01:12+00:00",
-  "count": 260,
+  "generatedAt": "2026-08-26T11:03:17+00:00",
+  "count": 270,
   "errors": [],
   "postings": [
     {
@@ -26,7 +26,7 @@
     {
       "source": "서울교육포털(도서관검색)",
       "sourceUrl": "https://work.sen.go.kr/work/main/BD_selectMainSrch.do?q_searchWord=%EB%8F%84%EC%84%9C%EA%B4%80",
-      "title": "채용공고등록 채용공고등록",
+      "title": "채용공고등록",
       "category": "채용",
       "posted": null,
       "deadline": null,
@@ -696,16 +696,6 @@
     {
       "source": "양천구립도서관(yslibrary)",
       "sourceUrl": "https://www.yslibrary.or.kr/intro/unityNoticeList.do",
-      "title": "[꿈나무] [성인 글쓰기 강연] 내가 살고있는 용산, 글로 기록하다 (우리 동네 아카이빙 연계 사업)",
-      "category": "공지",
-      "posted": "2026-08-21",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.yslibrary.or.kr/intro/unityNoticeList.do"
-    },
-    {
-      "source": "양천구립도서관(yslibrary)",
-      "sourceUrl": "https://www.yslibrary.or.kr/intro/unityNoticeList.do",
       "title": "[효창동] \"맛있는 시간, 오늘은 나도 쉐프\"",
       "category": "공지",
       "posted": "2026-08-14",
@@ -794,6 +784,46 @@
       "link": "https://www.yslibrary.or.kr/intro/unityNoticeList.do"
     },
     {
+      "source": "양천구립도서관(yslibrary)",
+      "sourceUrl": "https://www.yslibrary.or.kr/intro/unityNoticeList.do",
+      "title": "[청파영어] 청파어린이영어도서관 2026 여름학기(6-8월) 프로그램 시간표",
+      "category": "공지",
+      "posted": "2026-06-15",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.yslibrary.or.kr/intro/unityNoticeList.do"
+    },
+    {
+      "source": "강남구립도서관(통합)",
+      "sourceUrl": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do",
+      "title": "도곡정보 2026년 9월 도곡시네마 상영작",
+      "category": "공지",
+      "posted": "2026-08-26",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do"
+    },
+    {
+      "source": "강남구립도서관(통합)",
+      "sourceUrl": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do",
+      "title": "삼성 [삼성도서관] 9월 휴관일 안내",
+      "category": "공지",
+      "posted": "2026-08-26",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do"
+    },
+    {
+      "source": "강남구립도서관(통합)",
+      "sourceUrl": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do",
+      "title": "삼성 [삼성도서관] 8월 두배로데이",
+      "category": "공지",
+      "posted": "2026-08-26",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do"
+    },
+    {
       "source": "강남구립도서관(통합)",
       "sourceUrl": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do",
       "title": "행복한 [신착도서] 8월 2차 성인 신착도서 안내",
@@ -826,7 +856,7 @@
     {
       "source": "강남구립도서관(통합)",
       "sourceUrl": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do",
-      "title": "즐거운 대치4문화센터 리모델렝 공사 소음 안내",
+      "title": "즐거운 대치4문화센터 리모델링 공사 소음 안내",
       "category": "공지",
       "posted": "2026-08-25",
       "deadline": null,
@@ -864,34 +894,14 @@
       "link": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do"
     },
     {
-      "source": "강남구립도서관(통합)",
-      "sourceUrl": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do",
-      "title": "논현문화마루 [논현문화마루도서관] 9월 휴관일 안내",
-      "category": "공지",
-      "posted": "2026-08-25",
+      "source": "강남 논현도서관",
+      "sourceUrl": "https://library.gangnam.go.kr/nhlib/menu/12440/bbs/20290/bbsPostList.do",
+      "title": "[강남구립논현도서관] 계약직 사서 채용 최종 합격자 공고(26.08.26.)",
+      "category": "채용",
+      "posted": "2026-08-26",
       "deadline": null,
       "deadlineEstimated": false,
-      "link": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do"
-    },
-    {
-      "source": "강남구립도서관(통합)",
-      "sourceUrl": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do",
-      "title": "논현 [신간도서 안내] 2026년 8월 1차 입수도서 목록 및 카드뉴스",
-      "category": "공지",
-      "posted": "2026-08-24",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do"
-    },
-    {
-      "source": "강남구립도서관(통합)",
-      "sourceUrl": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do",
-      "title": "대치 2026년 9월 프로그램 일정 및 휴관일",
-      "category": "공지",
-      "posted": "2026-08-24",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do"
+      "link": "https://library.gangnam.go.kr/nhlib/menu/12440/bbs/20290/bbsPostList.do"
     },
     {
       "source": "강남 논현도서관",
@@ -974,14 +984,104 @@
       "link": "https://library.gangnam.go.kr/nhlib/menu/12440/bbs/20290/bbsPostList.do"
     },
     {
-      "source": "강남 논현도서관",
-      "sourceUrl": "https://library.gangnam.go.kr/nhlib/menu/12440/bbs/20290/bbsPostList.do",
-      "title": "[강남구립논현도서관] 경력직(팀장급) 사서 채용 서류 합격자 공고",
-      "category": "채용",
-      "posted": "2025-10-27",
+      "source": "강남 역삼도서관",
+      "sourceUrl": "https://library.gangnam.go.kr/yslib/menu/10542/bbs/20001/bbsPostList.do",
+      "title": "[신착자료] 8월 2차 신착도서 안내 (아동, 유아)",
+      "category": "공지",
+      "posted": "2026-08-20",
       "deadline": null,
       "deadlineEstimated": false,
-      "link": "https://library.gangnam.go.kr/nhlib/menu/12440/bbs/20290/bbsPostList.do"
+      "link": "https://library.gangnam.go.kr/yslib/menu/10542/bbs/20001/bbsPostList.do"
+    },
+    {
+      "source": "강남 역삼도서관",
+      "sourceUrl": "https://library.gangnam.go.kr/yslib/menu/10542/bbs/20001/bbsPostList.do",
+      "title": "[신착자료] 8월 2차 신착도서 안내 (성인)",
+      "category": "공지",
+      "posted": "2026-08-20",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://library.gangnam.go.kr/yslib/menu/10542/bbs/20001/bbsPostList.do"
+    },
+    {
+      "source": "강남 역삼도서관",
+      "sourceUrl": "https://library.gangnam.go.kr/yslib/menu/10542/bbs/20001/bbsPostList.do",
+      "title": "[2026년 독서의 달 기념 고전 낭독 콘서트] 오디세이아 <오디세우스의 모험> 안내",
+      "category": "공지",
+      "posted": "2026-08-18",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://library.gangnam.go.kr/yslib/menu/10542/bbs/20001/bbsPostList.do"
+    },
+    {
+      "source": "강남 역삼도서관",
+      "sourceUrl": "https://library.gangnam.go.kr/yslib/menu/10542/bbs/20001/bbsPostList.do",
+      "title": "[2026 지역서점 활성화 사업] 동네서점에 보물있다!",
+      "category": "공지",
+      "posted": "2026-08-12",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://library.gangnam.go.kr/yslib/menu/10542/bbs/20001/bbsPostList.do"
+    },
+    {
+      "source": "강남 역삼도서관",
+      "sourceUrl": "https://library.gangnam.go.kr/yslib/menu/10542/bbs/20001/bbsPostList.do",
+      "title": "[강남구립도서관] 여름방학 야간 두 배로 대출(8/1 ~ 8/31)",
+      "category": "공지",
+      "posted": "2026-08-01",
+      "deadline": "2026-08-31",
+      "deadlineEstimated": true,
+      "link": "https://library.gangnam.go.kr/yslib/menu/10542/bbs/20001/bbsPostList.do"
+    },
+    {
+      "source": "강남 역삼도서관",
+      "sourceUrl": "https://library.gangnam.go.kr/yslib/menu/10542/bbs/20001/bbsPostList.do",
+      "title": "역삼도서관 8월 휴관일 안내",
+      "category": "공지",
+      "posted": "2026-07-26",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://library.gangnam.go.kr/yslib/menu/10542/bbs/20001/bbsPostList.do"
+    },
+    {
+      "source": "강남 역삼도서관",
+      "sourceUrl": "https://library.gangnam.go.kr/yslib/menu/10542/bbs/20001/bbsPostList.do",
+      "title": "[역삼도서관] 모바일 회원증 사용 안내",
+      "category": "공지",
+      "posted": "2026-05-16",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://library.gangnam.go.kr/yslib/menu/10542/bbs/20001/bbsPostList.do"
+    },
+    {
+      "source": "강남 역삼도서관",
+      "sourceUrl": "https://library.gangnam.go.kr/yslib/menu/10542/bbs/20001/bbsPostList.do",
+      "title": "맞춤형 메일링 서비스 요요레터(yoyo) 2026년 구독신청 안내",
+      "category": "공지",
+      "posted": "2026-03-19",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://library.gangnam.go.kr/yslib/menu/10542/bbs/20001/bbsPostList.do"
+    },
+    {
+      "source": "강남 역삼도서관",
+      "sourceUrl": "https://library.gangnam.go.kr/yslib/menu/10542/bbs/20001/bbsPostList.do",
+      "title": "역삼도서관 독서문화프로그램 문자 알리미 서비스 안내",
+      "category": "공지",
+      "posted": "2024-12-17",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://library.gangnam.go.kr/yslib/menu/10542/bbs/20001/bbsPostList.do"
+    },
+    {
+      "source": "강남 역삼도서관",
+      "sourceUrl": "https://library.gangnam.go.kr/yslib/menu/10542/bbs/20001/bbsPostList.do",
+      "title": "민방위 훈련 실시 안내(전국 동시 실시)",
+      "category": "공지",
+      "posted": "2026-08-18",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://library.gangnam.go.kr/yslib/menu/10542/bbs/20001/bbsPostList.do"
     },
     {
       "source": "강남 도곡도서관",
