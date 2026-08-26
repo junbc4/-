@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-25T23:10:11+00:00",
-  "count": 272,
+  "generatedAt": "2026-08-26T05:13:42+00:00",
+  "count": 270,
   "errors": [],
   "postings": [
     {
@@ -26,7 +26,7 @@
     {
       "source": "서울교육포털(도서관검색)",
       "sourceUrl": "https://work.sen.go.kr/work/main/BD_selectMainSrch.do?q_searchWord=%EB%8F%84%EC%84%9C%EA%B4%80",
-      "title": "채용공고등록",
+      "title": "채용공고등록 채용공고등록",
       "category": "채용",
       "posted": null,
       "deadline": null,
@@ -56,7 +56,7 @@
     {
       "source": "서울교육포털(사서검색)",
       "sourceUrl": "https://work.sen.go.kr/work/main/BD_selectMainSrch.do?q_searchWord=%EC%82%AC%EC%84%9C",
-      "title": "채용공고등록 채용공고등록",
+      "title": "채용공고등록",
       "category": "채용",
       "posted": null,
       "deadline": null,
@@ -72,26 +72,6 @@
       "deadline": null,
       "deadlineEstimated": false,
       "link": "https://work.sen.go.kr/work/search/recInfo/BD_selectRecDetail.do?q_rcrtSn=109059"
-    },
-    {
-      "source": "서울교육포털(사서검색)",
-      "sourceUrl": "https://work.sen.go.kr/work/main/BD_selectMainSrch.do?q_searchWord=%EC%82%AC%EC%84%9C",
-      "title": "(등양초) 교육공무직원( 사서 ) 육아시간 대체 근로자 채용 공고",
-      "category": "채용",
-      "posted": "2026-08-20",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://work.sen.go.kr/work/search/recInfo/BD_selectRecDetail.do?q_rcrtSn=108592"
-    },
-    {
-      "source": "서울교육포털(사서검색)",
-      "sourceUrl": "https://work.sen.go.kr/work/main/BD_selectMainSrch.do?q_searchWord=%EC%82%AC%EC%84%9C",
-      "title": "2026학년도 중앙중학교 계약제교육공무직원( 사서 ) 채용공고(2차)",
-      "category": "채용",
-      "posted": "2026-08-20",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://work.sen.go.kr/work/search/recInfo/BD_selectRecDetail.do?q_rcrtSn=108562"
     },
     {
       "source": "중구구립도서관",
@@ -504,6 +484,16 @@
       "link": "https://www.gblib.or.kr/gangbuk/board/notice_list.do"
     },
     {
+      "source": "강북구립도서관",
+      "sourceUrl": "https://www.gblib.or.kr/gangbuk/board/notice_list.do",
+      "title": "[삼각산] 디지털 독서교육 플랫폼 <스쿨북스> 서비스 종료안내",
+      "category": "공지",
+      "posted": "2026-08-26",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.gblib.or.kr/gangbuk/board/notice_list.do"
+    },
+    {
       "source": "은평구공공도서관",
       "sourceUrl": "https://www.eplib.or.kr/intro/menu/10041/bbs/20002/bbsPostList.do",
       "title": "「내를 건너서 숲으로 도서관」 (계약직)환경미화 면접심사 합격자 발표",
@@ -806,6 +796,26 @@
     {
       "source": "강남구립도서관(통합)",
       "sourceUrl": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do",
+      "title": "행복한 [신착도서] 8월 2차 성인 신착도서 안내",
+      "category": "공지",
+      "posted": "2026-08-26",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do"
+    },
+    {
+      "source": "강남구립도서관(통합)",
+      "sourceUrl": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do",
+      "title": "도곡정보 [문화가 있는 날] 8월 두배로 DAY",
+      "category": "공지",
+      "posted": "2026-08-26",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do"
+    },
+    {
+      "source": "강남구립도서관(통합)",
+      "sourceUrl": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do",
       "title": "열린 8월 신착도서(희망도서) 안내",
       "category": "공지",
       "posted": "2026-08-25",
@@ -879,26 +889,6 @@
       "title": "대치 2026년 9월 프로그램 일정 및 휴관일",
       "category": "공지",
       "posted": "2026-08-24",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do"
-    },
-    {
-      "source": "강남구립도서관(통합)",
-      "sourceUrl": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do",
-      "title": "개포하늘꿈 개포하늘꿈도서관 9월 휴관일 안내",
-      "category": "공지",
-      "posted": "2026-08-24",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do"
-    },
-    {
-      "source": "강남구립도서관(통합)",
-      "sourceUrl": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do",
-      "title": "대치1 [대치1작은도서관] 2026년 8월 1차 신착도서 안내",
-      "category": "공지",
-      "posted": "2026-08-23",
       "deadline": null,
       "deadlineEstimated": false,
       "link": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do"
@@ -1194,16 +1184,6 @@
       "link": "https://www.gdlibrary.or.kr/portal/menu/51/board/1/post/301350"
     },
     {
-      "source": "강동구립도서관",
-      "sourceUrl": "https://www.gdlibrary.or.kr/portal/menu/51/board/1/list",
-      "title": "[모집] 나를 지키는 향기: 아로마 테라피, 나만의 롤온 DIY 수업",
-      "category": "채용",
-      "posted": null,
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.gdlibrary.or.kr/portal/menu/51/board/1/post/301345"
-    },
-    {
       "source": "강남문화재단(채용)",
       "sourceUrl": "https://www.gangnam.go.kr/office/gfac/board/gfac_staffrec/list.do?mid=gfac_staffRec",
       "title": "강남문화재단 도서관 시책월급직 및 시급대체직 공개채용 채용과정 공개",
@@ -1222,6 +1202,26 @@
       "deadline": null,
       "deadlineEstimated": false,
       "link": "https://www.gangnam.go.kr/office/gfac/board/gfac_staffrec/573/view.do?mid=gfac_staffRec"
+    },
+    {
+      "source": "l4d 도서관(추정)",
+      "sourceUrl": "https://www.l4d.or.kr/small/menu/10018/bbs/20001/bbsPostList.do",
+      "title": "[휘경1동새싹마루] 9월 독서의 달 행사: 우린 제법 잘 어울림!",
+      "category": "공지",
+      "posted": "2026-08-26",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.l4d.or.kr/small/menu/10018/bbs/20001/bbsPostList.do"
+    },
+    {
+      "source": "l4d 도서관(추정)",
+      "sourceUrl": "https://www.l4d.or.kr/small/menu/10018/bbs/20001/bbsPostList.do",
+      "title": "[휘경1동새싹마루] 2026년 독서의달 행사 안내",
+      "category": "공지",
+      "posted": "2026-08-26",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.l4d.or.kr/small/menu/10018/bbs/20001/bbsPostList.do"
     },
     {
       "source": "l4d 도서관(추정)",
@@ -1399,26 +1399,6 @@
       "title": "[용두어울림] 2026년 5월 가정의 달 행사 안내",
       "category": "공지",
       "posted": "2026-04-21",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.l4d.or.kr/small/menu/10018/bbs/20001/bbsPostList.do"
-    },
-    {
-      "source": "l4d 도서관(추정)",
-      "sourceUrl": "https://www.l4d.or.kr/small/menu/10018/bbs/20001/bbsPostList.do",
-      "title": "[장안마루] 장안마루작은도서관 2026년 도서관의 날·도서관 주간 『시끌벅적! 도서관 속으로』 행사 안내",
-      "category": "공지",
-      "posted": "2026-04-12",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.l4d.or.kr/small/menu/10018/bbs/20001/bbsPostList.do"
-    },
-    {
-      "source": "l4d 도서관(추정)",
-      "sourceUrl": "https://www.l4d.or.kr/small/menu/10018/bbs/20001/bbsPostList.do",
-      "title": "[장안꿈마루어린이] 2026년 2분기 북 큐레이션 「햇살 가득 봄나들이」",
-      "category": "공지",
-      "posted": "2026-04-08",
       "deadline": null,
       "deadlineEstimated": false,
       "link": "https://www.l4d.or.kr/small/menu/10018/bbs/20001/bbsPostList.do"
@@ -2696,22 +2676,22 @@
     {
       "source": "노원문화재단(채용)",
       "sourceUrl": "https://www.nowonarts.kr/channels/job/posts",
+      "title": "2026년 8차 노원문화재단 노원구립도서관 채용 공고 [기간제-장애인전형] N",
+      "category": "채용",
+      "posted": "2026-08-26",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.nowonarts.kr/channels/job/posts/6447"
+    },
+    {
+      "source": "노원문화재단(채용)",
+      "sourceUrl": "https://www.nowonarts.kr/channels/job/posts",
       "title": "2026년 7차 노원문화재단 노원구립도서관 채용 공고[대체계약직-사서]",
       "category": "채용",
       "posted": "2026-08-24",
       "deadline": null,
       "deadlineEstimated": false,
       "link": "https://www.nowonarts.kr/channels/job/posts/6446"
-    },
-    {
-      "source": "노원문화재단(채용)",
-      "sourceUrl": "https://www.nowonarts.kr/channels/job/posts",
-      "title": "2026년 6차 노원문화재단 노원구립도서관 기간제근로자 최종 합격자 공고",
-      "category": "채용",
-      "posted": "2026-06-24",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.nowonarts.kr/channels/job/posts/6412"
     },
     {
       "source": "마포구청",
