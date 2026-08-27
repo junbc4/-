@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-26T05:47:00+00:00",
-  "count": 6,
+  "generatedAt": "2026-08-27T10:03:38+00:00",
+  "count": 7,
   "errors": [],
   "postings": [
     {
@@ -12,6 +12,36 @@
       "deadline": null,
       "deadlineEstimated": false,
       "link": "https://www.sdfac.or.kr/kor/recruit/app/empmn_list.do?gotoMenuNo=03010000"
+    },
+    {
+      "source": "성북문화재단",
+      "sourceUrl": "https://www.sbculture.or.kr/culture/bbs/BMSR00034/list.do?menuNo=500348",
+      "title": "성북문화재단 글빛도서관 2026년 주말 아르바이트(사서보조) 모집 공고",
+      "category": "채용",
+      "posted": "2026-08-27",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.sbculture.or.kr/culture/bbs/BMSR00034/view.do?boardId=35697&menuNo=500348"
+    },
+    {
+      "source": "성북문화재단",
+      "sourceUrl": "https://www.sbculture.or.kr/culture/bbs/BMSR00034/list.do?menuNo=500348",
+      "title": "성북문화재단 아리랑도서관 단기 아르바이트(환경미화)모집 공고",
+      "category": "채용",
+      "posted": "2026-08-27",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.sbculture.or.kr/culture/bbs/BMSR00034/view.do?boardId=35695&menuNo=500348"
+    },
+    {
+      "source": "성북문화재단",
+      "sourceUrl": "https://www.sbculture.or.kr/culture/bbs/BMSR00034/list.do?menuNo=500348",
+      "title": "성북문화재단 아리랑어린이도서관 휴직자 대체 단기 아르바이트(사서보조) 모집 공고",
+      "category": "채용",
+      "posted": "2026-08-26",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.sbculture.or.kr/culture/bbs/BMSR00034/view.do?boardId=35691&menuNo=500348"
     },
     {
       "source": "성북문화재단",
@@ -42,26 +72,6 @@
       "deadline": null,
       "deadlineEstimated": false,
       "link": "https://www.sbculture.or.kr/culture/bbs/BMSR00034/view.do?boardId=35680&menuNo=500348"
-    },
-    {
-      "source": "성북문화재단",
-      "sourceUrl": "https://www.sbculture.or.kr/culture/bbs/BMSR00034/list.do?menuNo=500348",
-      "title": "(제26-22호)성북문화재단 기간직 채용 공고(기간직, 휴직대체, 나급, 사서)",
-      "category": "채용",
-      "posted": "2026-08-12",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.sbculture.or.kr/culture/bbs/BMSR00034/view.do?boardId=35670&menuNo=500348"
-    },
-    {
-      "source": "성북문화재단",
-      "sourceUrl": "https://www.sbculture.or.kr/culture/bbs/BMSR00034/list.do?menuNo=500348",
-      "title": "아리랑어린이도서관 주말 아르바이트(사서보조) 최종합격자 발표",
-      "category": "공지",
-      "posted": "2026-08-01",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.sbculture.or.kr/culture/bbs/BMSR00034/view.do?boardId=35638&menuNo=500348"
     }
   ]
 }
