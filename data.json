@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T11:03:17+00:00",
+  "generatedAt": "2026-08-27T10:19:48+00:00",
   "count": 270,
   "errors": [],
   "postings": [
@@ -26,7 +26,7 @@
     {
       "source": "서울교육포털(도서관검색)",
       "sourceUrl": "https://work.sen.go.kr/work/main/BD_selectMainSrch.do?q_searchWord=%EB%8F%84%EC%84%9C%EA%B4%80",
-      "title": "채용공고등록",
+      "title": "채용공고등록 채용공고등록",
       "category": "채용",
       "posted": null,
       "deadline": null,
@@ -56,7 +56,7 @@
     {
       "source": "서울교육포털(사서검색)",
       "sourceUrl": "https://work.sen.go.kr/work/main/BD_selectMainSrch.do?q_searchWord=%EC%82%AC%EC%84%9C",
-      "title": "채용공고등록",
+      "title": "채용공고등록 채용공고등록",
       "category": "채용",
       "posted": null,
       "deadline": null,
@@ -66,12 +66,12 @@
     {
       "source": "서울교육포털(사서검색)",
       "sourceUrl": "https://work.sen.go.kr/work/main/BD_selectMainSrch.do?q_searchWord=%EC%82%AC%EC%84%9C",
-      "title": "(서울은로초) 기간제근로자( 사서 ) 채용 공고",
+      "title": "서울면북초 교육공무직( 사서 )결원 기간제 채용 공고",
       "category": "채용",
-      "posted": "2026-08-25",
+      "posted": "2026-08-27",
       "deadline": null,
       "deadlineEstimated": false,
-      "link": "https://work.sen.go.kr/work/search/recInfo/BD_selectRecDetail.do?q_rcrtSn=109059"
+      "link": "https://work.sen.go.kr/work/search/recInfo/BD_selectRecDetail.do?q_rcrtSn=109188"
     },
     {
       "source": "중구구립도서관",
@@ -276,6 +276,16 @@
     {
       "source": "광진정보도서관",
       "sourceUrl": "https://www.gwangjinlib.seoul.kr/gjinfo/menu/10082/bbs/20003/bbsPostList.do",
+      "title": "[공지] 추석 연휴 기간 광진구립도서관 운영 안내",
+      "category": "공지",
+      "posted": "2026-08-27",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.gwangjinlib.seoul.kr/gjinfo/menu/10082/bbs/20003/bbsPostList.do"
+    },
+    {
+      "source": "광진정보도서관",
+      "sourceUrl": "https://www.gwangjinlib.seoul.kr/gjinfo/menu/10082/bbs/20003/bbsPostList.do",
       "title": "아차산숲속도서관 휴관일 변경 관련 의견수렴 설문조사",
       "category": "공지",
       "posted": "2026-08-22",
@@ -364,16 +374,6 @@
       "link": "https://www.gwangjinlib.seoul.kr/gjinfo/menu/10082/bbs/20003/bbsPostList.do"
     },
     {
-      "source": "광진정보도서관",
-      "sourceUrl": "https://www.gwangjinlib.seoul.kr/gjinfo/menu/10082/bbs/20003/bbsPostList.do",
-      "title": "[공지] 여름방학 특별 대출 확대 이벤트 「Level up!」 안내",
-      "category": "공지",
-      "posted": "2026-06-24",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.gwangjinlib.seoul.kr/gjinfo/menu/10082/bbs/20003/bbsPostList.do"
-    },
-    {
       "source": "강북구립도서관",
       "sourceUrl": "https://www.gblib.or.kr/gangbuk/board/notice_list.do",
       "title": "자원봉사자 모집",
@@ -382,6 +382,16 @@
       "deadline": null,
       "deadlineEstimated": false,
       "link": "https://www.gblib.or.kr/gangbuk/contents/contents.do?gidx=130800"
+    },
+    {
+      "source": "강북구립도서관",
+      "sourceUrl": "https://www.gblib.or.kr/gangbuk/board/notice_list.do",
+      "title": "[삼각산] 북스타트 양육자 교육 : 그림책으로 아이의 몸과 마음 깨우기",
+      "category": "공지",
+      "posted": "2026-08-27",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.gblib.or.kr/gangbuk/board/notice_list.do"
     },
     {
       "source": "강북구립도서관",
@@ -476,22 +486,22 @@
     {
       "source": "강북구립도서관",
       "sourceUrl": "https://www.gblib.or.kr/gangbuk/board/notice_list.do",
-      "title": "[청소년] 강북체험동화마을 2026년 9월 개인접수",
-      "category": "공지",
-      "posted": "2026-08-13",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.gblib.or.kr/gangbuk/board/notice_list.do"
-    },
-    {
-      "source": "강북구립도서관",
-      "sourceUrl": "https://www.gblib.or.kr/gangbuk/board/notice_list.do",
       "title": "[삼각산] 디지털 독서교육 플랫폼 <스쿨북스> 서비스 종료안내",
       "category": "공지",
       "posted": "2026-08-26",
       "deadline": null,
       "deadlineEstimated": false,
       "link": "https://www.gblib.or.kr/gangbuk/board/notice_list.do"
+    },
+    {
+      "source": "은평구공공도서관",
+      "sourceUrl": "https://www.eplib.or.kr/intro/menu/10041/bbs/20002/bbsPostList.do",
+      "title": "은평구립도서관 정규직(사서)·계약직(육아휴직대체 사서) 직원 공개경쟁채용 최종 합격자 공고",
+      "category": "채용",
+      "posted": "2026-08-27",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.eplib.or.kr/intro/menu/10041/bbs/20002/bbsPostList.do"
     },
     {
       "source": "은평구공공도서관",
@@ -579,16 +589,6 @@
       "title": "「내를 건너서 숲으로 도서관」 (계약직)개관연장 사서 면접심사 합격자 발표",
       "category": "공지",
       "posted": "2026-06-15",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.eplib.or.kr/intro/menu/10041/bbs/20002/bbsPostList.do"
-    },
-    {
-      "source": "은평구공공도서관",
-      "sourceUrl": "https://www.eplib.or.kr/intro/menu/10041/bbs/20002/bbsPostList.do",
-      "title": "기간제 사서(개관시간 연장사업) 서류심사 합격자 발표 및 면접 심사 공고",
-      "category": "채용",
-      "posted": "2026-06-11",
       "deadline": null,
       "deadlineEstimated": false,
       "link": "https://www.eplib.or.kr/intro/menu/10041/bbs/20002/bbsPostList.do"
@@ -796,6 +796,36 @@
     {
       "source": "강남구립도서관(통합)",
       "sourceUrl": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do",
+      "title": "삼성 2026 삼성도서관 독서의 달 행사 안내",
+      "category": "공지",
+      "posted": "2026-08-27",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do"
+    },
+    {
+      "source": "강남구립도서관(통합)",
+      "sourceUrl": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do",
+      "title": "통합 [강남구립도서관] 2026년 독서의 달 & 추석맞이 두배로 대출 이벤트 안내",
+      "category": "공지",
+      "posted": "2026-08-27",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do"
+    },
+    {
+      "source": "강남구립도서관(통합)",
+      "sourceUrl": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do",
+      "title": "도곡정보 9월 문화가 있는 날 공연 <달빛에 스미는 우리 소리>",
+      "category": "공지",
+      "posted": "2026-08-27",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do"
+    },
+    {
+      "source": "강남구립도서관(통합)",
+      "sourceUrl": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do",
       "title": "도곡정보 2026년 9월 도곡시네마 상영작",
       "category": "공지",
       "posted": "2026-08-26",
@@ -857,36 +887,6 @@
       "source": "강남구립도서관(통합)",
       "sourceUrl": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do",
       "title": "즐거운 대치4문화센터 리모델링 공사 소음 안내",
-      "category": "공지",
-      "posted": "2026-08-25",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do"
-    },
-    {
-      "source": "강남구립도서관(통합)",
-      "sourceUrl": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do",
-      "title": "일원라온영어 2026년도 9월 라온시네마 영화 상영 안내",
-      "category": "공지",
-      "posted": "2026-08-25",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do"
-    },
-    {
-      "source": "강남구립도서관(통합)",
-      "sourceUrl": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do",
-      "title": "못골한옥 못골한옥어린이도서관 2026년 9월 휴관일 안내",
-      "category": "공지",
-      "posted": "2026-08-25",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do"
-    },
-    {
-      "source": "강남구립도서관(통합)",
-      "sourceUrl": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do",
-      "title": "열린 9월 휴관일 안내",
       "category": "공지",
       "posted": "2026-08-25",
       "deadline": null,
@@ -986,6 +986,16 @@
     {
       "source": "강남 역삼도서관",
       "sourceUrl": "https://library.gangnam.go.kr/yslib/menu/10542/bbs/20001/bbsPostList.do",
+      "title": "[강남구립도서관] 2026년 독서의 달 & 추석맞이 두배로 대출 이벤트 안내",
+      "category": "공지",
+      "posted": "2026-08-27",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://library.gangnam.go.kr/yslib/menu/10542/bbs/20001/bbsPostList.do"
+    },
+    {
+      "source": "강남 역삼도서관",
+      "sourceUrl": "https://library.gangnam.go.kr/yslib/menu/10542/bbs/20001/bbsPostList.do",
       "title": "[신착자료] 8월 2차 신착도서 안내 (아동, 유아)",
       "category": "공지",
       "posted": "2026-08-20",
@@ -1069,16 +1079,6 @@
       "title": "역삼도서관 독서문화프로그램 문자 알리미 서비스 안내",
       "category": "공지",
       "posted": "2024-12-17",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://library.gangnam.go.kr/yslib/menu/10542/bbs/20001/bbsPostList.do"
-    },
-    {
-      "source": "강남 역삼도서관",
-      "sourceUrl": "https://library.gangnam.go.kr/yslib/menu/10542/bbs/20001/bbsPostList.do",
-      "title": "민방위 훈련 실시 안내(전국 동시 실시)",
-      "category": "공지",
-      "posted": "2026-08-18",
       "deadline": null,
       "deadlineEstimated": false,
       "link": "https://library.gangnam.go.kr/yslib/menu/10542/bbs/20001/bbsPostList.do"
@@ -1202,6 +1202,16 @@
       "deadline": null,
       "deadlineEstimated": false,
       "link": "https://www.gangnam.go.kr/office/gfac/board/gfac_staffrec/573/view.do?mid=gfac_staffRec"
+    },
+    {
+      "source": "l4d 도서관(추정)",
+      "sourceUrl": "https://www.l4d.or.kr/small/menu/10018/bbs/20001/bbsPostList.do",
+      "title": "[이문1동꿈꾸는] 이문 1동 작은도서관 휴관 및 폐관 안내",
+      "category": "공지",
+      "posted": "2026-08-27",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.l4d.or.kr/small/menu/10018/bbs/20001/bbsPostList.do"
     },
     {
       "source": "l4d 도서관(추정)",
@@ -1389,16 +1399,6 @@
       "title": "[장안꿈마루어린이] 2026년 4월 \"문화가 있는 날\" 이벤트 두배로데이",
       "category": "공지",
       "posted": "2026-04-29",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.l4d.or.kr/small/menu/10018/bbs/20001/bbsPostList.do"
-    },
-    {
-      "source": "l4d 도서관(추정)",
-      "sourceUrl": "https://www.l4d.or.kr/small/menu/10018/bbs/20001/bbsPostList.do",
-      "title": "[용두어울림] 2026년 5월 가정의 달 행사 안내",
-      "category": "공지",
-      "posted": "2026-04-21",
       "deadline": null,
       "deadlineEstimated": false,
       "link": "https://www.l4d.or.kr/small/menu/10018/bbs/20001/bbsPostList.do"
@@ -2676,7 +2676,7 @@
     {
       "source": "노원문화재단(채용)",
       "sourceUrl": "https://www.nowonarts.kr/channels/job/posts",
-      "title": "2026년 8차 노원문화재단 노원구립도서관 채용 공고 [기간제-장애인전형] N",
+      "title": "2026년 8차 노원문화재단 노원구립도서관 채용 공고 [기간제-장애인전형]",
       "category": "채용",
       "posted": "2026-08-26",
       "deadline": null,
