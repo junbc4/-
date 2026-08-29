@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-29T03:16:06+00:00",
-  "count": 268,
+  "generatedAt": "2026-08-29T09:18:00+00:00",
+  "count": 267,
   "errors": [],
   "postings": [
     {
@@ -56,7 +56,7 @@
     {
       "source": "서울교육포털(사서검색)",
       "sourceUrl": "https://work.sen.go.kr/work/main/BD_selectMainSrch.do?q_searchWord=%EC%82%AC%EC%84%9C",
-      "title": "채용공고등록 채용공고등록",
+      "title": "채용공고등록",
       "category": "채용",
       "posted": null,
       "deadline": null,
@@ -396,6 +396,16 @@
     {
       "source": "강북구립도서관",
       "sourceUrl": "https://www.gblib.or.kr/gangbuk/board/notice_list.do",
+      "title": "[삼각산] 매월 셋째 주 수요일, <북스타트 데이(8월)> 안내",
+      "category": "공지",
+      "posted": "2026-08-29",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.gblib.or.kr/gangbuk/board/notice_list.do"
+    },
+    {
+      "source": "강북구립도서관",
+      "sourceUrl": "https://www.gblib.or.kr/gangbuk/board/notice_list.do",
       "title": "[솔샘] 솔샘문화정보도서관 재개관 안내",
       "category": "공지",
       "posted": "2026-08-28",
@@ -479,16 +489,6 @@
       "title": "긴급 [미아사거리역 예약대출기 점검·중지]",
       "category": "공지",
       "posted": "2026-08-16",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.gblib.or.kr/gangbuk/board/notice_list.do"
-    },
-    {
-      "source": "강북구립도서관",
-      "sourceUrl": "https://www.gblib.or.kr/gangbuk/board/notice_list.do",
-      "title": "[솔샘x한국언론진흥재단 미디어교육 평생교실] AI 내비게이션",
-      "category": "공지",
-      "posted": "2026-08-15",
       "deadline": null,
       "deadlineEstimated": false,
       "link": "https://www.gblib.or.kr/gangbuk/board/notice_list.do"
@@ -806,6 +806,36 @@
     {
       "source": "강남구립도서관(통합)",
       "sourceUrl": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do",
+      "title": "삼성 [삼성도서관 북큐레이션] 2026 양성평등주간 북큐레이션",
+      "category": "공지",
+      "posted": "2026-08-29",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do"
+    },
+    {
+      "source": "강남구립도서관(통합)",
+      "sourceUrl": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do",
+      "title": "개포하늘꿈 [개포하늘꿈] 2026년 7월 1차 희망도서 안내",
+      "category": "공지",
+      "posted": "2026-08-29",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do"
+    },
+    {
+      "source": "강남구립도서관(통합)",
+      "sourceUrl": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do",
+      "title": "대치 [대치도서관] 2026년 1~2차 신착 DVD 안내",
+      "category": "공지",
+      "posted": "2026-08-29",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do"
+    },
+    {
+      "source": "강남구립도서관(통합)",
+      "sourceUrl": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do",
       "title": "대치1 [대치1작은도서관] 2026년 8월 2차 신착도서 안내",
       "category": "공지",
       "posted": "2026-08-29",
@@ -867,36 +897,6 @@
       "source": "강남구립도서관(통합)",
       "sourceUrl": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do",
       "title": "역삼푸른솔 [역삼푸른솔도서관] 2026년 상반기 다대출도서 안내",
-      "category": "공지",
-      "posted": "2026-08-28",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do"
-    },
-    {
-      "source": "강남구립도서관(통합)",
-      "sourceUrl": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do",
-      "title": "통합 [강남구립도서관] 2026년 9월 독서의 달 행사 안내",
-      "category": "공지",
-      "posted": "2026-08-28",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do"
-    },
-    {
-      "source": "강남구립도서관(통합)",
-      "sourceUrl": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do",
-      "title": "논현 [신간도서 안내] 2026년 8월 2차 입수도서 목록 및 카드뉴스",
-      "category": "공지",
-      "posted": "2026-08-28",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do"
-    },
-    {
-      "source": "강남구립도서관(통합)",
-      "sourceUrl": "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do",
-      "title": "역삼푸른솔 [역삼푸른솔도서관] 2026년 9월 원화전시 안내",
       "category": "공지",
       "posted": "2026-08-28",
       "deadline": null,
@@ -1162,16 +1162,6 @@
       "deadline": null,
       "deadlineEstimated": false,
       "link": "https://www.gdlibrary.or.kr/portal/menu/51/board/1/post/301364"
-    },
-    {
-      "source": "강동구립도서관",
-      "sourceUrl": "https://www.gdlibrary.or.kr/portal/menu/51/board/1/list",
-      "title": "[모집] 구소정 영화감독 강연 <텍스트 너머: 기록하는 삶>",
-      "category": "채용",
-      "posted": null,
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.gdlibrary.or.kr/portal/menu/51/board/1/post/301358"
     },
     {
       "source": "강남문화재단(채용)",
