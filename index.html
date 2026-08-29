@@ -185,8 +185,8 @@
       </label>
       <select id="src"><option value="">전체 기관</option></select>
       <select id="sort">
-        <option value="deadline">마감임박순</option>
         <option value="posted">최신 등록순</option>
+        <option value="deadline">마감임박순</option>
       </select>
       <div class="toggle" role="group" aria-label="분류 필터">
         <button id="only-recruit" aria-pressed="true">채용만</button>
@@ -255,7 +255,7 @@ let GENERATED_AT = null;
 /* ---------- 렌더링 ---------- */
 const $ = s => document.querySelector(s);
 const listEl = $("#list"), countEl = $("#count");
-const state = { q:"", src:"", sort:"deadline", onlyRecruit:true };
+const state = { q:"", src:"", sort:"posted", onlyRecruit:true };
 
 // 기관 드롭다운 채우기
 [...new Set(DATA.map(d=>d.source))].forEach(s=>{

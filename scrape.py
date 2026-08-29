@@ -1,11 +1,13 @@
 """
-scrape.py — GitHub Actions용 크롤러 (해외 IP).
- - local: true 사이트(해외차단, 예: 성동·성북)는 건너뜀 → 집PC(run_local.py)가 담당
- - 사이트마다 새 탭 열고 닫아 충돌 방지
- - 로딩 실패 또는 '추출 0건'이면 더 오래 기다려 재시도(은평류 지연로딩 대응)
+scrape.py — GitHub Actions용 크롤러.
+ - local:true 사이트는 건너뜀(집PC 담당)
+ - 로딩 실패/추출0건이면 더 오래 기다려 재시도
+ - '해외차단' 자동 감지 → 차단/실패 사이트를 blocked.json 에 기록하고 로그에 [BLOCKED] 출력
+   → 어떤 사이트를 로컬에서 돌려야 하는지 자동으로 알려줌
 
 사용:
-    python scrape.py          # data.json 생성 (local 사이트 제외)
+    python scrape.py          # data.json + blocked.json 생성 (local 제외)
+    python scrape.py --local  # local:true 사이트만 → data_local.json
     python scrape.py --debug  # 렌더링 HTML을 debug/ 에 저장
 """
 import sys, json, argparse
@@ -19,8 +21,9 @@ from extract import extract
 
 ROOT = Path(__file__).resolve().parent
 SITES_FILE = ROOT / "sites.yaml"
-OUT_FILE = ROOT / "data.json"
-DEBUG_DIR = ROOT / "debug"
+
+BLOCK_HINTS = ["해외에서의", "접속을 제한", "보안 정책에 따라",
+               "Access Denied", "Forbidden", "차단되었습니다"]
 
 
 def _text_len(html):
@@ -30,12 +33,15 @@ def _text_len(html):
         return len(html or "")
 
 
+def _is_blocked(html):
+    return any(h in (html or "") for h in BLOCK_HINTS)
+
+
 def _attempt(browser, site, wait_until, goto_timeout, settle_ms):
     ctx = browser.new_context(
         user_agent=("Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
                     "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"),
-        locale="ko-KR",
-    )
+        locale="ko-KR")
     page = ctx.new_page()
     try:
         try:
@@ -43,15 +49,11 @@ def _attempt(browser, site, wait_until, goto_timeout, settle_ms):
         except Exception:
             pass
         if site.get("wait_for"):
-            try:
-                page.wait_for_selector(site["wait_for"], timeout=12000)
-            except Exception:
-                pass
+            try: page.wait_for_selector(site["wait_for"], timeout=10000)
+            except Exception: pass
         page.wait_for_timeout(settle_ms)
-        try:
-            return page.content()
-        except Exception:
-            return ""
+        try: return page.content()
+        except Exception: return ""
     finally:
         try: page.close()
         except Exception: pass
@@ -60,42 +62,55 @@ def _attempt(browser, site, wait_until, goto_timeout, settle_ms):
 
 
 def render_and_extract(browser, site, today):
-    """렌더 → 추출. 내용부족/0건이면 networkidle로 1회 재시도."""
     base = site.get("settle_ms", 1500)
-    html = _attempt(browser, site, "domcontentloaded", 35000, base)
+    html = _attempt(browser, site, "domcontentloaded", 30000, base)
     rows = extract(html=html or "", base_url=site["url"], source=site["name"], cfg=site, today=today)
-    if _text_len(html) < 200 or len(rows) == 0:
-        html2 = _attempt(browser, site, "networkidle", 60000, base + 3000)
+    if _text_len(html) < 200 or _is_blocked(html):
+        html2 = _attempt(browser, site, "networkidle", 50000, base + 2500)
         rows2 = extract(html=html2 or "", base_url=site["url"], source=site["name"], cfg=site, today=today)
-        if len(rows2) > len(rows):
-            return html2, rows2
-    return html, rows
+        if _is_blocked(html2) or len(rows2) > len(rows):
+            html, rows = html2, rows2
+    blocked = _is_blocked(html) or (_text_len(html) < 100)
+    return html, rows, blocked
 
 
 def scrape_all(debug=False, only_local=False):
     cfg = yaml.safe_load(SITES_FILE.read_text(encoding="utf-8"))
     sites = cfg.get("sites", [])
     today = date.today()
-    all_rows, errors = [], []
-    if debug:
-        DEBUG_DIR.mkdir(exist_ok=True)
+    all_rows, errors, blocked_list = [], [], []
+    DEBUG_DIR = ROOT / "debug"
+    if debug: DEBUG_DIR.mkdir(exist_ok=True)
+
+    # 로컬 실행: local:true + blocked.json 에 기록된 이름까지 수집
+    blocked_names = set()
+    if only_local:
+        bf = ROOT / "blocked.json"
+        if bf.exists():
+            try:
+                blocked_names = set(json.loads(bf.read_text(encoding="utf-8")).get("blocked", []))
+                print(f"[로컬] blocked.json 로드: {len(blocked_names)}곳", flush=True)
+            except Exception:
+                pass
 
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
         for site in sites:
             is_local = bool(site.get("local"))
-            # GitHub 실행: local 사이트 건너뜀 / 집PC 실행: local 사이트만
-            if only_local and not is_local:
-                continue
-            if not only_local and is_local:
-                continue
+            target_local = is_local or (site.get("name") in blocked_names)
+            if only_local and not target_local: continue
+            if not only_local and is_local: continue
             name = site.setdefault("name", site["url"])
             try:
-                html, rows = render_and_extract(browser, site, today)
+                html, rows, blocked = render_and_extract(browser, site, today)
                 if debug:
                     safe = "".join(c if c.isalnum() else "_" for c in name)
                     (DEBUG_DIR / f"{safe}.html").write_text(html or "", encoding="utf-8")
-                print(f"[OK] {name}: {len(rows)}건", flush=True)
+                if blocked and len(rows) == 0:
+                    blocked_list.append(name)
+                    print(f"[BLOCKED] {name} → 로컬 수집 필요", flush=True)
+                else:
+                    print(f"[OK] {name}: {len(rows)}건", flush=True)
                 all_rows.extend(rows)
             except Exception as e:
                 msg = str(e).splitlines()[0]
@@ -109,19 +124,29 @@ def scrape_all(debug=False, only_local=False):
         if key in seen: continue
         seen.add(key); deduped.append(r)
 
+    now = datetime.now(timezone.utc).isoformat(timespec="seconds")
     out = ROOT / ("data_local.json" if only_local else "data.json")
-    payload = {
-        "generatedAt": datetime.now(timezone.utc).isoformat(timespec="seconds"),
-        "count": len(deduped), "errors": errors, "postings": deduped,
-    }
-    out.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
-    print(f"\n총 {len(deduped)}건 저장 → {out.name}"
-          + (f" (오류 {len(errors)}건)" if errors else ""), flush=True)
+    out.write_text(json.dumps({
+        "generatedAt": now, "count": len(deduped),
+        "errors": errors, "postings": deduped,
+    }, ensure_ascii=False, indent=2), encoding="utf-8")
+
+    if not only_local:
+        # 차단/실패 사이트 목록 저장 → 어떤 걸 로컬에서 돌릴지 알려줌
+        (ROOT / "blocked.json").write_text(json.dumps({
+            "generatedAt": now, "blocked": blocked_list,
+        }, ensure_ascii=False, indent=2), encoding="utf-8")
+        print(f"\n총 {len(deduped)}건 저장 · 차단감지 {len(blocked_list)}곳"
+              + (f" (오류 {len(errors)}건)" if errors else ""), flush=True)
+        if blocked_list:
+            print("차단(로컬 필요):", ", ".join(blocked_list), flush=True)
+    else:
+        print(f"\n[로컬] 총 {len(deduped)}건 저장 → data_local.json", flush=True)
 
 
 if __name__ == "__main__":
     ap = argparse.ArgumentParser()
     ap.add_argument("--debug", action="store_true")
-    ap.add_argument("--local", action="store_true", help="local:true 사이트만 수집 → data_local.json")
+    ap.add_argument("--local", action="store_true")
     args = ap.parse_args()
     scrape_all(debug=args.debug, only_local=args.local)

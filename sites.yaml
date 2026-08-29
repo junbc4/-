@@ -1,69 +1,243 @@
-# ============================================================
-#  수집 대상 사이트 목록 (2차 업데이트판)
-# ------------------------------------------------------------
-#  topics 지정 시: 제목에 그 키워드가 있는 글만 수집(도서관/사서만 선별)
-#  구립도서관 사이트: 채용글이 곧 도서관 채용 → topics 없이 채용필터만
-#  문화재단/구청/교육포털: 채용글이 광범위 → topics로 도서관/사서만 선별
-#
-#  튜닝: python scrape.py --debug → debug/기관명.html 로 selector 확인
-#  ※ 일부 기관명은 도메인 기준 추정. 실제 이름으로 수정하세요.
-# ============================================================
-
-_topics_library: &lib [도서관, 사서, 자료실, 열람실, 작은도서관, 사서보조, 도서관실무사, 학교도서관]
+# 자동 생성: 신규 200+ URL + 기존 사이트 병합/중복제거
+_topics_library: &lib [도서관, 사서, 자료실, 열람실, 작은도서관, 사서보조, 도서관실무사, 학교도서관, 기간제, 공무직]
 
 sites:
-
-  # ---------- 교육청 채용 포털 (학교도서관 사서·실무사) ----------
-  - { name: 서울교육일자리포털, url: "https://work.sen.go.kr/work/search/recInfo/BD_selectSrchRecInfo.do", topics: *lib, wait_for: "ul li a, .list li", settle_ms: 1500 }  # READY. 567건 중 도서관만 선별. 제목이 길게 잡히면 selector 튜닝 권장
-  - { name: "서울교육포털(도서관검색)", url: "https://work.sen.go.kr/work/main/BD_selectMainSrch.do?q_searchWord=%EB%8F%84%EC%84%9C%EA%B4%80", wait_for: "table tr, ul li a, .list li", settle_ms: 2500 }  # 검색=도서관
-  - { name: "서울교육포털(사서검색)", url: "https://work.sen.go.kr/work/main/BD_selectMainSrch.do?q_searchWord=%EC%82%AC%EC%84%9C", wait_for: "table tr, ul li a, .list li", settle_ms: 2500 }  # 검색=사서
-
-  # ---------- 구립도서관 (채용글 전부 도서관 관련 → topics 불필요) ----------
-  - { name: 중구구립도서관,   url: "https://www.junggulib.or.kr/SJGL/menu/10095/bbs/20008/bbsPostList.do", wait_for: "table tr", settle_ms: 1500 }
-  - { name: 광진정보도서관,   url: "https://www.gwangjinlib.seoul.kr/gjinfo/menu/10082/bbs/20003/bbsPostList.do", wait_for: "table tr", settle_ms: 1500 }
-  - { name: 강북구립도서관,   url: "https://www.gblib.or.kr/gangbuk/board/notice_list.do", wait_for: "table tr", settle_ms: 1500 }
-  - { name: 은평구공공도서관,  url: "https://www.eplib.or.kr/intro/menu/10041/bbs/20002/bbsPostList.do", wait_for: "table tr", settle_ms: 1500 }  # 채용공고 게시판(교체됨)
+  - { name: 서울교육일자리포털, url: "https://work.sen.go.kr/work/search/recInfo/BD_selectSrchRecInfo.do", topics: *lib, wait_for: "ul li a, .list li", settle_ms: 1500 }
+  - { name: 서울교육포털(도서관검색), url: "https://work.sen.go.kr/work/main/BD_selectMainSrch.do?q_searchWord=%EB%8F%84%EC%84%9C%EA%B4%80", wait_for: "table tr, ul li a, .list li", settle_ms: 2500 }
+  - { name: 서울교육포털(사서검색), url: "https://work.sen.go.kr/work/main/BD_selectMainSrch.do?q_searchWord=%EC%82%AC%EC%84%9C", wait_for: "table tr, ul li a, .list li", settle_ms: 2500 }
+  - { name: 중구구립도서관, url: "https://www.junggulib.or.kr/SJGL/menu/10095/bbs/20008/bbsPostList.do", wait_for: "table tr", settle_ms: 1500 }
+  - { name: 광진정보도서관, url: "https://www.gwangjinlib.seoul.kr/gjinfo/menu/10082/bbs/20003/bbsPostList.do", wait_for: "table tr", settle_ms: 1500 }
+  - { name: 강북구립도서관, url: "https://www.gblib.or.kr/gangbuk/board/notice_list.do", wait_for: "table tr", settle_ms: 1500 }
+  - { name: 은평구공공도서관, url: "https://www.eplib.or.kr/intro/menu/10041/bbs/20002/bbsPostList.do", wait_for: "table tr", settle_ms: 1500 }
   - { name: 서대문구립도서관, url: "https://lib.sdm.or.kr/sdmlib/menu/10115/bbs/20001/bbsPostList.do", wait_for: "table tr", settle_ms: 1500 }
-  - { name: "양천구립도서관(yslibrary)", url: "https://www.yslibrary.or.kr/intro/unityNoticeList.do", wait_for: "table tr, .board li", settle_ms: 1500 }  # 교체된 목록 주소
+  - { name: 양천구립도서관(yslibrary), url: "https://www.yslibrary.or.kr/intro/unityNoticeList.do", wait_for: "table tr, .board li", settle_ms: 1500 }
   - { name: 강남구립도서관(통합), url: "https://library.gangnam.go.kr/intro/menu/10046/bbs/20001/bbsPostList.do", wait_for: "table tr", settle_ms: 1500 }
-  - { name: 강남 논현도서관,  url: "https://library.gangnam.go.kr/nhlib/menu/12440/bbs/20290/bbsPostList.do", wait_for: "table tr", settle_ms: 1500 }
-  - { name: 강남 역삼도서관,  url: "https://library.gangnam.go.kr/yslib/menu/10542/bbs/20001/bbsPostList.do", wait_for: "table tr", settle_ms: 1500 }  # URL 교체
-  - { name: 강남 도곡도서관,  url: "https://library.gangnam.go.kr/dch1lib/menu/12442/bbs/20292/bbsPostList.do", wait_for: "table tr", settle_ms: 1500 }
-  - { name: 강동구립도서관,   url: "https://www.gdlibrary.or.kr/portal/menu/51/board/1/list", wait_for: "table tr, .board-list li", settle_ms: 1500 }
-  - { name: 강남문화재단(채용), url: "https://www.gangnam.go.kr/office/gfac/board/gfac_staffrec/list.do?mid=gfac_staffRec", topics: *lib, wait_for: "table tr", settle_ms: 1500 }  # 신규
-  - { name: "l4d 도서관(추정)", url: "https://www.l4d.or.kr/small/menu/10018/bbs/20001/bbsPostList.do", wait_for: "table tr", settle_ms: 1500 }  # 기관 확인 필요
-
-  # ---------- 문화재단 (도서관/사서 관련만 topics 필터) ----------
-  - { name: 성동문화재단(채용), url: "https://www.sdfac.or.kr/kor/recruit/app/empmn_list.do?gotoMenuNo=03010000", topics: *lib, wait_for: "table tbody tr, .list li", settle_ms: 1800, local: true }  # 해외차단 → 집PC 수집
-  - { name: 종로문화재단(채용정보), url: "https://www.jfac.or.kr/site/main/archive/post/category/채용정보", topics: *lib, wait_for: ".board_list li, table tr, .post-list li", settle_ms: 2000 }  # SPA
+  - { name: "강남 논현도서관", url: "https://library.gangnam.go.kr/nhlib/menu/12440/bbs/20290/bbsPostList.do", wait_for: "table tr", settle_ms: 1500 }
+  - { name: "강남 역삼도서관", url: "https://library.gangnam.go.kr/yslib/menu/10542/bbs/20001/bbsPostList.do", wait_for: "table tr", settle_ms: 1500 }
+  - { name: "강남 도곡도서관", url: "https://library.gangnam.go.kr/dch1lib/menu/12442/bbs/20292/bbsPostList.do", wait_for: "table tr", settle_ms: 1500 }
+  - { name: 강동구립도서관, url: "https://www.gdlibrary.or.kr/portal/menu/51/board/1/list", wait_for: "table tr, .board-list li", settle_ms: 1500 }
+  - { name: 강남문화재단(채용), url: "https://www.gangnam.go.kr/office/gfac/board/gfac_staffrec/list.do?mid=gfac_staffRec", topics: *lib, wait_for: "table tr", settle_ms: 1500 }
+  - { name: "l4d 도서관(추정)", url: "https://www.l4d.or.kr/small/menu/10018/bbs/20001/bbsPostList.do", wait_for: "table tr", settle_ms: 1500 }
+  - { name: 성동문화재단(채용), url: "https://www.sdfac.or.kr/kor/recruit/app/empmn_list.do?gotoMenuNo=03010000", topics: *lib, wait_for: "table tbody tr, .list li", settle_ms: 1800, local: true }
+  - { name: 종로문화재단(채용정보), url: "https://www.jfac.or.kr/site/main/archive/post/category/채용정보", topics: *lib, wait_for: ".board_list li, table tr, .post-list li", settle_ms: 2000 }
   - { name: 광진문화재단(나루아트/채용), url: "https://www.naruart.or.kr/community/recruit_list.php", topics: *lib, settle_ms: 1200 }
-  - { name: 성북문화재단,     url: "https://www.sbculture.or.kr/culture/bbs/BMSR00034/list.do?menuNo=500348", topics: *lib, wait_for: "table tr", settle_ms: 1500, local: true }  # 해외차단 → 집PC 수집
-  - { name: 은평문화재단, url: "https://www.efac.or.kr/page08/sub02.php", topics: *lib, settle_ms: 1200 }  # 신규(php)
-  - { name: 도봉문화재단,     url: "https://dbfac.or.kr/front/board/boardContentsListPage.do?board_id=7", topics: *lib, wait_for: "table tr, .board li", settle_ms: 1800 }
-  - { name: 영등포문화재단,   url: "https://www.ydpcf.or.kr/board.do?bid=3", topics: *lib, wait_for: "table tr", settle_ms: 1500 }
+  - { name: 성북문화재단, url: "https://www.sbculture.or.kr/culture/bbs/BMSR00034/list.do?menuNo=500348", topics: *lib, wait_for: "table tr", settle_ms: 1500, local: true }
+  - { name: 은평문화재단, url: "https://www.efac.or.kr/page08/sub02.php", topics: *lib, settle_ms: 1200 }
+  - { name: 도봉문화재단, url: "https://dbfac.or.kr/front/board/boardContentsListPage.do?board_id=7", topics: *lib, wait_for: "table tr, .board li", settle_ms: 1800 }
+  - { name: 영등포문화재단, url: "https://www.ydpcf.or.kr/board.do?bid=3", topics: *lib, wait_for: "table tr", settle_ms: 1500 }
   - { name: 동작문화재단(채용), url: "https://www.idfac.or.kr/bbs/board.php?bo_table=job", topics: *lib, settle_ms: 1200 }
-  - { name: 서초문화재단(채용), url: "https://www.seochocf.or.kr/site/main/archive/post/category/공지사항?metaCode1=RECRUIT", topics: *lib, wait_for: ".board_list li, table tr", settle_ms: 2000 }  # SPA
-  - { name: 관악문화재단(채용), url: "https://gfac.or.kr/site/main/recruit/accordionList", topics: *lib, wait_for: ".accordion li, table tr, .list li", settle_ms: 2000 }  # SPA. 이전 실행서 도메인 미해석 → 재실행 시 확인
+  - { name: 서초문화재단(채용), url: "https://www.seochocf.or.kr/site/main/archive/post/category/공지사항?metaCode1=RECRUIT", topics: *lib, wait_for: ".board_list li, table tr", settle_ms: 2000 }
+  - { name: 관악문화재단(채용), url: "https://gfac.or.kr/site/main/recruit/accordionList", topics: *lib, wait_for: ".accordion li, table tr, .list li", settle_ms: 2000 }
   - { name: 금천문화재단(채용/추정), url: "https://gcfac.or.kr/board/recruit", topics: *lib, wait_for: "table tr, .board li", settle_ms: 1800 }
   - { name: 용산문화재단(추정), url: "https://yfac.kr/main/contents.do?a_num=78696582", topics: *lib, wait_for: "table tr, .list li", settle_ms: 1800 }
-  - { name: 노원문화재단(채용), url: "https://www.nowonarts.kr/channels/job/posts", topics: *lib, wait_for: "table tr", settle_ms: 1500 }  # URL 교체(확인완료)
-  - { name: 강북문화(brms/추정), url: "https://gbcmc.brms.kr/posting", topics: *lib, wait_for: ".posting, .list li, table tr", settle_ms: 2000 }  # ATS
-  - { name: "dfmc(채용/추정)", url: "https://www.dfmc.kr/course/announce/recruit_li.asp", topics: *lib, settle_ms: 1200 }  # 기관 확인 필요
-  - { name: "caci(공지)", url: "https://www.caci.or.kr/community/notice", topics: *lib, wait_for: "table tr, .board li, .list li", settle_ms: 1800 }  # 교체된 목록 주소
+  - { name: 노원문화재단(채용), url: "https://www.nowonarts.kr/channels/job/posts", topics: *lib, wait_for: "table tr", settle_ms: 1500 }
+  - { name: 강북문화(brms/추정), url: "https://gbcmc.brms.kr/posting", topics: *lib, wait_for: ".posting, .list li, table tr", settle_ms: 2000 }
+  - { name: dfmc(채용/추정), url: "https://www.dfmc.kr/course/announce/recruit_li.asp", topics: *lib, settle_ms: 1200 }
+  - { name: caci(공지), url: "https://www.caci.or.kr/community/notice", topics: *lib, wait_for: "table tr, .board li, .list li", settle_ms: 1800 }
   - { name: "sscmc 고시공고(추정)", url: "https://www.sscmc.or.kr/bbs/board.php?bo_table=gosi_gonggo", topics: *lib, settle_ms: 1200 }
-
-  # ---------- 구청/자치구 게시판 (도서관/사서 관련만) ----------
   - { name: 중구청, url: "https://www.junggu.seoul.kr/content.do?cmsid=15450", topics: *lib, wait_for: "table tr", settle_ms: 1500 }
   - { name: 마포구청, url: "https://www.mapo.go.kr/site/main/nPortalr/lists", topics: *lib, wait_for: "table tr, .list li", settle_ms: 1800 }
-  # - { name: 강서구청(고시공고), url: "https://eminwon.gangseo.seoul.kr/..." }  # 사용자 요청으로 제외(버림)
   - { name: 구로구청(채용정보), url: "https://www.guro.go.kr/www/selectBbsNttList.do?bbsNo=664&key=1792", topics: *lib, wait_for: "table tr", settle_ms: 1500 }
-
-  # ---------- 외부 채용 플랫폼 (Incruit) — 구조 상이, 개별 확인 권장 ----------
   - { name: 송파문화재단(Incruit), url: "https://recruit.incruit.com/songpafac/", topics: *lib, wait_for: ".list, table tr, .recruit li", settle_ms: 2000 }
   - { name: 강동문화재단(Incruit), url: "https://recruit.incruit.com/gdfac/", topics: *lib, wait_for: ".list, table tr, .recruit li", settle_ms: 2000 }
-
-  # ============================================================
-  # ⚠️ 아래는 그대로면 수집 0건 — 주소 교체/개별 대응 필요
-  # ============================================================
-  # - { name: 전국교육청통합채용, url: "https://edurecruit.go.kr" }   # Nexacro SPA → 표준 수집 불가. 서울은 work.sen.go.kr로 대체
-  # - { name: jnfac(중랑문화재단?), url: "https://www.jnfac.or.kr/" } # FIXURL: 메인페이지 → 실제 채용/공지 목록 주소 필요
+  - { name: www.yslibrary.or.kr-cheongpa, url: "https://www.yslibrary.or.kr/cheongpa/menu/10057/bbs/20001/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.yslibrary.or.kr-dream, url: "https://www.yslibrary.or.kr/dream/menu/10125/bbs/20004/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.sdlib.or.kr-SD, url: "https://www.sdlib.or.kr/SD/contents.do?a_num=25663758", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.sdlib.or.kr-KH, url: "https://www.sdlib.or.kr/KH/contents.do?a_num=20831646", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.sdlib.or.kr-YD, url: "https://www.sdlib.or.kr/YD/contents.do?a_num=55661714", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.sdlib.or.kr-RB, url: "https://www.sdlib.or.kr/RB/contents.do?a_num=48121466", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.sdlib.or.kr-SS, url: "https://www.sdlib.or.kr/SS/contents.do?a_num=22326537", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.sdlib.or.kr-CG, url: "https://www.sdlib.or.kr/CG/contents.do?a_num=33672856", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.sdlib.or.kr-fore, url: "https://www.sdlib.or.kr/fore/contents.do?a_num=80628730", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.gwangjinlib.seoul.kr-jyriver, url: "https://www.gwangjinlib.seoul.kr/jyriver/menu/11102/bbs/20003/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.gwangjinlib.seoul.kr-achasan, url: "https://www.gwangjinlib.seoul.kr/achasan/menu/11570/bbs/20003/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.gwangjinlib.seoul.kr-childeng, url: "https://www.gwangjinlib.seoul.kr/childeng/menu/11775/bbs/20003/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.gwangjinlib.seoul.kr-jgsports, url: "https://www.gwangjinlib.seoul.kr/jgsports/menu/10267/bbs/20003/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.gwangjinlib.seoul.kr-gunja, url: "https://www.gwangjinlib.seoul.kr/gunja/menu/11380/bbs/20003/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.gwangjinlib.seoul.kr-gu3dong, url: "https://www.gwangjinlib.seoul.kr/gu3dong/menu/10665/bbs/20003/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.gwangjinlib.seoul.kr-jy4dong, url: "https://www.gwangjinlib.seoul.kr/jy4dong/menu/10461/bbs/20003/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: 광진작은도서관-small, url: "https://smalllib.gwangjin.go.kr/small/bbs/40004/bbsList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.l4d.or.kr-info, url: "https://www.l4d.or.kr/info/menu/10198/bbs/20006/bbsPostList.do", topics: *lib, wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.l4d.or.kr-dsn, url: "https://www.l4d.or.kr/dsn/menu/10301/bbs/20006/bbsPostList.do", topics: *lib, wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.l4d.or.kr-bfl, url: "https://www.l4d.or.kr/bfl/menu/10879/bbs/20006/bbsPostList.do", topics: *lib, wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.l4d.or.kr-bml, url: "https://www.l4d.or.kr/bml/menu/11088/bbs/20006/bbsPostList.do", topics: *lib, wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.l4d.or.kr-hgh, url: "https://www.l4d.or.kr/hgh/menu/11391/bbs/20006/bbsPostList.do", topics: *lib, wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.l4d.or.kr-jac, url: "https://www.l4d.or.kr/jac/menu/10394/bbs/20006/bbsPostList.do", topics: *lib, wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.l4d.or.kr-jghl, url: "https://www.l4d.or.kr/jghl/menu/11772/bbs/20006/bbsPostList.do", topics: *lib, wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.l4d.or.kr-hgc, url: "https://www.l4d.or.kr/hgc/menu/10576/bbs/20006/bbsPostList.do", topics: *lib, wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.l4d.or.kr-imc, url: "https://www.l4d.or.kr/imc/menu/10669/bbs/20006/bbsPostList.do", topics: *lib, wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.jungnanglib.seoul.kr-jnlib, url: "https://www.jungnanglib.seoul.kr/jnlib/menu/10205/bbs/20005/bbsPostList.do?searchCategory=3", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.jungnanglib.seoul.kr-mmlib, url: "https://www.jungnanglib.seoul.kr/mmlib/menu/10322/bbs/20005/bbsPostList.do?searchCategory=3", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.jungnanglib.seoul.kr-intro, url: "https://www.jungnanglib.seoul.kr/intro/menu/10081/bbs/20005/bbsPostList.do?searchCategory=3", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.jungnanglib.seoul.kr-jhklib, url: "https://www.jungnanglib.seoul.kr/jhklib/menu/10548/bbs/20005/bbsPostList.do?searchCategory=3", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.jungnanglib.seoul.kr-jhmlib, url: "https://www.jungnanglib.seoul.kr/jhmlib/menu/11024/bbs/20005/bbsPostList.do?searchCategory=3", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.jungnanglib.seoul.kr-ywlib, url: "https://www.jungnanglib.seoul.kr/ywlib/menu/10666/bbs/20005/bbsPostList.do?searchCategory=3", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.jungnanglib.seoul.kr-sblib, url: "https://www.jungnanglib.seoul.kr/sblib/menu/10780/bbs/20005/bbsPostList.do?searchCategory=3", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.jungnanglib.seoul.kr-small, url: "https://www.jungnanglib.seoul.kr/small/menu/10846/bbs/20016/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: 서초구립도서관-NoticeInfo, url: "https://public.seocholib.or.kr/NoticeInfo", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: 강남구립도서관-dogoklib, url: "https://library.gangnam.go.kr/dogoklib/menu/12000/bbs/20070/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: 강남구립도서관-hnkklib, url: "https://library.gangnam.go.kr/hnkklib/menu/13213/bbs/20696/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: 강남구립도서관-nmmlib, url: "https://library.gangnam.go.kr/nmmlib/menu/13468/bbs/20794/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: 강남구립도서관-dchlib, url: "https://library.gangnam.go.kr/dchlib/menu/12443/bbs/20293/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: 강남구립도서관-mglib, url: "https://library.gangnam.go.kr/mglib/menu/12444/bbs/20294/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: 강남구립도서관-hchildlib, url: "https://library.gangnam.go.kr/hchildlib/menu/12445/bbs/20295/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: 강남구립도서관-sslib, url: "https://library.gangnam.go.kr/sslib/menu/12446/bbs/20296/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: 강남구립도서관-sklib, url: "https://library.gangnam.go.kr/sklib/menu/12447/bbs/20297/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: 강남구립도서관-segokmarulib, url: "https://library.gangnam.go.kr/segokmarulib/menu/11527/bbs/20011/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: 강남구립도서관-yslib, url: "https://library.gangnam.go.kr/yslib/menu/12449/bbs/20299/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: 강남구립도서관-ysplib, url: "https://library.gangnam.go.kr/ysplib/menu/12450/bbs/20300/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: 강남구립도서관-englib, url: "https://library.gangnam.go.kr/englib/menu/11615/bbs/20001/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: 강남구립도서관-cdlib, url: "https://library.gangnam.go.kr/cdlib/menu/12454/bbs/20304/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: 강남구립도서관-happylib, url: "https://library.gangnam.go.kr/happylib/menu/12455/bbs/20305/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: 강남구립도서관-jdwlib, url: "https://library.gangnam.go.kr/jdwlib/menu/12452/bbs/20302/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: 강남구립도서관-jgwlib, url: "https://library.gangnam.go.kr/jgwlib/menu/12453/bbs/20303/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: 강남구립도서관-yllib, url: "https://library.gangnam.go.kr/yllib/menu/12451/bbs/20301/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: 강남구립도서관-ys2lib, url: "https://library.gangnam.go.kr/ys2lib/menu/12448/bbs/20298/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.splib.or.kr-spjlib, url: "https://www.splib.or.kr/spjlib/menu/11596/bbs/20012/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.splib.or.kr-spclib, url: "https://www.splib.or.kr/spclib/menu/11597/bbs/20012/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.splib.or.kr-spwlib, url: "https://www.splib.or.kr/spwlib/menu/11598/bbs/20012/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.splib.or.kr-spglib, url: "https://www.splib.or.kr/spglib/menu/11599/bbs/20012/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.splib.or.kr-spdlib, url: "https://www.splib.or.kr/spdlib/menu/11600/bbs/20012/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.splib.or.kr-sppnlib, url: "https://www.splib.or.kr/sppnlib/menu/11601/bbs/20012/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.splib.or.kr-sp2lib, url: "https://www.splib.or.kr/sp2lib/menu/11602/bbs/20012/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.splib.or.kr-sp3lib, url: "https://www.splib.or.kr/sp3lib/menu/11603/bbs/20012/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.splib.or.kr-sp4lib, url: "https://www.splib.or.kr/sp4lib/menu/11604/bbs/20012/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.splib.or.kr-spmlib, url: "https://www.splib.or.kr/spmlib/menu/11605/bbs/20012/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.splib.or.kr-spelib, url: "https://www.splib.or.kr/spelib/menu/11606/bbs/20012/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.gdlibrary.or.kr-ja, url: "https://www.gdlibrary.or.kr/ja/menu/686/board/1/list", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.gdlibrary.or.kr-ss, url: "https://www.gdlibrary.or.kr/ss/menu/608/board/1/list", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.gdlibrary.or.kr-sn, url: "https://www.gdlibrary.or.kr/sn/menu/140/board/1/list", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.gdlibrary.or.kr-gi, url: "https://www.gdlibrary.or.kr/gi/menu/296/board/1/list", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.gdlibrary.or.kr-hg, url: "https://www.gdlibrary.or.kr/hg/menu/218/board/1/list", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.gdlibrary.or.kr-as, url: "https://www.gdlibrary.or.kr/as/menu/374/board/1/list", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.gdlibrary.or.kr-ch, url: "https://www.gdlibrary.or.kr/ch/menu/452/board/1/list", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.gdlibrary.or.kr-dc, url: "https://www.gdlibrary.or.kr/dc/menu/530/board/1/list", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.gdlibrary.or.kr-small, url: "https://www.gdlibrary.or.kr/small/menu/757/board/1/list", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.gblib.or.kr-youth, url: "https://www.gblib.or.kr/youth/board/notice_list.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.gblib.or.kr-solsem, url: "https://www.gblib.or.kr/solsem/board/notice_list.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.gblib.or.kr-suyu, url: "https://www.gblib.or.kr/suyu/board/notice_list.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.gblib.or.kr-mia, url: "https://www.gblib.or.kr/mia/board/notice_list.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.gblib.or.kr-kids, url: "https://www.gblib.or.kr/kids/board/notice_list.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.nowonlib.kr-PublicLibNotice, url: "https://www.nowonlib.kr/PublicLibNotice", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.nowonlib.kr-SmallLibNotice, url: "https://www.nowonlib.kr/SmallLibNotice", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: 양천구립도서관-yclib, url: "https://lib.yangcheon.or.kr/yclib/contents.do?a_num=99331796", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: 양천구립도서관-libgalsan, url: "https://lib.yangcheon.or.kr/libgalsan/contents.do?a_num=73983849", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: 양천구립도서관-libgaeul, url: "https://lib.yangcheon.or.kr/libgaeul/contents.do?a_num=75976444", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: 양천구립도서관-libmokma, url: "https://lib.yangcheon.or.kr/libmokma/contents.do?a_num=63295099", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: 양천구립도서관-libmigam, url: "https://lib.yangcheon.or.kr/libmigam/contents.do?a_num=15309065", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: 양천구립도서관-libbanga, url: "https://lib.yangcheon.or.kr/libbanga/contents.do?a_num=44118570", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: 양천구립도서관-libsin, url: "https://lib.yangcheon.or.kr/libsin/contents.do?a_num=82215721", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: 양천구립도서관-libeng, url: "https://lib.yangcheon.or.kr/libeng/contents.do?a_num=96783322", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: 양천구립도서관-libsun, url: "https://lib.yangcheon.or.kr/libsun/contents.do?a_num=56748898", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: 강서구립도서관-NoticeInfo, url: "https://lib.gangseo.seoul.kr/NoticeInfo?libCode=ALL", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: 구로구립도서관-lib, url: "https://lib.guro.go.kr/#/bbs/notice?offset=0&max=20", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: 금천구립도서관-geumcheonlib, url: "https://geumcheonlib.seoul.kr/geumcheonlib/uce/board/noticeList.do?selfId=1082", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.ydplib.or.kr-intro, url: "https://www.ydplib.or.kr/intro/menu/10022/bbs/20001/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.ydplib.or.kr-sclib, url: "https://www.ydplib.or.kr/sclib/menu/12312/bbs/20001/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.ydplib.or.kr-brlib, url: "https://www.ydplib.or.kr/brlib/menu/12420/bbs/20001/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.ydplib.or.kr-drlib, url: "https://www.ydplib.or.kr/drlib/menu/10103/bbs/20001/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.ydplib.or.kr-sylib, url: "https://www.ydplib.or.kr/sylib/menu/10283/bbs/20001/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.ydplib.or.kr-yulib, url: "https://www.ydplib.or.kr/yulib/menu/10369/bbs/20001/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.ydplib.or.kr-sglib, url: "https://www.ydplib.or.kr/sglib/menu/11726/bbs/20001/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.ydplib.or.kr-wjlib, url: "https://www.ydplib.or.kr/wjlib/menu/12221/bbs/20001/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: 서울교육청도서관-gnlib, url: "https://gnlib.sen.go.kr/gnlib/board/index.do?menu_idx=25&manage_idx=27", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: 서울교육청도서관-gdlib, url: "https://gdlib.sen.go.kr/gdlib/board/index.do?menu_idx=25&manage_idx=52", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: 서울교육청도서관-gslib, url: "https://gslib.sen.go.kr/gslib/board/index.do?menu_idx=25&manage_idx=96", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: 서울교육청도서관-gplib, url: "https://gplib.sen.go.kr/gplib/board/index.do?menu_idx=25&manage_idx=145", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: 서울교육청도서관-gclib, url: "https://gclib.sen.go.kr/gclib/board/index.do?menu_idx=25&manage_idx=312", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: 서울교육청도서관-grlib, url: "https://grlib.sen.go.kr/grlib/board/index.do?menu_idx=25&manage_idx=388", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: 서울교육청도서관-nslib, url: "https://nslib.sen.go.kr/nslib/board/index.do?menu_idx=25&manage_idx=428", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: 서울교육청도서관-dblib, url: "https://dblib.sen.go.kr/dblib/board/index.do?menu_idx=25&manage_idx=530", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: 서울교육청도서관-ddmlib, url: "https://ddmlib.sen.go.kr/ddmlib/board/index.do?menu_idx=25&manage_idx=577", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: 서울교육청도서관-djlib, url: "https://djlib.sen.go.kr/djlib/board/index.do?menu_idx=25&manage_idx=619", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: 서울교육청도서관-sdmlib, url: "https://sdmlib.sen.go.kr/sdmlib/board/index.do?menu_idx=25&manage_idx=749", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: 서울교육청도서관-splib, url: "https://splib.sen.go.kr/splib/board/index.do?menu_idx=25&manage_idx=800", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: 서울교육청도서관-yclib, url: "https://yclib.sen.go.kr/yclib/board/index.do?menu_idx=25&manage_idx=843", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: 서울교육청도서관-childlib, url: "https://childlib.sen.go.kr/childlib/board/index.do?menu_idx=25&manage_idx=893", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: 서울교육청도서관-yslib, url: "https://yslib.sen.go.kr/yslib/board/index.do?menu_idx=25&manage_idx=997", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: 서울교육청도서관-jdlib, url: "https://jdlib.sen.go.kr/jdlib/board/index.do?menu_idx=25&manage_idx=1039", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: 서울교육청도서관-jnlib, url: "https://jnlib.sen.go.kr/jnlib/board/index.do?menu_idx=25&manage_idx=1092", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.mcst.go.kr-slibrary, url: "https://www.mcst.go.kr/slibrary/helper/notice", topics: *lib, wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: 종로구립도서관-bbs, url: "https://lib.jongno.go.kr/bbs/board.php?bo_table=Notice", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.junggu.seoul.kr-content.do, url: "https://www.junggu.seoul.kr/content.do", topics: *lib, wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: 서울도서관-bbs, url: "https://lib.seoul.go.kr/bbs/list/3", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: 서초구립도서관-public, url: "https://public.seocholib.or.kr", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: yangjae.seocholib.or.kr-NoticeInfo, url: "https://yangjae.seocholib.or.kr/NoticeInfo", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: bangbae.seocholib.or.kr-NoticeInfo, url: "https://bangbae.seocholib.or.kr/NoticeInfo", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: jamwon.seocholib.or.kr-NoticeInfo, url: "https://jamwon.seocholib.or.kr/NoticeInfo", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: umyeon.seocholib.or.kr-NoticeInfo, url: "https://umyeon.seocholib.or.kr/NoticeInfo", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: seoi.seocholib.or.kr-NoticeInfo, url: "https://seoi.seocholib.or.kr/NoticeInfo", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: forest.seocholib.or.kr-NoticeInfo, url: "https://forest.seocholib.or.kr/NoticeInfo", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: picturebook.seocholib.or.kr-NoticeInfo, url: "https://picturebook.seocholib.or.kr/NoticeInfo", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: seocho.seocholib.or.kr-NoticeInfo, url: "https://seocho.seocholib.or.kr/NoticeInfo", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: 강남구립도서관-dogoklib2, url: "https://library.gangnam.go.kr/dogoklib/menu/10120/bbs/20001/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: 강남구립도서관-hnkklib2, url: "https://library.gangnam.go.kr/hnkklib/menu/13203/bbs/20001/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: 강남구립도서관-nhlib, url: "https://library.gangnam.go.kr/nhlib/menu/10216/bbs/20001/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: 강남구립도서관-nmmlib2, url: "https://library.gangnam.go.kr/nmmlib/menu/13459/bbs/20001/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: 강남구립도서관-dchlib2, url: "https://library.gangnam.go.kr/dchlib/menu/10296/bbs/20001/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: 강남구립도서관-mglib2, url: "https://library.gangnam.go.kr/mglib/menu/10377/bbs/20001/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: 강남구립도서관-hchildlib2, url: "https://library.gangnam.go.kr/hchildlib/menu/10459/bbs/20001/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: 강남구립도서관-sslib2, url: "https://library.gangnam.go.kr/sslib/menu/11237/bbs/20001/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: 강남구립도서관-sklib2, url: "https://library.gangnam.go.kr/sklib/menu/11311/bbs/20001/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: 강남구립도서관-segokmarulib2, url: "https://library.gangnam.go.kr/segokmarulib/menu/11518/bbs/20001/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: 강남구립도서관-ysplib2, url: "https://library.gangnam.go.kr/ysplib/menu/10621/bbs/20001/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: 강남구립도서관-cdlib2, url: "https://library.gangnam.go.kr/cdlib/menu/10936/bbs/20001/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: 강남구립도서관-happylib2, url: "https://library.gangnam.go.kr/happylib/menu/11015/bbs/20001/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: 강남구립도서관-jdwlib2, url: "https://library.gangnam.go.kr/jdwlib/menu/10778/bbs/20001/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: 강남구립도서관-jgwlib2, url: "https://library.gangnam.go.kr/jgwlib/menu/10857/bbs/20001/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: 강남구립도서관-yllib2, url: "https://library.gangnam.go.kr/yllib/menu/10700/bbs/20001/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: 강남구립도서관-small, url: "https://library.gangnam.go.kr/small/menu/11446/bbs/20007/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: 강남구립도서관-dch1lib, url: "https://library.gangnam.go.kr/dch1lib/menu/11163/bbs/20001/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: 강남구립도서관-ys2lib2, url: "https://library.gangnam.go.kr/ys2lib/menu/11384/bbs/20001/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.splib.or.kr-spjlib2, url: "https://www.splib.or.kr/spjlib/menu/10191/bbs/20001/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.splib.or.kr-spclib2, url: "https://www.splib.or.kr/spclib/menu/10309/bbs/20001/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.splib.or.kr-spwlib2, url: "https://www.splib.or.kr/spwlib/menu/10420/bbs/20001/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.splib.or.kr-spglib2, url: "https://www.splib.or.kr/spglib/menu/10533/bbs/20001/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.splib.or.kr-spdlib2, url: "https://www.splib.or.kr/spdlib/menu/10749/bbs/20001/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.splib.or.kr-sppnlib2, url: "https://www.splib.or.kr/sppnlib/menu/10856/bbs/20001/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.splib.or.kr-sp2lib2, url: "https://www.splib.or.kr/sp2lib/menu/10964/bbs/20001/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.splib.or.kr-sp3lib2, url: "https://www.splib.or.kr/sp3lib/menu/11074/bbs/20001/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.splib.or.kr-sp4lib2, url: "https://www.splib.or.kr/sp4lib/menu/11183/bbs/20001/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.splib.or.kr-spmlib2, url: "https://www.splib.or.kr/spmlib/menu/11295/bbs/20001/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.splib.or.kr-spelib2, url: "https://www.splib.or.kr/spelib/menu/10641/bbs/20001/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.splib.or.kr-spalib, url: "https://www.splib.or.kr/spalib/menu/11403/bbs/20001/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.splib.or.kr-spslib, url: "https://www.splib.or.kr/spslib/menu/11474/bbs/20001/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: 강북문화(brms)-posting, url: "https://gbcmc.brms.kr/posting/view?id=1905", topics: *lib, wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.unilib.dobong.kr-board, url: "https://www.unilib.dobong.kr/board/list.do?a_num=24874869", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.nowonlib.kr-NowonNews, url: "https://www.nowonlib.kr/NowonNews?code=N", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.eplib.or.kr-eplib, url: "https://www.eplib.or.kr/eplib/menu/10304/bbs/20001/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.eplib.or.kr-enlib, url: "https://www.eplib.or.kr/enlib/menu/10851/bbs/20002/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.eplib.or.kr-gsvlib, url: "https://www.eplib.or.kr/gsvlib/menu/11020/bbs/20001/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.eplib.or.kr-nslib, url: "https://www.eplib.or.kr/nslib/menu/11210/bbs/20001/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.eplib.or.kr-etlib, url: "https://www.eplib.or.kr/etlib/menu/11384/bbs/20001/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.eplib.or.kr-intro, url: "https://www.eplib.or.kr/intro/menu/10065/bbs/20011/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: 강서문화재단-gsfc, url: "https://culture.gangseo.seoul.kr/gsfc/bbs/BMSR00042/list.do?menuNo=800144", topics: *lib, wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: 금천문화재단-board, url: "https://gcfac.or.kr/board/recruit?gcfac_menu_cd=U0140", topics: *lib, wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.jnfac.or.kr-board, url: "https://www.jnfac.or.kr/board/7", topics: *lib, wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.sdm.go.kr-genre, url: "https://www.sdm.go.kr/genre/economic/jobinfo/jobs.do", topics: *lib, wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: 마포구립도서관-mcl, url: "https://mplib.mapo.go.kr/mcl/MENU1082/BBS2001/bbsArticleList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: 마포구립도서관-sglib, url: "https://mplib.mapo.go.kr/sglib/MENU1211/BBS2001/bbsArticleList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: 마포구립도서관-purme, url: "https://mplib.mapo.go.kr/purme/MENU1854/BBS2001/bbsArticleList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: 마포구립도서관-naru, url: "https://mplib.mapo.go.kr/naru/MENU2168/BBS2001/bbsArticleList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: 마포구립도서관-englib, url: "https://mplib.mapo.go.kr/englib/MENU1426/BBS2001/bbsArticleList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: 마포구립도서관-libsmall, url: "https://mplib.mapo.go.kr/libsmall/MENU1374/BBS2001/bbsArticleList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.seocholib.or.kr-NoticeInfo, url: "https://www.seocholib.or.kr/NoticeInfo", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: recruit.incruit.com-songpafac, url: "https://recruit.incruit.com/songpafac/job/", topics: *lib, wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.splib.or.kr-intro, url: "https://www.splib.or.kr/intro/menu/10068/bbs/20001/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: recruit.incruit.com-gdfac, url: "https://recruit.incruit.com/gdfac/job/", topics: *lib, wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: 강북문화(brms)-apply, url: "https://gbcmc.brms.kr/apply", topics: *lib, wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.nowonlib.kr-NowonNews2, url: "https://www.nowonlib.kr/NowonNews?code=R&page=1", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.eplib.or.kr-enlib2, url: "https://www.eplib.or.kr/enlib/menu/10850/bbs/20001/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: 용산문화재단-main, url: "https://yfac.kr/main/contents.do?a_num=48342159", topics: *lib, wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: 금천문화재단-board2, url: "https://gcfac.or.kr/board/notice?gcfac_menu_cd=U0139", topics: *lib, wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.gangnam.go.kr-office, url: "https://www.gangnam.go.kr/office/gfac/board/gfac_notice/list.do?mid=gfac_notice01", topics: *lib, wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.splib.or.kr-intro2, url: "https://www.splib.or.kr/intro/menu/11595/bbs/20012/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.gbcf.or.kr-load.asp, url: "https://www.gbcf.or.kr/load.asp?subPage=510", topics: *lib, wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.eplib.or.kr-intro2, url: "https://www.eplib.or.kr/intro/menu/10039/bbs/20001/bbsPostList.do", wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.nowonarts.kr-channels, url: "https://www.nowonarts.kr/channels/notice/posts", topics: *lib, wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.work24.go.kr-www, url: "https://www.work24.go.kr/", topics: *lib, wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.work24.go.kr-cm, url: "https://www.work24.go.kr/cm/f/c/0100/selectUnifySearch.do?topQuerySearchArea=tb_workinfo&topQueryData=%25EB%258F%2584%25EC%2584%259C%25EA%25B4%2580&startCount=1&listCount=10", topics: *lib, wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.work24.go.kr-cm2, url: "https://www.work24.go.kr/cm/f/c/0100/selectUnifySearch.do?topQuerySearchArea=tb_workinfo&topQueryData=%25EC%2582%25AC%25EC%2584%259C&startCount=1&listCount=10", topics: *lib, wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.jobkorea.co.kr-Search, url: "https://www.jobkorea.co.kr/Search/?stext=%EC%82%AC%EC%84%9C&tabType=recruit", topics: *lib, wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.jobkorea.co.kr-Search2, url: "https://www.jobkorea.co.kr/Search/?stext=%EB%8F%84%EC%84%9C%EA%B4%80&tabType=recruit", topics: *lib, wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
+  - { name: www.saramin.co.kr-zf_user, url: "https://www.saramin.co.kr/zf_user/jobs/list/job-category?cat_kewd=1929", topics: *lib, wait_for: "table tr, .board li, ul li a", settle_ms: 1500 }
