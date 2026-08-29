@@ -2,7 +2,7 @@ name: scrape-and-deploy
 
 on:
   schedule:
-    - cron: "0 22,3,9 * * *"   # UTC. 한국시간 07/12/18시경 하루 3회
+    - cron: "0 3,9 * * *"    # UTC. 한국시간 12시/18시 하루 2회
   workflow_dispatch:
 
 permissions:
