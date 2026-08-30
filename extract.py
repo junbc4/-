@@ -34,6 +34,44 @@ def classify(title: str) -> str:
     return "공지"
 
 
+# ---- 도서관/사서 채용 관련성 필터 ----
+# '사서'가 다른 단어에 우연히 포함된 오탐(자사서비스, 공사서류 등)
+FALSE_SASEO = ["자사서", "공사서", "봉사서", "인사서", "검사서", "조사서",
+               "보고서", "심사서", "각서", "계약서", "감사서", "수사서"]
+# 채용이 아닌 프로그램/행사/안내성 (도서관/사서가 들어가도 제외)
+NONJOB_KW = ["사물함", "서포터즈", "참여자", "수강생", "자원봉사", "봉사자",
+             "동아리", "독서회", "공모전", "전시", "강좌", "체험", "회원 모집",
+             "이용자", "반납", "휴관", "연장 안내", "중단안내", "신착", "북큐레이션",
+             "희망도서", "독서의 달", "이벤트", "안내", "행사", "주차", "DVD",
+             "VOD", "리터러시", "인문학", "순회사서",
+             "SI 영업", "영업", "풀스택", "개발자", "MARC", "마케팅", "영업직"]
+# 이미 끝난 채용의 결과 발표 (지원 불가) → 제외
+RESULT_KW = ["합격자", "합격 발표", "합격자 발표", "최종합격", "서류합격",
+             "합격자 공고", "면접 대상자", "선정 결과", "결과 발표", "결과발표"]
+RECRUIT_ALL = RECRUIT_KW + AMBIGUOUS_KW
+
+
+def is_library_job(title: str) -> bool:
+    """도서관/사서 '채용'글만 True. (프로그램·안내·결과발표·오탐 제외)"""
+    t = title
+    # 1) 도서관/사서 관련성 (사서 오탐 단어 제거 후 판정)
+    t_clean = t
+    for f in FALSE_SASEO:
+        t_clean = t_clean.replace(f, "")
+    if not ("도서관" in t or "사서" in t_clean):
+        return False
+    # 2) 채용성 키워드 필요
+    if not any(k in t for k in RECRUIT_ALL):
+        return False
+    # 3) 프로그램/행사/안내성 제외
+    if any(k in t for k in NONJOB_KW):
+        return False
+    # 4) 결과 발표 제외 (지원 불가)
+    if any(k in t for k in RESULT_KW):
+        return False
+    return True
+
+
 DATE_RE = re.compile(r"(20\d{2})[.\-/](\d{1,2})[.\-/](\d{1,2})")
 SHORT_DATE_RE = re.compile(r"\b(\d{1,2})[.\-/](\d{1,2})[.\-/](\d{1,2})\b")
 
@@ -222,13 +260,11 @@ def extract(html, base_url, source, cfg=None, today=None):
     else:
         raw = extract_generic(soup, base_url)
 
-    # 전역 필터: 제목에 '도서관' 또는 '사서'가 없으면 제외 (모든 사이트 공통)
-    #  - '사서보조'는 '사서', '도서관실무사/작은도서관'은 '도서관'을 포함하므로 함께 걸림
-    REQUIRED = ["도서관", "사서"]
+    # 전역 필터: 도서관/사서 '채용'글만 남김 (프로그램·안내·결과발표·오탐 제외)
     results = []
     for r in raw:
         title = r["title"]
-        if not any(k in title for k in REQUIRED):
+        if not is_library_job(title):
             continue
         category = classify(title)
         deadline, est = parse_deadline(title, today)
