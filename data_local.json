@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-29T16:40:02+00:00",
-  "count": 701,
+  "generatedAt": "2026-08-30T06:44:05+00:00",
+  "count": 666,
   "errors": [],
   "postings": [
     {
@@ -266,6 +266,36 @@
     {
       "source": "www.sdlib.or.kr-SD",
       "sourceUrl": "https://www.sdlib.or.kr/SD/contents.do?a_num=25663758",
+      "title": "[독서의 달] 성동구립도서관 오프라인 원화전시 <네 꿈을 응원해, 권투 장갑!>",
+      "category": "공지",
+      "posted": "2026-08-30",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.sdlib.or.kr/SD/contents.do?proc_type=view&a_num=25663758&b_num=86376695&prepage=%2FSD%2Fcontents.do%3Fa_num%3D25663758"
+    },
+    {
+      "source": "www.sdlib.or.kr-SD",
+      "sourceUrl": "https://www.sdlib.or.kr/SD/contents.do?a_num=25663758",
+      "title": "[독서의 달] 성동구립도서관 온라인 원화전시 <우주로 가는 계단>",
+      "category": "공지",
+      "posted": "2026-08-30",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.sdlib.or.kr/SD/contents.do?proc_type=view&a_num=25663758&b_num=86376694&prepage=%2FSD%2Fcontents.do%3Fa_num%3D25663758"
+    },
+    {
+      "source": "www.sdlib.or.kr-SD",
+      "sourceUrl": "https://www.sdlib.or.kr/SD/contents.do?a_num=25663758",
+      "title": "성동구립도서관 2026년 8월 신착도서 및 추천도서 안내",
+      "category": "공지",
+      "posted": "2026-08-30",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.sdlib.or.kr/SD/contents.do?proc_type=view&a_num=25663758&b_num=86376692&prepage=%2FSD%2Fcontents.do%3Fa_num%3D25663758"
+    },
+    {
+      "source": "www.sdlib.or.kr-SD",
+      "sourceUrl": "https://www.sdlib.or.kr/SD/contents.do?a_num=25663758",
       "title": "[성동구 구립도서관 독서의 달] 도서관과 약속 캠페인",
       "category": "공지",
       "posted": "2026-08-29",
@@ -332,36 +362,6 @@
       "deadline": null,
       "deadlineEstimated": false,
       "link": "https://www.sdlib.or.kr/SD/contents.do?proc_type=view&a_num=25663758&b_num=86376206&prepage=%2FSD%2Fcontents.do%3Fa_num%3D25663758"
-    },
-    {
-      "source": "www.sdlib.or.kr-SD",
-      "sourceUrl": "https://www.sdlib.or.kr/SD/contents.do?a_num=25663758",
-      "title": "희망도서 신청 시스템 오류 안내",
-      "category": "공지",
-      "posted": "2026-08-05",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.sdlib.or.kr/SD/contents.do?proc_type=view&a_num=25663758&b_num=86376174&prepage=%2FSD%2Fcontents.do%3Fa_num%3D25663758"
-    },
-    {
-      "source": "www.sdlib.or.kr-SD",
-      "sourceUrl": "https://www.sdlib.or.kr/SD/contents.do?a_num=25663758",
-      "title": "어린이독서회 특강 <다판다 편의점> 강효미 작가와의 만남 참여자 모집",
-      "category": "공지",
-      "posted": "2026-08-04",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.sdlib.or.kr/SD/contents.do?proc_type=view&a_num=25663758&b_num=86376132&prepage=%2FSD%2Fcontents.do%3Fa_num%3D25663758"
-    },
-    {
-      "source": "www.sdlib.or.kr-SD",
-      "sourceUrl": "https://www.sdlib.or.kr/SD/contents.do?a_num=25663758",
-      "title": "희망도서 신청 시스템 정상화 안내",
-      "category": "공지",
-      "posted": "2026-08-02",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.sdlib.or.kr/SD/contents.do?proc_type=view&a_num=25663758&b_num=86376104&prepage=%2FSD%2Fcontents.do%3Fa_num%3D25663758"
     },
     {
       "source": "www.sdlib.or.kr-KH",
@@ -1764,1734 +1764,1754 @@
       "link": "https://www.sdlib.or.kr/fore/contents.do?proc_type=view&a_num=80628730&b_num=86375635&prepage=%2Ffore%2Fcontents.do%3Fa_num%3D80628730"
     },
     {
-      "source": "www.jungnanglib.seoul.kr-jnlib",
-      "sourceUrl": "https://www.jungnanglib.seoul.kr/jnlib/menu/10205/bbs/20005/bbsPostList.do?searchCategory=3",
-      "title": "중랑구립정보도서관 시간제 근로자 최종 합격자 공고",
+      "source": "강남구립도서관-happylib",
+      "sourceUrl": "https://library.gangnam.go.kr/happylib/menu/12455/bbs/20305/bbsPostList.do",
+      "title": "[결과발표] 강남구립도서관 상호대차 계약직 채용_최종 합격자 발표",
       "category": "채용",
-      "posted": "2026-04-29",
+      "posted": "2026-02-13",
       "deadline": null,
       "deadlineEstimated": false,
-      "link": "https://www.jungnanglib.seoul.kr/jnlib/menu/10205/bbs/20005/bbsPostList.do?searchCategory=3"
+      "link": "https://library.gangnam.go.kr/happylib/menu/12455/bbs/20305/bbsPostList.do"
     },
     {
-      "source": "www.jungnanglib.seoul.kr-jnlib",
-      "sourceUrl": "https://www.jungnanglib.seoul.kr/jnlib/menu/10205/bbs/20005/bbsPostList.do?searchCategory=3",
-      "title": "중랑구립정보도서관 시간제 근로자 서류전형 합격자 공고",
+      "source": "강남구립도서관-happylib",
+      "sourceUrl": "https://library.gangnam.go.kr/happylib/menu/12455/bbs/20305/bbsPostList.do",
+      "title": "[결과발표] 강남구립도서관 상호대차 계약직 채용_서류 합격자 발표",
       "category": "채용",
-      "posted": "2026-04-22",
+      "posted": "2026-02-09",
       "deadline": null,
       "deadlineEstimated": false,
-      "link": "https://www.jungnanglib.seoul.kr/jnlib/menu/10205/bbs/20005/bbsPostList.do?searchCategory=3"
+      "link": "https://library.gangnam.go.kr/happylib/menu/12455/bbs/20305/bbsPostList.do"
     },
     {
-      "source": "www.jungnanglib.seoul.kr-jnlib",
-      "sourceUrl": "https://www.jungnanglib.seoul.kr/jnlib/menu/10205/bbs/20005/bbsPostList.do?searchCategory=3",
-      "title": "중랑구립정보도서관 시간제근로자 신규직원 채용 공고",
+      "source": "강남구립도서관-happylib",
+      "sourceUrl": "https://library.gangnam.go.kr/happylib/menu/12455/bbs/20305/bbsPostList.do",
+      "title": "[채용공고] 강남구립도서관 상호대차 계약직 채용 공고(~2/6)",
       "category": "채용",
-      "posted": "2026-04-10",
+      "posted": "2026-01-28",
+      "deadline": "2027-02-06",
+      "deadlineEstimated": true,
+      "link": "https://library.gangnam.go.kr/happylib/menu/12455/bbs/20305/bbsPostList.do"
+    },
+    {
+      "source": "강남구립도서관-happylib",
+      "sourceUrl": "https://library.gangnam.go.kr/happylib/menu/12455/bbs/20305/bbsPostList.do",
+      "title": "[결과발표] 강남구립 행복한도서관 개관연장사서 채용_최종 합격자 발표",
+      "category": "채용",
+      "posted": "2026-01-12",
       "deadline": null,
       "deadlineEstimated": false,
-      "link": "https://www.jungnanglib.seoul.kr/jnlib/menu/10205/bbs/20005/bbsPostList.do?searchCategory=3"
+      "link": "https://library.gangnam.go.kr/happylib/menu/12455/bbs/20305/bbsPostList.do"
     },
     {
-      "source": "www.jungnanglib.seoul.kr-jnlib",
-      "sourceUrl": "https://www.jungnanglib.seoul.kr/jnlib/menu/10205/bbs/20005/bbsPostList.do?searchCategory=3",
-      "title": "중랑구립정보도서관 「2026 문학상주작가 지원사업」 상주작가 채용 최종합격자 발표",
+      "source": "강남구립도서관-happylib",
+      "sourceUrl": "https://library.gangnam.go.kr/happylib/menu/12455/bbs/20305/bbsPostList.do",
+      "title": "[결과발표] 강남구립 행복한도서관 개관연장사서 채용_서류 합격자 발표",
       "category": "채용",
-      "posted": "2026-04-07",
+      "posted": "2026-01-10",
       "deadline": null,
       "deadlineEstimated": false,
-      "link": "https://www.jungnanglib.seoul.kr/jnlib/menu/10205/bbs/20005/bbsPostList.do?searchCategory=3"
+      "link": "https://library.gangnam.go.kr/happylib/menu/12455/bbs/20305/bbsPostList.do"
     },
     {
-      "source": "www.jungnanglib.seoul.kr-jnlib",
-      "sourceUrl": "https://www.jungnanglib.seoul.kr/jnlib/menu/10205/bbs/20005/bbsPostList.do?searchCategory=3",
-      "title": "중랑구립정보도서관 「2026 문학상주작가 지원사업」 상주작가 채용 서류전형 합격자 발표 및 면접일정 공고",
+      "source": "강남구립도서관-happylib",
+      "sourceUrl": "https://library.gangnam.go.kr/happylib/menu/12455/bbs/20305/bbsPostList.do",
+      "title": "[채용공고] 강남구립 행복한도서관 개관연장사서 채용 공고(~1/9)",
       "category": "채용",
-      "posted": "2026-03-26",
+      "posted": "2025-12-31",
+      "deadline": "2027-01-09",
+      "deadlineEstimated": true,
+      "link": "https://library.gangnam.go.kr/happylib/menu/12455/bbs/20305/bbsPostList.do"
+    },
+    {
+      "source": "강남구립도서관-happylib",
+      "sourceUrl": "https://library.gangnam.go.kr/happylib/menu/12455/bbs/20305/bbsPostList.do",
+      "title": "[채용공고] 강남구립 행복한도서관 개관연장사서 채용 공고(~12/18)",
+      "category": "채용",
+      "posted": "2025-12-08",
+      "deadline": "2026-12-18",
+      "deadlineEstimated": true,
+      "link": "https://library.gangnam.go.kr/happylib/menu/12455/bbs/20305/bbsPostList.do"
+    },
+    {
+      "source": "강남구립도서관-happylib",
+      "sourceUrl": "https://library.gangnam.go.kr/happylib/menu/12455/bbs/20305/bbsPostList.do",
+      "title": "[채용공고] 강남구립도서관 상호대차 계약직 채용 공고(~3/27)",
+      "category": "채용",
+      "posted": "2025-03-20",
+      "deadline": "2027-03-27",
+      "deadlineEstimated": true,
+      "link": "https://library.gangnam.go.kr/happylib/menu/12455/bbs/20305/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spjlib",
+      "sourceUrl": "https://www.splib.or.kr/spjlib/menu/11596/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 5차 기간제근로자 채용 공고(공개경쟁)",
+      "category": "채용",
+      "posted": "2026-08-28",
       "deadline": null,
       "deadlineEstimated": false,
-      "link": "https://www.jungnanglib.seoul.kr/jnlib/menu/10205/bbs/20005/bbsPostList.do?searchCategory=3"
+      "link": "https://www.splib.or.kr/spjlib/menu/11596/bbs/20012/bbsPostList.do"
     },
     {
-      "source": "www.jungnanglib.seoul.kr-jnlib",
-      "sourceUrl": "https://www.jungnanglib.seoul.kr/jnlib/menu/10205/bbs/20005/bbsPostList.do?searchCategory=3",
-      "title": "2026 중랑구립정보도서관 상주작가 채용",
+      "source": "www.splib.or.kr-spjlib",
+      "sourceUrl": "https://www.splib.or.kr/spjlib/menu/11596/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 4차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
       "category": "채용",
-      "posted": "2026-03-11",
+      "posted": "2026-07-28",
       "deadline": null,
       "deadlineEstimated": false,
-      "link": "https://www.jungnanglib.seoul.kr/jnlib/menu/10205/bbs/20005/bbsPostList.do?searchCategory=3"
+      "link": "https://www.splib.or.kr/spjlib/menu/11596/bbs/20012/bbsPostList.do"
     },
     {
-      "source": "www.jungnanglib.seoul.kr-jnlib",
-      "sourceUrl": "https://www.jungnanglib.seoul.kr/jnlib/menu/10205/bbs/20005/bbsPostList.do?searchCategory=3",
-      "title": "중랑구립정보도서관 개관시간연장 지원사업 계약직(사서) 최종합격자 공고",
+      "source": "www.splib.or.kr-spjlib",
+      "sourceUrl": "https://www.splib.or.kr/spjlib/menu/11596/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 4차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
+      "category": "채용",
+      "posted": "2026-07-20",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spjlib/menu/11596/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spjlib",
+      "sourceUrl": "https://www.splib.or.kr/spjlib/menu/11596/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 4차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
+      "category": "채용",
+      "posted": "2026-06-29",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spjlib/menu/11596/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spjlib",
+      "sourceUrl": "https://www.splib.or.kr/spjlib/menu/11596/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 3차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
+      "category": "채용",
+      "posted": "2026-06-01",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spjlib/menu/11596/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spjlib",
+      "sourceUrl": "https://www.splib.or.kr/spjlib/menu/11596/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 3차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
+      "category": "채용",
+      "posted": "2026-05-22",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spjlib/menu/11596/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spjlib",
+      "sourceUrl": "https://www.splib.or.kr/spjlib/menu/11596/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 3차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
+      "category": "채용",
+      "posted": "2026-04-30",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spjlib/menu/11596/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spjlib",
+      "sourceUrl": "https://www.splib.or.kr/spjlib/menu/11596/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 2차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
+      "category": "채용",
+      "posted": "2026-04-03",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spjlib/menu/11596/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spjlib",
+      "sourceUrl": "https://www.splib.or.kr/spjlib/menu/11596/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 '2026년도 문학 상주작가 지원사업' 상주작가(기간제근로자) 채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
+      "category": "채용",
+      "posted": "2026-04-01",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spjlib/menu/11596/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spjlib",
+      "sourceUrl": "https://www.splib.or.kr/spjlib/menu/11596/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 '2026년도 문학 상주작가 지원사업' 상주작가(기간제근로자) 채용 서류전형 합격자 공고",
+      "category": "채용",
+      "posted": "2026-03-27",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spjlib/menu/11596/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spjlib",
+      "sourceUrl": "https://www.splib.or.kr/spjlib/menu/11596/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 2차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
+      "category": "채용",
+      "posted": "2026-03-27",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spjlib/menu/11596/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spjlib",
+      "sourceUrl": "https://www.splib.or.kr/spjlib/menu/11596/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 2차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
+      "category": "채용",
+      "posted": "2026-02-27",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spjlib/menu/11596/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spjlib",
+      "sourceUrl": "https://www.splib.or.kr/spjlib/menu/11596/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 1차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
+      "category": "채용",
+      "posted": "2026-02-06",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spjlib/menu/11596/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spjlib",
+      "sourceUrl": "https://www.splib.or.kr/spjlib/menu/11596/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 1차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
+      "category": "채용",
+      "posted": "2026-01-30",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spjlib/menu/11596/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spjlib",
+      "sourceUrl": "https://www.splib.or.kr/spjlib/menu/11596/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 1차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
+      "category": "채용",
+      "posted": "2026-01-09",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spjlib/menu/11596/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spclib",
+      "sourceUrl": "https://www.splib.or.kr/spclib/menu/11597/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 5차 기간제근로자 채용 공고(공개경쟁)",
+      "category": "채용",
+      "posted": "2026-08-28",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spclib/menu/11597/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spclib",
+      "sourceUrl": "https://www.splib.or.kr/spclib/menu/11597/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 4차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
+      "category": "채용",
+      "posted": "2026-07-28",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spclib/menu/11597/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spclib",
+      "sourceUrl": "https://www.splib.or.kr/spclib/menu/11597/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 4차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
+      "category": "채용",
+      "posted": "2026-07-20",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spclib/menu/11597/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spclib",
+      "sourceUrl": "https://www.splib.or.kr/spclib/menu/11597/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 4차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
+      "category": "채용",
+      "posted": "2026-06-29",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spclib/menu/11597/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spclib",
+      "sourceUrl": "https://www.splib.or.kr/spclib/menu/11597/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 3차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
+      "category": "채용",
+      "posted": "2026-06-01",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spclib/menu/11597/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spclib",
+      "sourceUrl": "https://www.splib.or.kr/spclib/menu/11597/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 3차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
+      "category": "채용",
+      "posted": "2026-05-22",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spclib/menu/11597/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spclib",
+      "sourceUrl": "https://www.splib.or.kr/spclib/menu/11597/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 3차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
+      "category": "채용",
+      "posted": "2026-04-30",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spclib/menu/11597/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spclib",
+      "sourceUrl": "https://www.splib.or.kr/spclib/menu/11597/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 2차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
+      "category": "채용",
+      "posted": "2026-04-03",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spclib/menu/11597/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spclib",
+      "sourceUrl": "https://www.splib.or.kr/spclib/menu/11597/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 '2026년도 문학 상주작가 지원사업' 상주작가(기간제근로자) 채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
+      "category": "채용",
+      "posted": "2026-04-01",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spclib/menu/11597/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spclib",
+      "sourceUrl": "https://www.splib.or.kr/spclib/menu/11597/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 '2026년도 문학 상주작가 지원사업' 상주작가(기간제근로자) 채용 서류전형 합격자 공고",
+      "category": "채용",
+      "posted": "2026-03-27",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spclib/menu/11597/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spclib",
+      "sourceUrl": "https://www.splib.or.kr/spclib/menu/11597/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 2차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
+      "category": "채용",
+      "posted": "2026-03-27",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spclib/menu/11597/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spclib",
+      "sourceUrl": "https://www.splib.or.kr/spclib/menu/11597/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 2차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
+      "category": "채용",
+      "posted": "2026-02-27",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spclib/menu/11597/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spclib",
+      "sourceUrl": "https://www.splib.or.kr/spclib/menu/11597/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 1차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
+      "category": "채용",
+      "posted": "2026-02-06",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spclib/menu/11597/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spclib",
+      "sourceUrl": "https://www.splib.or.kr/spclib/menu/11597/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 1차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
+      "category": "채용",
+      "posted": "2026-01-30",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spclib/menu/11597/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spclib",
+      "sourceUrl": "https://www.splib.or.kr/spclib/menu/11597/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 1차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
+      "category": "채용",
+      "posted": "2026-01-09",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spclib/menu/11597/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spwlib",
+      "sourceUrl": "https://www.splib.or.kr/spwlib/menu/11598/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 5차 기간제근로자 채용 공고(공개경쟁)",
+      "category": "채용",
+      "posted": "2026-08-28",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spwlib/menu/11598/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spwlib",
+      "sourceUrl": "https://www.splib.or.kr/spwlib/menu/11598/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 4차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
+      "category": "채용",
+      "posted": "2026-07-28",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spwlib/menu/11598/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spwlib",
+      "sourceUrl": "https://www.splib.or.kr/spwlib/menu/11598/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 4차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
+      "category": "채용",
+      "posted": "2026-07-20",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spwlib/menu/11598/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spwlib",
+      "sourceUrl": "https://www.splib.or.kr/spwlib/menu/11598/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 4차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
+      "category": "채용",
+      "posted": "2026-06-29",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spwlib/menu/11598/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spwlib",
+      "sourceUrl": "https://www.splib.or.kr/spwlib/menu/11598/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 3차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
+      "category": "채용",
+      "posted": "2026-06-01",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spwlib/menu/11598/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spwlib",
+      "sourceUrl": "https://www.splib.or.kr/spwlib/menu/11598/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 3차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
+      "category": "채용",
+      "posted": "2026-05-22",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spwlib/menu/11598/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spwlib",
+      "sourceUrl": "https://www.splib.or.kr/spwlib/menu/11598/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 3차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
+      "category": "채용",
+      "posted": "2026-04-30",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spwlib/menu/11598/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spwlib",
+      "sourceUrl": "https://www.splib.or.kr/spwlib/menu/11598/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 2차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
+      "category": "채용",
+      "posted": "2026-04-03",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spwlib/menu/11598/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spwlib",
+      "sourceUrl": "https://www.splib.or.kr/spwlib/menu/11598/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 '2026년도 문학 상주작가 지원사업' 상주작가(기간제근로자) 채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
+      "category": "채용",
+      "posted": "2026-04-01",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spwlib/menu/11598/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spwlib",
+      "sourceUrl": "https://www.splib.or.kr/spwlib/menu/11598/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 '2026년도 문학 상주작가 지원사업' 상주작가(기간제근로자) 채용 서류전형 합격자 공고",
+      "category": "채용",
+      "posted": "2026-03-27",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spwlib/menu/11598/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spwlib",
+      "sourceUrl": "https://www.splib.or.kr/spwlib/menu/11598/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 2차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
+      "category": "채용",
+      "posted": "2026-03-27",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spwlib/menu/11598/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spwlib",
+      "sourceUrl": "https://www.splib.or.kr/spwlib/menu/11598/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 2차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
+      "category": "채용",
+      "posted": "2026-02-27",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spwlib/menu/11598/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spwlib",
+      "sourceUrl": "https://www.splib.or.kr/spwlib/menu/11598/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 1차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
+      "category": "채용",
+      "posted": "2026-02-06",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spwlib/menu/11598/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spwlib",
+      "sourceUrl": "https://www.splib.or.kr/spwlib/menu/11598/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 1차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
+      "category": "채용",
+      "posted": "2026-01-30",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spwlib/menu/11598/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spwlib",
+      "sourceUrl": "https://www.splib.or.kr/spwlib/menu/11598/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 1차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
+      "category": "채용",
+      "posted": "2026-01-09",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spwlib/menu/11598/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spglib",
+      "sourceUrl": "https://www.splib.or.kr/spglib/menu/11599/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 5차 기간제근로자 채용 공고(공개경쟁)",
+      "category": "채용",
+      "posted": "2026-08-28",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spglib/menu/11599/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spglib",
+      "sourceUrl": "https://www.splib.or.kr/spglib/menu/11599/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 4차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
+      "category": "채용",
+      "posted": "2026-07-28",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spglib/menu/11599/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spglib",
+      "sourceUrl": "https://www.splib.or.kr/spglib/menu/11599/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 4차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
+      "category": "채용",
+      "posted": "2026-07-20",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spglib/menu/11599/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spglib",
+      "sourceUrl": "https://www.splib.or.kr/spglib/menu/11599/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 4차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
+      "category": "채용",
+      "posted": "2026-06-29",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spglib/menu/11599/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spglib",
+      "sourceUrl": "https://www.splib.or.kr/spglib/menu/11599/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 3차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
+      "category": "채용",
+      "posted": "2026-06-01",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spglib/menu/11599/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spglib",
+      "sourceUrl": "https://www.splib.or.kr/spglib/menu/11599/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 3차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
+      "category": "채용",
+      "posted": "2026-05-22",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spglib/menu/11599/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spglib",
+      "sourceUrl": "https://www.splib.or.kr/spglib/menu/11599/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 3차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
+      "category": "채용",
+      "posted": "2026-04-30",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spglib/menu/11599/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spglib",
+      "sourceUrl": "https://www.splib.or.kr/spglib/menu/11599/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 2차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
+      "category": "채용",
+      "posted": "2026-04-03",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spglib/menu/11599/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spglib",
+      "sourceUrl": "https://www.splib.or.kr/spglib/menu/11599/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 '2026년도 문학 상주작가 지원사업' 상주작가(기간제근로자) 채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
+      "category": "채용",
+      "posted": "2026-04-01",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spglib/menu/11599/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spglib",
+      "sourceUrl": "https://www.splib.or.kr/spglib/menu/11599/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 '2026년도 문학 상주작가 지원사업' 상주작가(기간제근로자) 채용 서류전형 합격자 공고",
+      "category": "채용",
+      "posted": "2026-03-27",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spglib/menu/11599/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spglib",
+      "sourceUrl": "https://www.splib.or.kr/spglib/menu/11599/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 2차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
+      "category": "채용",
+      "posted": "2026-03-27",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spglib/menu/11599/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spglib",
+      "sourceUrl": "https://www.splib.or.kr/spglib/menu/11599/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 2차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
+      "category": "채용",
+      "posted": "2026-02-27",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spglib/menu/11599/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spglib",
+      "sourceUrl": "https://www.splib.or.kr/spglib/menu/11599/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 1차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
+      "category": "채용",
+      "posted": "2026-02-06",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spglib/menu/11599/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spglib",
+      "sourceUrl": "https://www.splib.or.kr/spglib/menu/11599/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 1차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
+      "category": "채용",
+      "posted": "2026-01-30",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spglib/menu/11599/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spglib",
+      "sourceUrl": "https://www.splib.or.kr/spglib/menu/11599/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 1차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
+      "category": "채용",
+      "posted": "2026-01-09",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spglib/menu/11599/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spdlib",
+      "sourceUrl": "https://www.splib.or.kr/spdlib/menu/11600/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 5차 기간제근로자 채용 공고(공개경쟁)",
+      "category": "채용",
+      "posted": "2026-08-28",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spdlib/menu/11600/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spdlib",
+      "sourceUrl": "https://www.splib.or.kr/spdlib/menu/11600/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 4차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
+      "category": "채용",
+      "posted": "2026-07-28",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spdlib/menu/11600/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spdlib",
+      "sourceUrl": "https://www.splib.or.kr/spdlib/menu/11600/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 4차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
+      "category": "채용",
+      "posted": "2026-07-20",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spdlib/menu/11600/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spdlib",
+      "sourceUrl": "https://www.splib.or.kr/spdlib/menu/11600/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 4차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
+      "category": "채용",
+      "posted": "2026-06-29",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spdlib/menu/11600/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spdlib",
+      "sourceUrl": "https://www.splib.or.kr/spdlib/menu/11600/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 3차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
+      "category": "채용",
+      "posted": "2026-06-01",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spdlib/menu/11600/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spdlib",
+      "sourceUrl": "https://www.splib.or.kr/spdlib/menu/11600/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 3차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
+      "category": "채용",
+      "posted": "2026-05-22",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spdlib/menu/11600/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spdlib",
+      "sourceUrl": "https://www.splib.or.kr/spdlib/menu/11600/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 3차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
+      "category": "채용",
+      "posted": "2026-04-30",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spdlib/menu/11600/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spdlib",
+      "sourceUrl": "https://www.splib.or.kr/spdlib/menu/11600/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 2차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
+      "category": "채용",
+      "posted": "2026-04-03",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spdlib/menu/11600/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spdlib",
+      "sourceUrl": "https://www.splib.or.kr/spdlib/menu/11600/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 '2026년도 문학 상주작가 지원사업' 상주작가(기간제근로자) 채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
+      "category": "채용",
+      "posted": "2026-04-01",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spdlib/menu/11600/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spdlib",
+      "sourceUrl": "https://www.splib.or.kr/spdlib/menu/11600/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 '2026년도 문학 상주작가 지원사업' 상주작가(기간제근로자) 채용 서류전형 합격자 공고",
+      "category": "채용",
+      "posted": "2026-03-27",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spdlib/menu/11600/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spdlib",
+      "sourceUrl": "https://www.splib.or.kr/spdlib/menu/11600/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 2차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
+      "category": "채용",
+      "posted": "2026-03-27",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spdlib/menu/11600/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spdlib",
+      "sourceUrl": "https://www.splib.or.kr/spdlib/menu/11600/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 2차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
+      "category": "채용",
+      "posted": "2026-02-27",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spdlib/menu/11600/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spdlib",
+      "sourceUrl": "https://www.splib.or.kr/spdlib/menu/11600/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 1차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
+      "category": "채용",
+      "posted": "2026-02-06",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spdlib/menu/11600/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spdlib",
+      "sourceUrl": "https://www.splib.or.kr/spdlib/menu/11600/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 1차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
+      "category": "채용",
+      "posted": "2026-01-30",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spdlib/menu/11600/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spdlib",
+      "sourceUrl": "https://www.splib.or.kr/spdlib/menu/11600/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 1차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
+      "category": "채용",
+      "posted": "2026-01-09",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spdlib/menu/11600/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-sppnlib",
+      "sourceUrl": "https://www.splib.or.kr/sppnlib/menu/11601/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 5차 기간제근로자 채용 공고(공개경쟁)",
+      "category": "채용",
+      "posted": "2026-08-28",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/sppnlib/menu/11601/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-sppnlib",
+      "sourceUrl": "https://www.splib.or.kr/sppnlib/menu/11601/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 4차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
+      "category": "채용",
+      "posted": "2026-07-28",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/sppnlib/menu/11601/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-sppnlib",
+      "sourceUrl": "https://www.splib.or.kr/sppnlib/menu/11601/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 4차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
+      "category": "채용",
+      "posted": "2026-07-20",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/sppnlib/menu/11601/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-sppnlib",
+      "sourceUrl": "https://www.splib.or.kr/sppnlib/menu/11601/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 4차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
+      "category": "채용",
+      "posted": "2026-06-29",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/sppnlib/menu/11601/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-sppnlib",
+      "sourceUrl": "https://www.splib.or.kr/sppnlib/menu/11601/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 3차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
+      "category": "채용",
+      "posted": "2026-06-01",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/sppnlib/menu/11601/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-sppnlib",
+      "sourceUrl": "https://www.splib.or.kr/sppnlib/menu/11601/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 3차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
+      "category": "채용",
+      "posted": "2026-05-22",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/sppnlib/menu/11601/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-sppnlib",
+      "sourceUrl": "https://www.splib.or.kr/sppnlib/menu/11601/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 3차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
+      "category": "채용",
+      "posted": "2026-04-30",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/sppnlib/menu/11601/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-sppnlib",
+      "sourceUrl": "https://www.splib.or.kr/sppnlib/menu/11601/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 2차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
+      "category": "채용",
+      "posted": "2026-04-03",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/sppnlib/menu/11601/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-sppnlib",
+      "sourceUrl": "https://www.splib.or.kr/sppnlib/menu/11601/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 '2026년도 문학 상주작가 지원사업' 상주작가(기간제근로자) 채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
+      "category": "채용",
+      "posted": "2026-04-01",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/sppnlib/menu/11601/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-sppnlib",
+      "sourceUrl": "https://www.splib.or.kr/sppnlib/menu/11601/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 '2026년도 문학 상주작가 지원사업' 상주작가(기간제근로자) 채용 서류전형 합격자 공고",
+      "category": "채용",
+      "posted": "2026-03-27",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/sppnlib/menu/11601/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-sppnlib",
+      "sourceUrl": "https://www.splib.or.kr/sppnlib/menu/11601/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 2차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
+      "category": "채용",
+      "posted": "2026-03-27",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/sppnlib/menu/11601/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-sppnlib",
+      "sourceUrl": "https://www.splib.or.kr/sppnlib/menu/11601/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 2차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
+      "category": "채용",
+      "posted": "2026-02-27",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/sppnlib/menu/11601/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-sppnlib",
+      "sourceUrl": "https://www.splib.or.kr/sppnlib/menu/11601/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 1차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
+      "category": "채용",
+      "posted": "2026-02-06",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/sppnlib/menu/11601/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-sppnlib",
+      "sourceUrl": "https://www.splib.or.kr/sppnlib/menu/11601/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 1차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
+      "category": "채용",
+      "posted": "2026-01-30",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/sppnlib/menu/11601/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-sppnlib",
+      "sourceUrl": "https://www.splib.or.kr/sppnlib/menu/11601/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 1차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
+      "category": "채용",
+      "posted": "2026-01-09",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/sppnlib/menu/11601/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-sp2lib",
+      "sourceUrl": "https://www.splib.or.kr/sp2lib/menu/11602/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 5차 기간제근로자 채용 공고(공개경쟁)",
+      "category": "채용",
+      "posted": "2026-08-28",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/sp2lib/menu/11602/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-sp2lib",
+      "sourceUrl": "https://www.splib.or.kr/sp2lib/menu/11602/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 4차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
+      "category": "채용",
+      "posted": "2026-07-28",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/sp2lib/menu/11602/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-sp2lib",
+      "sourceUrl": "https://www.splib.or.kr/sp2lib/menu/11602/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 4차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
+      "category": "채용",
+      "posted": "2026-07-20",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/sp2lib/menu/11602/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-sp2lib",
+      "sourceUrl": "https://www.splib.or.kr/sp2lib/menu/11602/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 4차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
+      "category": "채용",
+      "posted": "2026-06-29",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/sp2lib/menu/11602/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-sp2lib",
+      "sourceUrl": "https://www.splib.or.kr/sp2lib/menu/11602/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 3차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
+      "category": "채용",
+      "posted": "2026-06-01",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/sp2lib/menu/11602/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-sp2lib",
+      "sourceUrl": "https://www.splib.or.kr/sp2lib/menu/11602/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 3차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
+      "category": "채용",
+      "posted": "2026-05-22",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/sp2lib/menu/11602/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-sp2lib",
+      "sourceUrl": "https://www.splib.or.kr/sp2lib/menu/11602/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 3차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
+      "category": "채용",
+      "posted": "2026-04-30",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/sp2lib/menu/11602/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-sp2lib",
+      "sourceUrl": "https://www.splib.or.kr/sp2lib/menu/11602/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 2차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
+      "category": "채용",
+      "posted": "2026-04-03",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/sp2lib/menu/11602/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-sp2lib",
+      "sourceUrl": "https://www.splib.or.kr/sp2lib/menu/11602/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 '2026년도 문학 상주작가 지원사업' 상주작가(기간제근로자) 채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
+      "category": "채용",
+      "posted": "2026-04-01",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/sp2lib/menu/11602/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-sp2lib",
+      "sourceUrl": "https://www.splib.or.kr/sp2lib/menu/11602/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 '2026년도 문학 상주작가 지원사업' 상주작가(기간제근로자) 채용 서류전형 합격자 공고",
+      "category": "채용",
+      "posted": "2026-03-27",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/sp2lib/menu/11602/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-sp2lib",
+      "sourceUrl": "https://www.splib.or.kr/sp2lib/menu/11602/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 2차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
+      "category": "채용",
+      "posted": "2026-03-27",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/sp2lib/menu/11602/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-sp2lib",
+      "sourceUrl": "https://www.splib.or.kr/sp2lib/menu/11602/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 2차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
+      "category": "채용",
+      "posted": "2026-02-27",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/sp2lib/menu/11602/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-sp2lib",
+      "sourceUrl": "https://www.splib.or.kr/sp2lib/menu/11602/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 1차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
+      "category": "채용",
+      "posted": "2026-02-06",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/sp2lib/menu/11602/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-sp2lib",
+      "sourceUrl": "https://www.splib.or.kr/sp2lib/menu/11602/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 1차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
+      "category": "채용",
+      "posted": "2026-01-30",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/sp2lib/menu/11602/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-sp2lib",
+      "sourceUrl": "https://www.splib.or.kr/sp2lib/menu/11602/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 1차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
+      "category": "채용",
+      "posted": "2026-01-09",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/sp2lib/menu/11602/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-sp3lib",
+      "sourceUrl": "https://www.splib.or.kr/sp3lib/menu/11603/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 5차 기간제근로자 채용 공고(공개경쟁)",
+      "category": "채용",
+      "posted": "2026-08-28",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/sp3lib/menu/11603/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-sp3lib",
+      "sourceUrl": "https://www.splib.or.kr/sp3lib/menu/11603/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 4차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
+      "category": "채용",
+      "posted": "2026-07-28",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/sp3lib/menu/11603/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-sp3lib",
+      "sourceUrl": "https://www.splib.or.kr/sp3lib/menu/11603/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 4차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
+      "category": "채용",
+      "posted": "2026-07-20",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/sp3lib/menu/11603/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-sp3lib",
+      "sourceUrl": "https://www.splib.or.kr/sp3lib/menu/11603/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 4차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
+      "category": "채용",
+      "posted": "2026-06-29",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/sp3lib/menu/11603/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-sp3lib",
+      "sourceUrl": "https://www.splib.or.kr/sp3lib/menu/11603/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 3차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
+      "category": "채용",
+      "posted": "2026-06-01",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/sp3lib/menu/11603/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-sp3lib",
+      "sourceUrl": "https://www.splib.or.kr/sp3lib/menu/11603/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 3차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
+      "category": "채용",
+      "posted": "2026-05-22",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/sp3lib/menu/11603/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-sp3lib",
+      "sourceUrl": "https://www.splib.or.kr/sp3lib/menu/11603/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 3차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
+      "category": "채용",
+      "posted": "2026-04-30",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/sp3lib/menu/11603/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-sp3lib",
+      "sourceUrl": "https://www.splib.or.kr/sp3lib/menu/11603/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 2차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
+      "category": "채용",
+      "posted": "2026-04-03",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/sp3lib/menu/11603/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-sp3lib",
+      "sourceUrl": "https://www.splib.or.kr/sp3lib/menu/11603/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 '2026년도 문학 상주작가 지원사업' 상주작가(기간제근로자) 채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
+      "category": "채용",
+      "posted": "2026-04-01",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/sp3lib/menu/11603/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-sp3lib",
+      "sourceUrl": "https://www.splib.or.kr/sp3lib/menu/11603/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 '2026년도 문학 상주작가 지원사업' 상주작가(기간제근로자) 채용 서류전형 합격자 공고",
+      "category": "채용",
+      "posted": "2026-03-27",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/sp3lib/menu/11603/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-sp3lib",
+      "sourceUrl": "https://www.splib.or.kr/sp3lib/menu/11603/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 2차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
+      "category": "채용",
+      "posted": "2026-03-27",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/sp3lib/menu/11603/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-sp3lib",
+      "sourceUrl": "https://www.splib.or.kr/sp3lib/menu/11603/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 2차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
+      "category": "채용",
+      "posted": "2026-02-27",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/sp3lib/menu/11603/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-sp3lib",
+      "sourceUrl": "https://www.splib.or.kr/sp3lib/menu/11603/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 1차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
+      "category": "채용",
+      "posted": "2026-02-06",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/sp3lib/menu/11603/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-sp3lib",
+      "sourceUrl": "https://www.splib.or.kr/sp3lib/menu/11603/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 1차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
+      "category": "채용",
+      "posted": "2026-01-30",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/sp3lib/menu/11603/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-sp3lib",
+      "sourceUrl": "https://www.splib.or.kr/sp3lib/menu/11603/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 1차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
+      "category": "채용",
+      "posted": "2026-01-09",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/sp3lib/menu/11603/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-sp4lib",
+      "sourceUrl": "https://www.splib.or.kr/sp4lib/menu/11604/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 5차 기간제근로자 채용 공고(공개경쟁)",
+      "category": "채용",
+      "posted": "2026-08-28",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/sp4lib/menu/11604/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-sp4lib",
+      "sourceUrl": "https://www.splib.or.kr/sp4lib/menu/11604/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 4차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
+      "category": "채용",
+      "posted": "2026-07-28",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/sp4lib/menu/11604/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-sp4lib",
+      "sourceUrl": "https://www.splib.or.kr/sp4lib/menu/11604/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 4차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
+      "category": "채용",
+      "posted": "2026-07-20",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/sp4lib/menu/11604/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-sp4lib",
+      "sourceUrl": "https://www.splib.or.kr/sp4lib/menu/11604/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 4차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
+      "category": "채용",
+      "posted": "2026-06-29",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/sp4lib/menu/11604/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-sp4lib",
+      "sourceUrl": "https://www.splib.or.kr/sp4lib/menu/11604/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 3차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
+      "category": "채용",
+      "posted": "2026-06-01",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/sp4lib/menu/11604/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-sp4lib",
+      "sourceUrl": "https://www.splib.or.kr/sp4lib/menu/11604/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 3차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
+      "category": "채용",
+      "posted": "2026-05-22",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/sp4lib/menu/11604/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-sp4lib",
+      "sourceUrl": "https://www.splib.or.kr/sp4lib/menu/11604/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 3차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
+      "category": "채용",
+      "posted": "2026-04-30",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/sp4lib/menu/11604/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-sp4lib",
+      "sourceUrl": "https://www.splib.or.kr/sp4lib/menu/11604/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 2차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
+      "category": "채용",
+      "posted": "2026-04-03",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/sp4lib/menu/11604/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-sp4lib",
+      "sourceUrl": "https://www.splib.or.kr/sp4lib/menu/11604/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 '2026년도 문학 상주작가 지원사업' 상주작가(기간제근로자) 채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
+      "category": "채용",
+      "posted": "2026-04-01",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/sp4lib/menu/11604/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-sp4lib",
+      "sourceUrl": "https://www.splib.or.kr/sp4lib/menu/11604/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 '2026년도 문학 상주작가 지원사업' 상주작가(기간제근로자) 채용 서류전형 합격자 공고",
+      "category": "채용",
+      "posted": "2026-03-27",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/sp4lib/menu/11604/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-sp4lib",
+      "sourceUrl": "https://www.splib.or.kr/sp4lib/menu/11604/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 2차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
+      "category": "채용",
+      "posted": "2026-03-27",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/sp4lib/menu/11604/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-sp4lib",
+      "sourceUrl": "https://www.splib.or.kr/sp4lib/menu/11604/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 2차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
+      "category": "채용",
+      "posted": "2026-02-27",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/sp4lib/menu/11604/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-sp4lib",
+      "sourceUrl": "https://www.splib.or.kr/sp4lib/menu/11604/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 1차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
+      "category": "채용",
+      "posted": "2026-02-06",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/sp4lib/menu/11604/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-sp4lib",
+      "sourceUrl": "https://www.splib.or.kr/sp4lib/menu/11604/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 1차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
+      "category": "채용",
+      "posted": "2026-01-30",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/sp4lib/menu/11604/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-sp4lib",
+      "sourceUrl": "https://www.splib.or.kr/sp4lib/menu/11604/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 1차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
+      "category": "채용",
+      "posted": "2026-01-09",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/sp4lib/menu/11604/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spmlib",
+      "sourceUrl": "https://www.splib.or.kr/spmlib/menu/11605/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 5차 기간제근로자 채용 공고(공개경쟁)",
+      "category": "채용",
+      "posted": "2026-08-28",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spmlib/menu/11605/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spmlib",
+      "sourceUrl": "https://www.splib.or.kr/spmlib/menu/11605/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 4차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
+      "category": "채용",
+      "posted": "2026-07-28",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spmlib/menu/11605/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spmlib",
+      "sourceUrl": "https://www.splib.or.kr/spmlib/menu/11605/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 4차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
+      "category": "채용",
+      "posted": "2026-07-20",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spmlib/menu/11605/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spmlib",
+      "sourceUrl": "https://www.splib.or.kr/spmlib/menu/11605/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 4차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
+      "category": "채용",
+      "posted": "2026-06-29",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spmlib/menu/11605/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spmlib",
+      "sourceUrl": "https://www.splib.or.kr/spmlib/menu/11605/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 3차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
+      "category": "채용",
+      "posted": "2026-06-01",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spmlib/menu/11605/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spmlib",
+      "sourceUrl": "https://www.splib.or.kr/spmlib/menu/11605/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 3차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
+      "category": "채용",
+      "posted": "2026-05-22",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spmlib/menu/11605/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spmlib",
+      "sourceUrl": "https://www.splib.or.kr/spmlib/menu/11605/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 3차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
+      "category": "채용",
+      "posted": "2026-04-30",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spmlib/menu/11605/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spmlib",
+      "sourceUrl": "https://www.splib.or.kr/spmlib/menu/11605/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 2차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
+      "category": "채용",
+      "posted": "2026-04-03",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spmlib/menu/11605/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spmlib",
+      "sourceUrl": "https://www.splib.or.kr/spmlib/menu/11605/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 '2026년도 문학 상주작가 지원사업' 상주작가(기간제근로자) 채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
+      "category": "채용",
+      "posted": "2026-04-01",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spmlib/menu/11605/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spmlib",
+      "sourceUrl": "https://www.splib.or.kr/spmlib/menu/11605/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 '2026년도 문학 상주작가 지원사업' 상주작가(기간제근로자) 채용 서류전형 합격자 공고",
+      "category": "채용",
+      "posted": "2026-03-27",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spmlib/menu/11605/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spmlib",
+      "sourceUrl": "https://www.splib.or.kr/spmlib/menu/11605/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 2차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
+      "category": "채용",
+      "posted": "2026-03-27",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spmlib/menu/11605/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spmlib",
+      "sourceUrl": "https://www.splib.or.kr/spmlib/menu/11605/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 2차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
+      "category": "채용",
+      "posted": "2026-02-27",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spmlib/menu/11605/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spmlib",
+      "sourceUrl": "https://www.splib.or.kr/spmlib/menu/11605/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 1차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
+      "category": "채용",
+      "posted": "2026-02-06",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spmlib/menu/11605/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spmlib",
+      "sourceUrl": "https://www.splib.or.kr/spmlib/menu/11605/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 1차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
+      "category": "채용",
+      "posted": "2026-01-30",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spmlib/menu/11605/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spmlib",
+      "sourceUrl": "https://www.splib.or.kr/spmlib/menu/11605/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 1차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
+      "category": "채용",
+      "posted": "2026-01-09",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spmlib/menu/11605/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spelib",
+      "sourceUrl": "https://www.splib.or.kr/spelib/menu/11606/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 5차 기간제근로자 채용 공고(공개경쟁)",
+      "category": "채용",
+      "posted": "2026-08-28",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spelib/menu/11606/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spelib",
+      "sourceUrl": "https://www.splib.or.kr/spelib/menu/11606/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 4차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
+      "category": "채용",
+      "posted": "2026-07-28",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spelib/menu/11606/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spelib",
+      "sourceUrl": "https://www.splib.or.kr/spelib/menu/11606/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 4차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
+      "category": "채용",
+      "posted": "2026-07-20",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spelib/menu/11606/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spelib",
+      "sourceUrl": "https://www.splib.or.kr/spelib/menu/11606/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 4차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
+      "category": "채용",
+      "posted": "2026-06-29",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spelib/menu/11606/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spelib",
+      "sourceUrl": "https://www.splib.or.kr/spelib/menu/11606/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 3차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
+      "category": "채용",
+      "posted": "2026-06-01",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spelib/menu/11606/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spelib",
+      "sourceUrl": "https://www.splib.or.kr/spelib/menu/11606/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 3차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
+      "category": "채용",
+      "posted": "2026-05-22",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spelib/menu/11606/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spelib",
+      "sourceUrl": "https://www.splib.or.kr/spelib/menu/11606/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 3차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
+      "category": "채용",
+      "posted": "2026-04-30",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spelib/menu/11606/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spelib",
+      "sourceUrl": "https://www.splib.or.kr/spelib/menu/11606/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 2차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
+      "category": "채용",
+      "posted": "2026-04-03",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spelib/menu/11606/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spelib",
+      "sourceUrl": "https://www.splib.or.kr/spelib/menu/11606/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 '2026년도 문학 상주작가 지원사업' 상주작가(기간제근로자) 채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
+      "category": "채용",
+      "posted": "2026-04-01",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spelib/menu/11606/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spelib",
+      "sourceUrl": "https://www.splib.or.kr/spelib/menu/11606/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 '2026년도 문학 상주작가 지원사업' 상주작가(기간제근로자) 채용 서류전형 합격자 공고",
+      "category": "채용",
+      "posted": "2026-03-27",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spelib/menu/11606/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spelib",
+      "sourceUrl": "https://www.splib.or.kr/spelib/menu/11606/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 2차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
+      "category": "채용",
+      "posted": "2026-03-27",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spelib/menu/11606/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spelib",
+      "sourceUrl": "https://www.splib.or.kr/spelib/menu/11606/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 2차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
+      "category": "채용",
+      "posted": "2026-02-27",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spelib/menu/11606/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spelib",
+      "sourceUrl": "https://www.splib.or.kr/spelib/menu/11606/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 1차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
+      "category": "채용",
+      "posted": "2026-02-06",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spelib/menu/11606/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spelib",
+      "sourceUrl": "https://www.splib.or.kr/spelib/menu/11606/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 1차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
+      "category": "채용",
+      "posted": "2026-01-30",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spelib/menu/11606/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spelib",
+      "sourceUrl": "https://www.splib.or.kr/spelib/menu/11606/bbs/20012/bbsPostList.do",
+      "title": "(재)송파문화재단 도서관지원팀 2026년 1차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
+      "category": "채용",
+      "posted": "2026-01-09",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spelib/menu/11606/bbs/20012/bbsPostList.do"
+    },
+    {
+      "source": "www.ydplib.or.kr-intro",
+      "sourceUrl": "https://www.ydplib.or.kr/intro/menu/10022/bbs/20001/bbsPostList.do",
+      "title": "[대림 옴니버스 인문학Ⅲ] 미지를 읽는 시간: 심해",
       "category": "공지",
-      "posted": "2025-12-24",
+      "posted": "2026-08-30",
       "deadline": null,
       "deadlineEstimated": false,
-      "link": "https://www.jungnanglib.seoul.kr/jnlib/menu/10205/bbs/20005/bbsPostList.do?searchCategory=3"
+      "link": "https://www.ydplib.or.kr/intro/menu/10022/bbs/20001/bbsPostList.do"
     },
     {
-      "source": "www.jungnanglib.seoul.kr-jnlib",
-      "sourceUrl": "https://www.jungnanglib.seoul.kr/jnlib/menu/10205/bbs/20005/bbsPostList.do?searchCategory=3",
-      "title": "중랑구립정보도서관 개관시간연장 지원사업 계약직(사서) 서류전형 합격자 공고",
+      "source": "www.ydplib.or.kr-intro",
+      "sourceUrl": "https://www.ydplib.or.kr/intro/menu/10022/bbs/20001/bbsPostList.do",
+      "title": "밤동산작은도서관 9월 휴관일 안내",
       "category": "공지",
-      "posted": "2025-12-12",
+      "posted": "2026-08-30",
       "deadline": null,
       "deadlineEstimated": false,
-      "link": "https://www.jungnanglib.seoul.kr/jnlib/menu/10205/bbs/20005/bbsPostList.do?searchCategory=3"
-    },
-    {
-      "source": "www.splib.or.kr-spjlib",
-      "sourceUrl": "https://www.splib.or.kr/spjlib/menu/11596/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 5차 기간제근로자 채용 공고(공개경쟁)",
-      "category": "채용",
-      "posted": "2026-08-28",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spjlib/menu/11596/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spjlib",
-      "sourceUrl": "https://www.splib.or.kr/spjlib/menu/11596/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 4차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
-      "category": "채용",
-      "posted": "2026-07-28",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spjlib/menu/11596/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spjlib",
-      "sourceUrl": "https://www.splib.or.kr/spjlib/menu/11596/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 4차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
-      "category": "채용",
-      "posted": "2026-07-20",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spjlib/menu/11596/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spjlib",
-      "sourceUrl": "https://www.splib.or.kr/spjlib/menu/11596/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 4차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
-      "category": "채용",
-      "posted": "2026-06-29",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spjlib/menu/11596/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spjlib",
-      "sourceUrl": "https://www.splib.or.kr/spjlib/menu/11596/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 3차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
-      "category": "채용",
-      "posted": "2026-06-01",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spjlib/menu/11596/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spjlib",
-      "sourceUrl": "https://www.splib.or.kr/spjlib/menu/11596/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 3차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
-      "category": "채용",
-      "posted": "2026-05-22",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spjlib/menu/11596/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spjlib",
-      "sourceUrl": "https://www.splib.or.kr/spjlib/menu/11596/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 3차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
-      "category": "채용",
-      "posted": "2026-04-30",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spjlib/menu/11596/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spjlib",
-      "sourceUrl": "https://www.splib.or.kr/spjlib/menu/11596/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 2차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
-      "category": "채용",
-      "posted": "2026-04-03",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spjlib/menu/11596/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spjlib",
-      "sourceUrl": "https://www.splib.or.kr/spjlib/menu/11596/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 '2026년도 문학 상주작가 지원사업' 상주작가(기간제근로자) 채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
-      "category": "채용",
-      "posted": "2026-04-01",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spjlib/menu/11596/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spjlib",
-      "sourceUrl": "https://www.splib.or.kr/spjlib/menu/11596/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 '2026년도 문학 상주작가 지원사업' 상주작가(기간제근로자) 채용 서류전형 합격자 공고",
-      "category": "채용",
-      "posted": "2026-03-27",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spjlib/menu/11596/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spjlib",
-      "sourceUrl": "https://www.splib.or.kr/spjlib/menu/11596/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 2차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
-      "category": "채용",
-      "posted": "2026-03-27",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spjlib/menu/11596/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spjlib",
-      "sourceUrl": "https://www.splib.or.kr/spjlib/menu/11596/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 2차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
-      "category": "채용",
-      "posted": "2026-02-27",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spjlib/menu/11596/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spjlib",
-      "sourceUrl": "https://www.splib.or.kr/spjlib/menu/11596/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 1차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
-      "category": "채용",
-      "posted": "2026-02-06",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spjlib/menu/11596/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spjlib",
-      "sourceUrl": "https://www.splib.or.kr/spjlib/menu/11596/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 1차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
-      "category": "채용",
-      "posted": "2026-01-30",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spjlib/menu/11596/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spjlib",
-      "sourceUrl": "https://www.splib.or.kr/spjlib/menu/11596/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 1차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
-      "category": "채용",
-      "posted": "2026-01-09",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spjlib/menu/11596/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spclib",
-      "sourceUrl": "https://www.splib.or.kr/spclib/menu/11597/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 5차 기간제근로자 채용 공고(공개경쟁)",
-      "category": "채용",
-      "posted": "2026-08-28",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spclib/menu/11597/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spclib",
-      "sourceUrl": "https://www.splib.or.kr/spclib/menu/11597/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 4차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
-      "category": "채용",
-      "posted": "2026-07-28",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spclib/menu/11597/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spclib",
-      "sourceUrl": "https://www.splib.or.kr/spclib/menu/11597/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 4차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
-      "category": "채용",
-      "posted": "2026-07-20",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spclib/menu/11597/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spclib",
-      "sourceUrl": "https://www.splib.or.kr/spclib/menu/11597/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 4차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
-      "category": "채용",
-      "posted": "2026-06-29",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spclib/menu/11597/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spclib",
-      "sourceUrl": "https://www.splib.or.kr/spclib/menu/11597/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 3차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
-      "category": "채용",
-      "posted": "2026-06-01",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spclib/menu/11597/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spclib",
-      "sourceUrl": "https://www.splib.or.kr/spclib/menu/11597/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 3차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
-      "category": "채용",
-      "posted": "2026-05-22",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spclib/menu/11597/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spclib",
-      "sourceUrl": "https://www.splib.or.kr/spclib/menu/11597/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 3차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
-      "category": "채용",
-      "posted": "2026-04-30",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spclib/menu/11597/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spclib",
-      "sourceUrl": "https://www.splib.or.kr/spclib/menu/11597/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 2차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
-      "category": "채용",
-      "posted": "2026-04-03",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spclib/menu/11597/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spclib",
-      "sourceUrl": "https://www.splib.or.kr/spclib/menu/11597/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 '2026년도 문학 상주작가 지원사업' 상주작가(기간제근로자) 채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
-      "category": "채용",
-      "posted": "2026-04-01",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spclib/menu/11597/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spclib",
-      "sourceUrl": "https://www.splib.or.kr/spclib/menu/11597/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 '2026년도 문학 상주작가 지원사업' 상주작가(기간제근로자) 채용 서류전형 합격자 공고",
-      "category": "채용",
-      "posted": "2026-03-27",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spclib/menu/11597/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spclib",
-      "sourceUrl": "https://www.splib.or.kr/spclib/menu/11597/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 2차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
-      "category": "채용",
-      "posted": "2026-03-27",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spclib/menu/11597/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spclib",
-      "sourceUrl": "https://www.splib.or.kr/spclib/menu/11597/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 2차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
-      "category": "채용",
-      "posted": "2026-02-27",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spclib/menu/11597/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spclib",
-      "sourceUrl": "https://www.splib.or.kr/spclib/menu/11597/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 1차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
-      "category": "채용",
-      "posted": "2026-02-06",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spclib/menu/11597/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spclib",
-      "sourceUrl": "https://www.splib.or.kr/spclib/menu/11597/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 1차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
-      "category": "채용",
-      "posted": "2026-01-30",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spclib/menu/11597/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spclib",
-      "sourceUrl": "https://www.splib.or.kr/spclib/menu/11597/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 1차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
-      "category": "채용",
-      "posted": "2026-01-09",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spclib/menu/11597/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spwlib",
-      "sourceUrl": "https://www.splib.or.kr/spwlib/menu/11598/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 5차 기간제근로자 채용 공고(공개경쟁)",
-      "category": "채용",
-      "posted": "2026-08-28",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spwlib/menu/11598/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spwlib",
-      "sourceUrl": "https://www.splib.or.kr/spwlib/menu/11598/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 4차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
-      "category": "채용",
-      "posted": "2026-07-28",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spwlib/menu/11598/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spwlib",
-      "sourceUrl": "https://www.splib.or.kr/spwlib/menu/11598/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 4차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
-      "category": "채용",
-      "posted": "2026-07-20",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spwlib/menu/11598/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spwlib",
-      "sourceUrl": "https://www.splib.or.kr/spwlib/menu/11598/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 4차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
-      "category": "채용",
-      "posted": "2026-06-29",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spwlib/menu/11598/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spwlib",
-      "sourceUrl": "https://www.splib.or.kr/spwlib/menu/11598/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 3차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
-      "category": "채용",
-      "posted": "2026-06-01",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spwlib/menu/11598/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spwlib",
-      "sourceUrl": "https://www.splib.or.kr/spwlib/menu/11598/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 3차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
-      "category": "채용",
-      "posted": "2026-05-22",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spwlib/menu/11598/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spwlib",
-      "sourceUrl": "https://www.splib.or.kr/spwlib/menu/11598/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 3차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
-      "category": "채용",
-      "posted": "2026-04-30",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spwlib/menu/11598/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spwlib",
-      "sourceUrl": "https://www.splib.or.kr/spwlib/menu/11598/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 2차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
-      "category": "채용",
-      "posted": "2026-04-03",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spwlib/menu/11598/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spwlib",
-      "sourceUrl": "https://www.splib.or.kr/spwlib/menu/11598/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 '2026년도 문학 상주작가 지원사업' 상주작가(기간제근로자) 채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
-      "category": "채용",
-      "posted": "2026-04-01",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spwlib/menu/11598/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spwlib",
-      "sourceUrl": "https://www.splib.or.kr/spwlib/menu/11598/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 '2026년도 문학 상주작가 지원사업' 상주작가(기간제근로자) 채용 서류전형 합격자 공고",
-      "category": "채용",
-      "posted": "2026-03-27",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spwlib/menu/11598/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spwlib",
-      "sourceUrl": "https://www.splib.or.kr/spwlib/menu/11598/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 2차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
-      "category": "채용",
-      "posted": "2026-03-27",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spwlib/menu/11598/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spwlib",
-      "sourceUrl": "https://www.splib.or.kr/spwlib/menu/11598/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 2차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
-      "category": "채용",
-      "posted": "2026-02-27",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spwlib/menu/11598/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spwlib",
-      "sourceUrl": "https://www.splib.or.kr/spwlib/menu/11598/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 1차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
-      "category": "채용",
-      "posted": "2026-02-06",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spwlib/menu/11598/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spwlib",
-      "sourceUrl": "https://www.splib.or.kr/spwlib/menu/11598/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 1차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
-      "category": "채용",
-      "posted": "2026-01-30",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spwlib/menu/11598/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spwlib",
-      "sourceUrl": "https://www.splib.or.kr/spwlib/menu/11598/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 1차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
-      "category": "채용",
-      "posted": "2026-01-09",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spwlib/menu/11598/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spglib",
-      "sourceUrl": "https://www.splib.or.kr/spglib/menu/11599/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 5차 기간제근로자 채용 공고(공개경쟁)",
-      "category": "채용",
-      "posted": "2026-08-28",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spglib/menu/11599/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spglib",
-      "sourceUrl": "https://www.splib.or.kr/spglib/menu/11599/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 4차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
-      "category": "채용",
-      "posted": "2026-07-28",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spglib/menu/11599/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spglib",
-      "sourceUrl": "https://www.splib.or.kr/spglib/menu/11599/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 4차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
-      "category": "채용",
-      "posted": "2026-07-20",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spglib/menu/11599/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spglib",
-      "sourceUrl": "https://www.splib.or.kr/spglib/menu/11599/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 4차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
-      "category": "채용",
-      "posted": "2026-06-29",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spglib/menu/11599/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spglib",
-      "sourceUrl": "https://www.splib.or.kr/spglib/menu/11599/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 3차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
-      "category": "채용",
-      "posted": "2026-06-01",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spglib/menu/11599/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spglib",
-      "sourceUrl": "https://www.splib.or.kr/spglib/menu/11599/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 3차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
-      "category": "채용",
-      "posted": "2026-05-22",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spglib/menu/11599/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spglib",
-      "sourceUrl": "https://www.splib.or.kr/spglib/menu/11599/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 3차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
-      "category": "채용",
-      "posted": "2026-04-30",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spglib/menu/11599/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spglib",
-      "sourceUrl": "https://www.splib.or.kr/spglib/menu/11599/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 2차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
-      "category": "채용",
-      "posted": "2026-04-03",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spglib/menu/11599/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spglib",
-      "sourceUrl": "https://www.splib.or.kr/spglib/menu/11599/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 '2026년도 문학 상주작가 지원사업' 상주작가(기간제근로자) 채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
-      "category": "채용",
-      "posted": "2026-04-01",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spglib/menu/11599/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spglib",
-      "sourceUrl": "https://www.splib.or.kr/spglib/menu/11599/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 '2026년도 문학 상주작가 지원사업' 상주작가(기간제근로자) 채용 서류전형 합격자 공고",
-      "category": "채용",
-      "posted": "2026-03-27",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spglib/menu/11599/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spglib",
-      "sourceUrl": "https://www.splib.or.kr/spglib/menu/11599/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 2차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
-      "category": "채용",
-      "posted": "2026-03-27",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spglib/menu/11599/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spglib",
-      "sourceUrl": "https://www.splib.or.kr/spglib/menu/11599/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 2차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
-      "category": "채용",
-      "posted": "2026-02-27",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spglib/menu/11599/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spglib",
-      "sourceUrl": "https://www.splib.or.kr/spglib/menu/11599/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 1차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
-      "category": "채용",
-      "posted": "2026-02-06",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spglib/menu/11599/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spglib",
-      "sourceUrl": "https://www.splib.or.kr/spglib/menu/11599/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 1차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
-      "category": "채용",
-      "posted": "2026-01-30",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spglib/menu/11599/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spglib",
-      "sourceUrl": "https://www.splib.or.kr/spglib/menu/11599/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 1차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
-      "category": "채용",
-      "posted": "2026-01-09",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spglib/menu/11599/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spdlib",
-      "sourceUrl": "https://www.splib.or.kr/spdlib/menu/11600/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 5차 기간제근로자 채용 공고(공개경쟁)",
-      "category": "채용",
-      "posted": "2026-08-28",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spdlib/menu/11600/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spdlib",
-      "sourceUrl": "https://www.splib.or.kr/spdlib/menu/11600/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 4차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
-      "category": "채용",
-      "posted": "2026-07-28",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spdlib/menu/11600/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spdlib",
-      "sourceUrl": "https://www.splib.or.kr/spdlib/menu/11600/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 4차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
-      "category": "채용",
-      "posted": "2026-07-20",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spdlib/menu/11600/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spdlib",
-      "sourceUrl": "https://www.splib.or.kr/spdlib/menu/11600/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 4차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
-      "category": "채용",
-      "posted": "2026-06-29",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spdlib/menu/11600/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spdlib",
-      "sourceUrl": "https://www.splib.or.kr/spdlib/menu/11600/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 3차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
-      "category": "채용",
-      "posted": "2026-06-01",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spdlib/menu/11600/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spdlib",
-      "sourceUrl": "https://www.splib.or.kr/spdlib/menu/11600/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 3차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
-      "category": "채용",
-      "posted": "2026-05-22",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spdlib/menu/11600/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spdlib",
-      "sourceUrl": "https://www.splib.or.kr/spdlib/menu/11600/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 3차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
-      "category": "채용",
-      "posted": "2026-04-30",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spdlib/menu/11600/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spdlib",
-      "sourceUrl": "https://www.splib.or.kr/spdlib/menu/11600/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 2차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
-      "category": "채용",
-      "posted": "2026-04-03",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spdlib/menu/11600/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spdlib",
-      "sourceUrl": "https://www.splib.or.kr/spdlib/menu/11600/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 '2026년도 문학 상주작가 지원사업' 상주작가(기간제근로자) 채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
-      "category": "채용",
-      "posted": "2026-04-01",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spdlib/menu/11600/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spdlib",
-      "sourceUrl": "https://www.splib.or.kr/spdlib/menu/11600/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 '2026년도 문학 상주작가 지원사업' 상주작가(기간제근로자) 채용 서류전형 합격자 공고",
-      "category": "채용",
-      "posted": "2026-03-27",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spdlib/menu/11600/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spdlib",
-      "sourceUrl": "https://www.splib.or.kr/spdlib/menu/11600/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 2차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
-      "category": "채용",
-      "posted": "2026-03-27",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spdlib/menu/11600/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spdlib",
-      "sourceUrl": "https://www.splib.or.kr/spdlib/menu/11600/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 2차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
-      "category": "채용",
-      "posted": "2026-02-27",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spdlib/menu/11600/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spdlib",
-      "sourceUrl": "https://www.splib.or.kr/spdlib/menu/11600/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 1차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
-      "category": "채용",
-      "posted": "2026-02-06",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spdlib/menu/11600/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spdlib",
-      "sourceUrl": "https://www.splib.or.kr/spdlib/menu/11600/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 1차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
-      "category": "채용",
-      "posted": "2026-01-30",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spdlib/menu/11600/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spdlib",
-      "sourceUrl": "https://www.splib.or.kr/spdlib/menu/11600/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 1차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
-      "category": "채용",
-      "posted": "2026-01-09",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spdlib/menu/11600/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-sppnlib",
-      "sourceUrl": "https://www.splib.or.kr/sppnlib/menu/11601/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 5차 기간제근로자 채용 공고(공개경쟁)",
-      "category": "채용",
-      "posted": "2026-08-28",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/sppnlib/menu/11601/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-sppnlib",
-      "sourceUrl": "https://www.splib.or.kr/sppnlib/menu/11601/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 4차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
-      "category": "채용",
-      "posted": "2026-07-28",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/sppnlib/menu/11601/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-sppnlib",
-      "sourceUrl": "https://www.splib.or.kr/sppnlib/menu/11601/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 4차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
-      "category": "채용",
-      "posted": "2026-07-20",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/sppnlib/menu/11601/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-sppnlib",
-      "sourceUrl": "https://www.splib.or.kr/sppnlib/menu/11601/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 4차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
-      "category": "채용",
-      "posted": "2026-06-29",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/sppnlib/menu/11601/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-sppnlib",
-      "sourceUrl": "https://www.splib.or.kr/sppnlib/menu/11601/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 3차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
-      "category": "채용",
-      "posted": "2026-06-01",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/sppnlib/menu/11601/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-sppnlib",
-      "sourceUrl": "https://www.splib.or.kr/sppnlib/menu/11601/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 3차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
-      "category": "채용",
-      "posted": "2026-05-22",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/sppnlib/menu/11601/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-sppnlib",
-      "sourceUrl": "https://www.splib.or.kr/sppnlib/menu/11601/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 3차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
-      "category": "채용",
-      "posted": "2026-04-30",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/sppnlib/menu/11601/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-sppnlib",
-      "sourceUrl": "https://www.splib.or.kr/sppnlib/menu/11601/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 2차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
-      "category": "채용",
-      "posted": "2026-04-03",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/sppnlib/menu/11601/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-sppnlib",
-      "sourceUrl": "https://www.splib.or.kr/sppnlib/menu/11601/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 '2026년도 문학 상주작가 지원사업' 상주작가(기간제근로자) 채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
-      "category": "채용",
-      "posted": "2026-04-01",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/sppnlib/menu/11601/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-sppnlib",
-      "sourceUrl": "https://www.splib.or.kr/sppnlib/menu/11601/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 '2026년도 문학 상주작가 지원사업' 상주작가(기간제근로자) 채용 서류전형 합격자 공고",
-      "category": "채용",
-      "posted": "2026-03-27",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/sppnlib/menu/11601/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-sppnlib",
-      "sourceUrl": "https://www.splib.or.kr/sppnlib/menu/11601/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 2차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
-      "category": "채용",
-      "posted": "2026-03-27",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/sppnlib/menu/11601/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-sppnlib",
-      "sourceUrl": "https://www.splib.or.kr/sppnlib/menu/11601/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 2차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
-      "category": "채용",
-      "posted": "2026-02-27",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/sppnlib/menu/11601/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-sppnlib",
-      "sourceUrl": "https://www.splib.or.kr/sppnlib/menu/11601/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 1차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
-      "category": "채용",
-      "posted": "2026-02-06",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/sppnlib/menu/11601/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-sppnlib",
-      "sourceUrl": "https://www.splib.or.kr/sppnlib/menu/11601/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 1차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
-      "category": "채용",
-      "posted": "2026-01-30",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/sppnlib/menu/11601/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-sppnlib",
-      "sourceUrl": "https://www.splib.or.kr/sppnlib/menu/11601/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 1차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
-      "category": "채용",
-      "posted": "2026-01-09",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/sppnlib/menu/11601/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-sp2lib",
-      "sourceUrl": "https://www.splib.or.kr/sp2lib/menu/11602/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 5차 기간제근로자 채용 공고(공개경쟁)",
-      "category": "채용",
-      "posted": "2026-08-28",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/sp2lib/menu/11602/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-sp2lib",
-      "sourceUrl": "https://www.splib.or.kr/sp2lib/menu/11602/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 4차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
-      "category": "채용",
-      "posted": "2026-07-28",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/sp2lib/menu/11602/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-sp2lib",
-      "sourceUrl": "https://www.splib.or.kr/sp2lib/menu/11602/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 4차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
-      "category": "채용",
-      "posted": "2026-07-20",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/sp2lib/menu/11602/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-sp2lib",
-      "sourceUrl": "https://www.splib.or.kr/sp2lib/menu/11602/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 4차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
-      "category": "채용",
-      "posted": "2026-06-29",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/sp2lib/menu/11602/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-sp2lib",
-      "sourceUrl": "https://www.splib.or.kr/sp2lib/menu/11602/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 3차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
-      "category": "채용",
-      "posted": "2026-06-01",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/sp2lib/menu/11602/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-sp2lib",
-      "sourceUrl": "https://www.splib.or.kr/sp2lib/menu/11602/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 3차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
-      "category": "채용",
-      "posted": "2026-05-22",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/sp2lib/menu/11602/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-sp2lib",
-      "sourceUrl": "https://www.splib.or.kr/sp2lib/menu/11602/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 3차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
-      "category": "채용",
-      "posted": "2026-04-30",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/sp2lib/menu/11602/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-sp2lib",
-      "sourceUrl": "https://www.splib.or.kr/sp2lib/menu/11602/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 2차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
-      "category": "채용",
-      "posted": "2026-04-03",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/sp2lib/menu/11602/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-sp2lib",
-      "sourceUrl": "https://www.splib.or.kr/sp2lib/menu/11602/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 '2026년도 문학 상주작가 지원사업' 상주작가(기간제근로자) 채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
-      "category": "채용",
-      "posted": "2026-04-01",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/sp2lib/menu/11602/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-sp2lib",
-      "sourceUrl": "https://www.splib.or.kr/sp2lib/menu/11602/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 '2026년도 문학 상주작가 지원사업' 상주작가(기간제근로자) 채용 서류전형 합격자 공고",
-      "category": "채용",
-      "posted": "2026-03-27",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/sp2lib/menu/11602/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-sp2lib",
-      "sourceUrl": "https://www.splib.or.kr/sp2lib/menu/11602/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 2차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
-      "category": "채용",
-      "posted": "2026-03-27",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/sp2lib/menu/11602/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-sp2lib",
-      "sourceUrl": "https://www.splib.or.kr/sp2lib/menu/11602/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 2차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
-      "category": "채용",
-      "posted": "2026-02-27",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/sp2lib/menu/11602/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-sp2lib",
-      "sourceUrl": "https://www.splib.or.kr/sp2lib/menu/11602/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 1차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
-      "category": "채용",
-      "posted": "2026-02-06",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/sp2lib/menu/11602/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-sp2lib",
-      "sourceUrl": "https://www.splib.or.kr/sp2lib/menu/11602/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 1차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
-      "category": "채용",
-      "posted": "2026-01-30",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/sp2lib/menu/11602/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-sp2lib",
-      "sourceUrl": "https://www.splib.or.kr/sp2lib/menu/11602/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 1차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
-      "category": "채용",
-      "posted": "2026-01-09",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/sp2lib/menu/11602/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-sp3lib",
-      "sourceUrl": "https://www.splib.or.kr/sp3lib/menu/11603/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 5차 기간제근로자 채용 공고(공개경쟁)",
-      "category": "채용",
-      "posted": "2026-08-28",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/sp3lib/menu/11603/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-sp3lib",
-      "sourceUrl": "https://www.splib.or.kr/sp3lib/menu/11603/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 4차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
-      "category": "채용",
-      "posted": "2026-07-28",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/sp3lib/menu/11603/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-sp3lib",
-      "sourceUrl": "https://www.splib.or.kr/sp3lib/menu/11603/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 4차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
-      "category": "채용",
-      "posted": "2026-07-20",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/sp3lib/menu/11603/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-sp3lib",
-      "sourceUrl": "https://www.splib.or.kr/sp3lib/menu/11603/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 4차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
-      "category": "채용",
-      "posted": "2026-06-29",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/sp3lib/menu/11603/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-sp3lib",
-      "sourceUrl": "https://www.splib.or.kr/sp3lib/menu/11603/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 3차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
-      "category": "채용",
-      "posted": "2026-06-01",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/sp3lib/menu/11603/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-sp3lib",
-      "sourceUrl": "https://www.splib.or.kr/sp3lib/menu/11603/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 3차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
-      "category": "채용",
-      "posted": "2026-05-22",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/sp3lib/menu/11603/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-sp3lib",
-      "sourceUrl": "https://www.splib.or.kr/sp3lib/menu/11603/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 3차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
-      "category": "채용",
-      "posted": "2026-04-30",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/sp3lib/menu/11603/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-sp3lib",
-      "sourceUrl": "https://www.splib.or.kr/sp3lib/menu/11603/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 2차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
-      "category": "채용",
-      "posted": "2026-04-03",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/sp3lib/menu/11603/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-sp3lib",
-      "sourceUrl": "https://www.splib.or.kr/sp3lib/menu/11603/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 '2026년도 문학 상주작가 지원사업' 상주작가(기간제근로자) 채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
-      "category": "채용",
-      "posted": "2026-04-01",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/sp3lib/menu/11603/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-sp3lib",
-      "sourceUrl": "https://www.splib.or.kr/sp3lib/menu/11603/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 '2026년도 문학 상주작가 지원사업' 상주작가(기간제근로자) 채용 서류전형 합격자 공고",
-      "category": "채용",
-      "posted": "2026-03-27",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/sp3lib/menu/11603/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-sp3lib",
-      "sourceUrl": "https://www.splib.or.kr/sp3lib/menu/11603/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 2차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
-      "category": "채용",
-      "posted": "2026-03-27",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/sp3lib/menu/11603/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-sp3lib",
-      "sourceUrl": "https://www.splib.or.kr/sp3lib/menu/11603/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 2차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
-      "category": "채용",
-      "posted": "2026-02-27",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/sp3lib/menu/11603/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-sp3lib",
-      "sourceUrl": "https://www.splib.or.kr/sp3lib/menu/11603/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 1차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
-      "category": "채용",
-      "posted": "2026-02-06",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/sp3lib/menu/11603/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-sp3lib",
-      "sourceUrl": "https://www.splib.or.kr/sp3lib/menu/11603/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 1차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
-      "category": "채용",
-      "posted": "2026-01-30",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/sp3lib/menu/11603/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-sp3lib",
-      "sourceUrl": "https://www.splib.or.kr/sp3lib/menu/11603/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 1차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
-      "category": "채용",
-      "posted": "2026-01-09",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/sp3lib/menu/11603/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-sp4lib",
-      "sourceUrl": "https://www.splib.or.kr/sp4lib/menu/11604/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 5차 기간제근로자 채용 공고(공개경쟁)",
-      "category": "채용",
-      "posted": "2026-08-28",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/sp4lib/menu/11604/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-sp4lib",
-      "sourceUrl": "https://www.splib.or.kr/sp4lib/menu/11604/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 4차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
-      "category": "채용",
-      "posted": "2026-07-28",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/sp4lib/menu/11604/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-sp4lib",
-      "sourceUrl": "https://www.splib.or.kr/sp4lib/menu/11604/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 4차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
-      "category": "채용",
-      "posted": "2026-07-20",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/sp4lib/menu/11604/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-sp4lib",
-      "sourceUrl": "https://www.splib.or.kr/sp4lib/menu/11604/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 4차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
-      "category": "채용",
-      "posted": "2026-06-29",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/sp4lib/menu/11604/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-sp4lib",
-      "sourceUrl": "https://www.splib.or.kr/sp4lib/menu/11604/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 3차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
-      "category": "채용",
-      "posted": "2026-06-01",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/sp4lib/menu/11604/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-sp4lib",
-      "sourceUrl": "https://www.splib.or.kr/sp4lib/menu/11604/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 3차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
-      "category": "채용",
-      "posted": "2026-05-22",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/sp4lib/menu/11604/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-sp4lib",
-      "sourceUrl": "https://www.splib.or.kr/sp4lib/menu/11604/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 3차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
-      "category": "채용",
-      "posted": "2026-04-30",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/sp4lib/menu/11604/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-sp4lib",
-      "sourceUrl": "https://www.splib.or.kr/sp4lib/menu/11604/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 2차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
-      "category": "채용",
-      "posted": "2026-04-03",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/sp4lib/menu/11604/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-sp4lib",
-      "sourceUrl": "https://www.splib.or.kr/sp4lib/menu/11604/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 '2026년도 문학 상주작가 지원사업' 상주작가(기간제근로자) 채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
-      "category": "채용",
-      "posted": "2026-04-01",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/sp4lib/menu/11604/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-sp4lib",
-      "sourceUrl": "https://www.splib.or.kr/sp4lib/menu/11604/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 '2026년도 문학 상주작가 지원사업' 상주작가(기간제근로자) 채용 서류전형 합격자 공고",
-      "category": "채용",
-      "posted": "2026-03-27",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/sp4lib/menu/11604/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-sp4lib",
-      "sourceUrl": "https://www.splib.or.kr/sp4lib/menu/11604/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 2차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
-      "category": "채용",
-      "posted": "2026-03-27",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/sp4lib/menu/11604/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-sp4lib",
-      "sourceUrl": "https://www.splib.or.kr/sp4lib/menu/11604/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 2차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
-      "category": "채용",
-      "posted": "2026-02-27",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/sp4lib/menu/11604/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-sp4lib",
-      "sourceUrl": "https://www.splib.or.kr/sp4lib/menu/11604/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 1차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
-      "category": "채용",
-      "posted": "2026-02-06",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/sp4lib/menu/11604/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-sp4lib",
-      "sourceUrl": "https://www.splib.or.kr/sp4lib/menu/11604/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 1차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
-      "category": "채용",
-      "posted": "2026-01-30",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/sp4lib/menu/11604/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-sp4lib",
-      "sourceUrl": "https://www.splib.or.kr/sp4lib/menu/11604/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 1차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
-      "category": "채용",
-      "posted": "2026-01-09",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/sp4lib/menu/11604/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spmlib",
-      "sourceUrl": "https://www.splib.or.kr/spmlib/menu/11605/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 5차 기간제근로자 채용 공고(공개경쟁)",
-      "category": "채용",
-      "posted": "2026-08-28",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spmlib/menu/11605/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spmlib",
-      "sourceUrl": "https://www.splib.or.kr/spmlib/menu/11605/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 4차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
-      "category": "채용",
-      "posted": "2026-07-28",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spmlib/menu/11605/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spmlib",
-      "sourceUrl": "https://www.splib.or.kr/spmlib/menu/11605/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 4차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
-      "category": "채용",
-      "posted": "2026-07-20",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spmlib/menu/11605/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spmlib",
-      "sourceUrl": "https://www.splib.or.kr/spmlib/menu/11605/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 4차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
-      "category": "채용",
-      "posted": "2026-06-29",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spmlib/menu/11605/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spmlib",
-      "sourceUrl": "https://www.splib.or.kr/spmlib/menu/11605/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 3차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
-      "category": "채용",
-      "posted": "2026-06-01",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spmlib/menu/11605/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spmlib",
-      "sourceUrl": "https://www.splib.or.kr/spmlib/menu/11605/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 3차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
-      "category": "채용",
-      "posted": "2026-05-22",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spmlib/menu/11605/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spmlib",
-      "sourceUrl": "https://www.splib.or.kr/spmlib/menu/11605/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 3차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
-      "category": "채용",
-      "posted": "2026-04-30",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spmlib/menu/11605/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spmlib",
-      "sourceUrl": "https://www.splib.or.kr/spmlib/menu/11605/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 2차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
-      "category": "채용",
-      "posted": "2026-04-03",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spmlib/menu/11605/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spmlib",
-      "sourceUrl": "https://www.splib.or.kr/spmlib/menu/11605/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 '2026년도 문학 상주작가 지원사업' 상주작가(기간제근로자) 채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
-      "category": "채용",
-      "posted": "2026-04-01",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spmlib/menu/11605/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spmlib",
-      "sourceUrl": "https://www.splib.or.kr/spmlib/menu/11605/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 '2026년도 문학 상주작가 지원사업' 상주작가(기간제근로자) 채용 서류전형 합격자 공고",
-      "category": "채용",
-      "posted": "2026-03-27",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spmlib/menu/11605/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spmlib",
-      "sourceUrl": "https://www.splib.or.kr/spmlib/menu/11605/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 2차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
-      "category": "채용",
-      "posted": "2026-03-27",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spmlib/menu/11605/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spmlib",
-      "sourceUrl": "https://www.splib.or.kr/spmlib/menu/11605/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 2차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
-      "category": "채용",
-      "posted": "2026-02-27",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spmlib/menu/11605/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spmlib",
-      "sourceUrl": "https://www.splib.or.kr/spmlib/menu/11605/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 1차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
-      "category": "채용",
-      "posted": "2026-02-06",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spmlib/menu/11605/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spmlib",
-      "sourceUrl": "https://www.splib.or.kr/spmlib/menu/11605/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 1차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
-      "category": "채용",
-      "posted": "2026-01-30",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spmlib/menu/11605/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spmlib",
-      "sourceUrl": "https://www.splib.or.kr/spmlib/menu/11605/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 1차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
-      "category": "채용",
-      "posted": "2026-01-09",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spmlib/menu/11605/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spelib",
-      "sourceUrl": "https://www.splib.or.kr/spelib/menu/11606/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 5차 기간제근로자 채용 공고(공개경쟁)",
-      "category": "채용",
-      "posted": "2026-08-28",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spelib/menu/11606/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spelib",
-      "sourceUrl": "https://www.splib.or.kr/spelib/menu/11606/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 4차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
-      "category": "채용",
-      "posted": "2026-07-28",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spelib/menu/11606/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spelib",
-      "sourceUrl": "https://www.splib.or.kr/spelib/menu/11606/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 4차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
-      "category": "채용",
-      "posted": "2026-07-20",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spelib/menu/11606/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spelib",
-      "sourceUrl": "https://www.splib.or.kr/spelib/menu/11606/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 4차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
-      "category": "채용",
-      "posted": "2026-06-29",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spelib/menu/11606/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spelib",
-      "sourceUrl": "https://www.splib.or.kr/spelib/menu/11606/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 3차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
-      "category": "채용",
-      "posted": "2026-06-01",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spelib/menu/11606/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spelib",
-      "sourceUrl": "https://www.splib.or.kr/spelib/menu/11606/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 3차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
-      "category": "채용",
-      "posted": "2026-05-22",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spelib/menu/11606/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spelib",
-      "sourceUrl": "https://www.splib.or.kr/spelib/menu/11606/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 3차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
-      "category": "채용",
-      "posted": "2026-04-30",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spelib/menu/11606/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spelib",
-      "sourceUrl": "https://www.splib.or.kr/spelib/menu/11606/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 2차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
-      "category": "채용",
-      "posted": "2026-04-03",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spelib/menu/11606/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spelib",
-      "sourceUrl": "https://www.splib.or.kr/spelib/menu/11606/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 '2026년도 문학 상주작가 지원사업' 상주작가(기간제근로자) 채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
-      "category": "채용",
-      "posted": "2026-04-01",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spelib/menu/11606/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spelib",
-      "sourceUrl": "https://www.splib.or.kr/spelib/menu/11606/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 '2026년도 문학 상주작가 지원사업' 상주작가(기간제근로자) 채용 서류전형 합격자 공고",
-      "category": "채용",
-      "posted": "2026-03-27",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spelib/menu/11606/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spelib",
-      "sourceUrl": "https://www.splib.or.kr/spelib/menu/11606/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 2차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
-      "category": "채용",
-      "posted": "2026-03-27",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spelib/menu/11606/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spelib",
-      "sourceUrl": "https://www.splib.or.kr/spelib/menu/11606/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 2차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
-      "category": "채용",
-      "posted": "2026-02-27",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spelib/menu/11606/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spelib",
-      "sourceUrl": "https://www.splib.or.kr/spelib/menu/11606/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 1차 기간제 및 단시간근로자 공개채용 면접시험 합격자 결정 및 임용후보자 등록 일정 공고",
-      "category": "채용",
-      "posted": "2026-02-06",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spelib/menu/11606/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spelib",
-      "sourceUrl": "https://www.splib.or.kr/spelib/menu/11606/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 1차 기간제 및 단시간근로자 공개채용 서류전형 합격자 공고",
-      "category": "채용",
-      "posted": "2026-01-30",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spelib/menu/11606/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spelib",
-      "sourceUrl": "https://www.splib.or.kr/spelib/menu/11606/bbs/20012/bbsPostList.do",
-      "title": "(재)송파문화재단 도서관지원팀 2026년 1차 기간제근로자 및 단시간근로자 채용 공고(공개경쟁)",
-      "category": "채용",
-      "posted": "2026-01-09",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spelib/menu/11606/bbs/20012/bbsPostList.do"
+      "link": "https://www.ydplib.or.kr/intro/menu/10022/bbs/20001/bbsPostList.do"
     },
     {
       "source": "www.ydplib.or.kr-intro",
@@ -3569,26 +3589,6 @@
       "title": "대림도서관 2026년 신착도서 안내(희망26차)",
       "category": "공지",
       "posted": "2026-08-28",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.ydplib.or.kr/intro/menu/10022/bbs/20001/bbsPostList.do"
-    },
-    {
-      "source": "www.ydplib.or.kr-intro",
-      "sourceUrl": "https://www.ydplib.or.kr/intro/menu/10022/bbs/20001/bbsPostList.do",
-      "title": "문래도서관 2026년 신착도서 안내(희망26차/바로북21차)",
-      "category": "공지",
-      "posted": "2026-08-28",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.ydplib.or.kr/intro/menu/10022/bbs/20001/bbsPostList.do"
-    },
-    {
-      "source": "www.ydplib.or.kr-intro",
-      "sourceUrl": "https://www.ydplib.or.kr/intro/menu/10022/bbs/20001/bbsPostList.do",
-      "title": "여의샛강도서관 2026년 23차 신착도서 안내",
-      "category": "공지",
-      "posted": "2026-08-27",
       "deadline": null,
       "deadlineEstimated": false,
       "link": "https://www.ydplib.or.kr/intro/menu/10022/bbs/20001/bbsPostList.do"
@@ -5936,6 +5936,16 @@
     {
       "source": "www.splib.or.kr-spalib",
       "sourceUrl": "https://www.splib.or.kr/spalib/menu/11403/bbs/20001/bbsPostList.do",
+      "title": "[행사] 독서의 달 행사 - 스톱!! 독서 편식",
+      "category": "공지",
+      "posted": "2026-08-30",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/spalib/menu/11403/bbs/20001/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-spalib",
+      "sourceUrl": "https://www.splib.or.kr/spalib/menu/11403/bbs/20001/bbsPostList.do",
       "title": "[안내] 9월 휴관일 안내",
       "category": "공지",
       "posted": "2026-08-28",
@@ -6069,16 +6079,6 @@
       "title": "[프로그램] [월간인문학] 결혼식으로 읽는 문명사",
       "category": "공지",
       "posted": "2026-06-17",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/spalib/menu/11403/bbs/20001/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-spalib",
-      "sourceUrl": "https://www.splib.or.kr/spalib/menu/11403/bbs/20001/bbsPostList.do",
-      "title": "[안내] 5월 신착도서 입고안내",
-      "category": "공지",
-      "posted": "2026-06-04",
       "deadline": null,
       "deadlineEstimated": false,
       "link": "https://www.splib.or.kr/spalib/menu/11403/bbs/20001/bbsPostList.do"
@@ -6266,6 +6266,16 @@
     {
       "source": "www.splib.or.kr-intro",
       "sourceUrl": "https://www.splib.or.kr/intro/menu/10068/bbs/20001/bbsPostList.do",
+      "title": "[행사] 독서의 달 행사 - 스톱!! 독서 편식",
+      "category": "공지",
+      "posted": "2026-08-30",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.splib.or.kr/intro/menu/10068/bbs/20001/bbsPostList.do"
+    },
+    {
+      "source": "www.splib.or.kr-intro",
+      "sourceUrl": "https://www.splib.or.kr/intro/menu/10068/bbs/20001/bbsPostList.do",
       "title": "[안내] 9월 휴관일 안내",
       "category": "공지",
       "posted": "2026-08-28",
@@ -6397,16 +6407,6 @@
       "source": "www.splib.or.kr-intro",
       "sourceUrl": "https://www.splib.or.kr/intro/menu/10068/bbs/20001/bbsPostList.do",
       "title": "♠[2호]소나무언덕2호도서관 프로그램 및 행사 패널티 안내",
-      "category": "공지",
-      "posted": "2026-08-26",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.splib.or.kr/intro/menu/10068/bbs/20001/bbsPostList.do"
-    },
-    {
-      "source": "www.splib.or.kr-intro",
-      "sourceUrl": "https://www.splib.or.kr/intro/menu/10068/bbs/20001/bbsPostList.do",
-      "title": "[송파문화재단] 송파씨네 다양성 영화 상영회 관람 안내",
       "category": "공지",
       "posted": "2026-08-26",
       "deadline": null,
@@ -6662,356 +6662,6 @@
       "deadline": null,
       "deadlineEstimated": false,
       "link": "https://www.splib.or.kr/intro/menu/11595/bbs/20012/bbsPostList.do"
-    },
-    {
-      "source": "www.jobkorea.co.kr-Search",
-      "sourceUrl": "https://www.jobkorea.co.kr/Search/?stext=%EC%82%AC%EC%84%9C&tabType=recruit",
-      "title": "[POLY 직영] 위례 폴리어학원 도서관 사서 채용 (아르바이트)",
-      "category": "채용",
-      "posted": null,
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49739037?Oem_Code=C1&logpath=1&stext=%EC%82%AC%EC%84%9C&listno=1&sc=630"
-    },
-    {
-      "source": "www.jobkorea.co.kr-Search",
-      "sourceUrl": "https://www.jobkorea.co.kr/Search/?stext=%EC%82%AC%EC%84%9C&tabType=recruit",
-      "title": "[강동폴리어학원] 영어 도서관 사서",
-      "category": "공지",
-      "posted": null,
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49807464?Oem_Code=C1&logpath=1&stext=%EC%82%AC%EC%84%9C&listno=2&sc=630"
-    },
-    {
-      "source": "www.jobkorea.co.kr-Search",
-      "sourceUrl": "https://www.jobkorea.co.kr/Search/?stext=%EC%82%AC%EC%84%9C&tabType=recruit",
-      "title": "2026년 서초청소년도서관 개관시간 연장지원사업 계약직원(사서) 채용 공고",
-      "category": "채용",
-      "posted": null,
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49845311?Oem_Code=C1&logpath=1&stext=%EC%82%AC%EC%84%9C&listno=3&sc=630"
-    },
-    {
-      "source": "www.jobkorea.co.kr-Search",
-      "sourceUrl": "https://www.jobkorea.co.kr/Search/?stext=%EC%82%AC%EC%84%9C&tabType=recruit",
-      "title": "서초청소년도서관",
-      "category": "공지",
-      "posted": null,
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49845311?Oem_Code=C1&logpath=1&stext=%EC%82%AC%EC%84%9C&listno=3&sc=630"
-    },
-    {
-      "source": "www.jobkorea.co.kr-Search",
-      "sourceUrl": "https://www.jobkorea.co.kr/Search/?stext=%EC%82%AC%EC%84%9C&tabType=recruit",
-      "title": "등마루골작은도서관 상주사서 채용 공고 (이메일 접수)",
-      "category": "채용",
-      "posted": null,
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49866904?Oem_Code=C1&logpath=1&stext=%EC%82%AC%EC%84%9C&listno=4&sc=630"
-    },
-    {
-      "source": "www.jobkorea.co.kr-Search",
-      "sourceUrl": "https://www.jobkorea.co.kr/Search/?stext=%EC%82%AC%EC%84%9C&tabType=recruit",
-      "title": "유한대학교 기간제계약직(도서관 사서) 직원 모집 채용 공고",
-      "category": "채용",
-      "posted": null,
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49789187?Oem_Code=C1&logpath=1&stext=%EC%82%AC%EC%84%9C&listno=5&sc=630"
-    },
-    {
-      "source": "www.jobkorea.co.kr-Search",
-      "sourceUrl": "https://www.jobkorea.co.kr/Search/?stext=%EC%82%AC%EC%84%9C&tabType=recruit",
-      "title": "한서대학교 직원채용 공고(일반행정, 사서)",
-      "category": "채용",
-      "posted": null,
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49866275?Oem_Code=C1&logpath=1&stext=%EC%82%AC%EC%84%9C&listno=6&sc=630"
-    },
-    {
-      "source": "www.jobkorea.co.kr-Search",
-      "sourceUrl": "https://www.jobkorea.co.kr/Search/?stext=%EC%82%AC%EC%84%9C&tabType=recruit",
-      "title": "자사서비스 담당 풀스택 개발자 모집",
-      "category": "채용",
-      "posted": null,
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49583620?Oem_Code=C1&logpath=1&stext=%EC%82%AC%EC%84%9C&listno=8&sc=630"
-    },
-    {
-      "source": "www.jobkorea.co.kr-Search",
-      "sourceUrl": "https://www.jobkorea.co.kr/Search/?stext=%EC%82%AC%EC%84%9C&tabType=recruit",
-      "title": "[공장자동화] 프로젝트공무 -견적,자재 및 공사서류(당진)",
-      "category": "공지",
-      "posted": null,
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49710571?Oem_Code=C1&logpath=1&stext=%EC%82%AC%EC%84%9C&listno=9&sc=630"
-    },
-    {
-      "source": "www.jobkorea.co.kr-Search",
-      "sourceUrl": "https://www.jobkorea.co.kr/Search/?stext=%EC%82%AC%EC%84%9C&tabType=recruit",
-      "title": "프로젝트 행정 및 공사서류 관리 직원 채용",
-      "category": "채용",
-      "posted": null,
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49722423?Oem_Code=C1&logpath=1&stext=%EC%82%AC%EC%84%9C&listno=11&sc=630"
-    },
-    {
-      "source": "www.jobkorea.co.kr-Search",
-      "sourceUrl": "https://www.jobkorea.co.kr/Search/?stext=%EC%82%AC%EC%84%9C&tabType=recruit",
-      "title": "도서관 MARC 입력 담당자 모집",
-      "category": "채용",
-      "posted": null,
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49858111?Oem_Code=C1&logpath=1&stext=%EC%82%AC%EC%84%9C&listno=15&sc=630"
-    },
-    {
-      "source": "www.jobkorea.co.kr-Search",
-      "sourceUrl": "https://www.jobkorea.co.kr/Search/?stext=%EC%82%AC%EC%84%9C&tabType=recruit",
-      "title": "G스쿨 절대합격 사서임용사서임용 출제의도 분석된 완벽한 강의, 모든 출제범위의 구조화, 기초+핵심강의http://www.g-school.co.kr",
-      "category": "채용",
-      "posted": null,
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://ader.naver.com/v1/2ne8s4kqt-RDaZrkow4mZM-duBI_1Wyq56FyjER8gpFzphKspIhKambnMp2a6-oRTrmVRtl9APrbWXcfmo1McXeIKnwNB6l6Qax417aNBOVH3eFn-jKLCYiYN745ik8N3-Aae4gdp8V_1Ih3i_s76tBgsjh8ITACd_6c0Wh-8bYV2NMSJCBTAaUyabMqfaLdnOePazFYDDGZlsWc1a2OoKCE_vXBh-PbYfPji7k-32Hxuqhib1PWYP-v5QQLoVV5R3lsC7iTp-JnLouELiNfYuO-H7lw4LiRvGBly3VMRlouOYaaWULsDX_A-Sb74OxQtSYsgw0v9nealqcWpQRiq4gnbplL0x5NPIUBw2eXwBhZ85LF3oNcRwX008wHEzQQxp6l4FaIQGMHh2YzNN9sQmGTghZPYw7P1uEnX4qgztU=?c=jobkorea.ch1&t=0"
-    },
-    {
-      "source": "www.jobkorea.co.kr-Search2",
-      "sourceUrl": "https://www.jobkorea.co.kr/Search/?stext=%EB%8F%84%EC%84%9C%EA%B4%80&tabType=recruit",
-      "title": "[부천 광명] 센클 영어도서관 영어강사 채용",
-      "category": "채용",
-      "posted": null,
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49860610?Oem_Code=C1&logpath=1&stext=%EB%8F%84%EC%84%9C%EA%B4%80&listno=1&sc=551&traceId=4f7d471dbf24a71fca8ac3b34ae1e7d9"
-    },
-    {
-      "source": "www.jobkorea.co.kr-Search2",
-      "sourceUrl": "https://www.jobkorea.co.kr/Search/?stext=%EB%8F%84%EC%84%9C%EA%B4%80&tabType=recruit",
-      "title": "[강동폴리어학원] 영어 도서관 사서",
-      "category": "공지",
-      "posted": null,
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49807464?Oem_Code=C1&logpath=1&stext=%EB%8F%84%EC%84%9C%EA%B4%80&listno=1&sc=630"
-    },
-    {
-      "source": "www.jobkorea.co.kr-Search2",
-      "sourceUrl": "https://www.jobkorea.co.kr/Search/?stext=%EB%8F%84%EC%84%9C%EA%B4%80&tabType=recruit",
-      "title": "2026년 서초청소년도서관 개관시간 연장지원사업 계약직원(사서) 채용 공고",
-      "category": "채용",
-      "posted": null,
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49845311?Oem_Code=C1&logpath=1&stext=%EB%8F%84%EC%84%9C%EA%B4%80&listno=2&sc=630"
-    },
-    {
-      "source": "www.jobkorea.co.kr-Search2",
-      "sourceUrl": "https://www.jobkorea.co.kr/Search/?stext=%EB%8F%84%EC%84%9C%EA%B4%80&tabType=recruit",
-      "title": "서초청소년도서관",
-      "category": "공지",
-      "posted": null,
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49845311?Oem_Code=C1&logpath=1&stext=%EB%8F%84%EC%84%9C%EA%B4%80&listno=2&sc=630"
-    },
-    {
-      "source": "www.jobkorea.co.kr-Search2",
-      "sourceUrl": "https://www.jobkorea.co.kr/Search/?stext=%EB%8F%84%EC%84%9C%EA%B4%80&tabType=recruit",
-      "title": "영어도서관 수원망포",
-      "category": "공지",
-      "posted": null,
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49827703?Oem_Code=C1&logpath=1&stext=%EB%8F%84%EC%84%9C%EA%B4%80&listno=3&sc=630"
-    },
-    {
-      "source": "www.jobkorea.co.kr-Search2",
-      "sourceUrl": "https://www.jobkorea.co.kr/Search/?stext=%EB%8F%84%EC%84%9C%EA%B4%80&tabType=recruit",
-      "title": "센클영어도서관망포학원",
-      "category": "공지",
-      "posted": null,
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49827703?Oem_Code=C1&logpath=1&stext=%EB%8F%84%EC%84%9C%EA%B4%80&listno=3&sc=630"
-    },
-    {
-      "source": "www.jobkorea.co.kr-Search2",
-      "sourceUrl": "https://www.jobkorea.co.kr/Search/?stext=%EB%8F%84%EC%84%9C%EA%B4%80&tabType=recruit",
-      "title": "영어도서관,학원 선생님모십니다.",
-      "category": "공지",
-      "posted": null,
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49853230?Oem_Code=C1&logpath=1&stext=%EB%8F%84%EC%84%9C%EA%B4%80&listno=4&sc=630"
-    },
-    {
-      "source": "www.jobkorea.co.kr-Search2",
-      "sourceUrl": "https://www.jobkorea.co.kr/Search/?stext=%EB%8F%84%EC%84%9C%EA%B4%80&tabType=recruit",
-      "title": "통인어린이작은도서관 영어강사 모집",
-      "category": "채용",
-      "posted": null,
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49841613?Oem_Code=C1&logpath=1&stext=%EB%8F%84%EC%84%9C%EA%B4%80&listno=5&sc=630"
-    },
-    {
-      "source": "www.jobkorea.co.kr-Search2",
-      "sourceUrl": "https://www.jobkorea.co.kr/Search/?stext=%EB%8F%84%EC%84%9C%EA%B4%80&tabType=recruit",
-      "title": "도서관 MARC 입력 담당자 모집",
-      "category": "채용",
-      "posted": null,
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49858111?Oem_Code=C1&logpath=1&stext=%EB%8F%84%EC%84%9C%EA%B4%80&listno=6&sc=630"
-    },
-    {
-      "source": "www.jobkorea.co.kr-Search2",
-      "sourceUrl": "https://www.jobkorea.co.kr/Search/?stext=%EB%8F%84%EC%84%9C%EA%B4%80&tabType=recruit",
-      "title": "[POLY 직영] 위례 폴리어학원 도서관 사서 채용 (아르바이트)",
-      "category": "채용",
-      "posted": null,
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49739037?Oem_Code=C1&logpath=1&stext=%EB%8F%84%EC%84%9C%EA%B4%80&listno=7&sc=630"
-    },
-    {
-      "source": "www.jobkorea.co.kr-Search2",
-      "sourceUrl": "https://www.jobkorea.co.kr/Search/?stext=%EB%8F%84%EC%84%9C%EA%B4%80&tabType=recruit",
-      "title": "유한대학교 기간제계약직(도서관 사서) 직원 모집 채용 공고",
-      "category": "채용",
-      "posted": null,
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49789187?Oem_Code=C1&logpath=1&stext=%EB%8F%84%EC%84%9C%EA%B4%80&listno=9&sc=630"
-    },
-    {
-      "source": "www.jobkorea.co.kr-Search2",
-      "sourceUrl": "https://www.jobkorea.co.kr/Search/?stext=%EB%8F%84%EC%84%9C%EA%B4%80&tabType=recruit",
-      "title": "등마루골작은도서관 상주사서 채용 공고 (이메일 접수)",
-      "category": "채용",
-      "posted": null,
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49866904?Oem_Code=C1&logpath=1&stext=%EB%8F%84%EC%84%9C%EA%B4%80&listno=10&sc=630"
-    },
-    {
-      "source": "www.jobkorea.co.kr-Search2",
-      "sourceUrl": "https://www.jobkorea.co.kr/Search/?stext=%EB%8F%84%EC%84%9C%EA%B4%80&tabType=recruit",
-      "title": "영어도서관 수업 월수금선생님",
-      "category": "공지",
-      "posted": null,
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49880904?Oem_Code=C1&logpath=1&stext=%EB%8F%84%EC%84%9C%EA%B4%80&listno=11&sc=630"
-    },
-    {
-      "source": "www.jobkorea.co.kr-Search2",
-      "sourceUrl": "https://www.jobkorea.co.kr/Search/?stext=%EB%8F%84%EC%84%9C%EA%B4%80&tabType=recruit",
-      "title": "Speaking 수업 가능 선생님 모집 (영어 도서관 및 초등수업)",
-      "category": "채용",
-      "posted": null,
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49694013?Oem_Code=C1&logpath=1&stext=%EB%8F%84%EC%84%9C%EA%B4%80&listno=12&sc=630"
-    },
-    {
-      "source": "www.jobkorea.co.kr-Search2",
-      "sourceUrl": "https://www.jobkorea.co.kr/Search/?stext=%EB%8F%84%EC%84%9C%EA%B4%80&tabType=recruit",
-      "title": "초등대상 영어학원 도서관 담당 선생님 모십니다",
-      "category": "공지",
-      "posted": null,
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49872600?Oem_Code=C1&logpath=1&stext=%EB%8F%84%EC%84%9C%EA%B4%80&listno=13&sc=630"
-    },
-    {
-      "source": "www.jobkorea.co.kr-Search2",
-      "sourceUrl": "https://www.jobkorea.co.kr/Search/?stext=%EB%8F%84%EC%84%9C%EA%B4%80&tabType=recruit",
-      "title": "에이바우트 한라도서관점에서 직원구합니다.",
-      "category": "공지",
-      "posted": null,
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49877018?Oem_Code=C1&logpath=1&stext=%EB%8F%84%EC%84%9C%EA%B4%80&listno=14&sc=630"
-    },
-    {
-      "source": "www.jobkorea.co.kr-Search2",
-      "sourceUrl": "https://www.jobkorea.co.kr/Search/?stext=%EB%8F%84%EC%84%9C%EA%B4%80&tabType=recruit",
-      "title": "에이바우트커피 한라도서관점",
-      "category": "공지",
-      "posted": null,
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49877018?Oem_Code=C1&logpath=1&stext=%EB%8F%84%EC%84%9C%EA%B4%80&listno=14&sc=630"
-    },
-    {
-      "source": "www.jobkorea.co.kr-Search2",
-      "sourceUrl": "https://www.jobkorea.co.kr/Search/?stext=%EB%8F%84%EC%84%9C%EA%B4%80&tabType=recruit",
-      "title": "도서관 및 공공 기관 SI 영업 채용",
-      "category": "채용",
-      "posted": null,
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49734031?Oem_Code=C1&logpath=1&stext=%EB%8F%84%EC%84%9C%EA%B4%80&listno=15&sc=630"
-    },
-    {
-      "source": "www.jobkorea.co.kr-Search2",
-      "sourceUrl": "https://www.jobkorea.co.kr/Search/?stext=%EB%8F%84%EC%84%9C%EA%B4%80&tabType=recruit",
-      "title": "초등 영어학원/영어도서관 [주5일 근무]",
-      "category": "공지",
-      "posted": null,
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49794955?Oem_Code=C1&logpath=1&stext=%EB%8F%84%EC%84%9C%EA%B4%80&listno=16&sc=630"
-    },
-    {
-      "source": "www.jobkorea.co.kr-Search2",
-      "sourceUrl": "https://www.jobkorea.co.kr/Search/?stext=%EB%8F%84%EC%84%9C%EA%B4%80&tabType=recruit",
-      "title": "영어도서관 데스크 상담 요정 찾습니다",
-      "category": "공지",
-      "posted": null,
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49742497?Oem_Code=C1&logpath=1&stext=%EB%8F%84%EC%84%9C%EA%B4%80&listno=17&sc=630"
-    },
-    {
-      "source": "www.jobkorea.co.kr-Search2",
-      "sourceUrl": "https://www.jobkorea.co.kr/Search/?stext=%EB%8F%84%EC%84%9C%EA%B4%80&tabType=recruit",
-      "title": "영어도서관 영어지도 및 상담 관리 선생님",
-      "category": "공지",
-      "posted": null,
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49692236?Oem_Code=C1&logpath=1&stext=%EB%8F%84%EC%84%9C%EA%B4%80&listno=18&sc=630"
-    },
-    {
-      "source": "www.jobkorea.co.kr-Search2",
-      "sourceUrl": "https://www.jobkorea.co.kr/Search/?stext=%EB%8F%84%EC%84%9C%EA%B4%80&tabType=recruit",
-      "title": "인테리어/가구디자인(도서관)/PM/현장외주업체관리 진행",
-      "category": "공지",
-      "posted": null,
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49798904?Oem_Code=C1&logpath=1&stext=%EB%8F%84%EC%84%9C%EA%B4%80&listno=19&sc=630"
-    },
-    {
-      "source": "www.jobkorea.co.kr-Search2",
-      "sourceUrl": "https://www.jobkorea.co.kr/Search/?stext=%EB%8F%84%EC%84%9C%EA%B4%80&tabType=recruit",
-      "title": "센클 영어도서관 하남 감일 캠퍼스 리딩/스피킹/라이팅지도 파트선생님",
-      "category": "공지",
-      "posted": null,
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49852687?Oem_Code=C1&logpath=1&stext=%EB%8F%84%EC%84%9C%EA%B4%80&listno=20&sc=630"
     }
   ]
 }
