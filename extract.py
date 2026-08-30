@@ -39,22 +39,26 @@ SHORT_DATE_RE = re.compile(r"\b(\d{1,2})[.\-/](\d{1,2})[.\-/](\d{1,2})\b")
 
 
 def find_posted(text: str):
-    """행 텍스트에서 등록일(YYYY-MM-DD)을 찾아 반환. 없으면 None."""
-    m = DATE_RE.search(text)
-    if m:
+    """행 텍스트에서 등록일(YYYY-MM-DD)을 찾아 반환. 없으면 None.
+    공고번호(예: 2026-45-1)를 날짜로 오인하지 않도록, 유효한 날짜를 만날 때까지
+    모든 후보를 검사한다."""
+    for m in DATE_RE.finditer(text):
         y, mo, d = int(m.group(1)), int(m.group(2)), int(m.group(3))
+        if not (1 <= mo <= 12 and 1 <= d <= 31):
+            continue  # 45월 같은 공고번호는 건너뜀
         try:
             return date(y, mo, d).isoformat()
         except ValueError:
-            return None
-    m = SHORT_DATE_RE.search(text)  # 25.08.03 형태
-    if m:
+            continue
+    for m in SHORT_DATE_RE.finditer(text):  # 25.08.03 형태
         yy, mo, d = int(m.group(1)), int(m.group(2)), int(m.group(3))
+        if not (1 <= mo <= 12 and 1 <= d <= 31):
+            continue
         y = 2000 + yy if yy < 80 else 1900 + yy
         try:
             return date(y, mo, d).isoformat()
         except ValueError:
-            return None
+            continue
     return None
 
 
