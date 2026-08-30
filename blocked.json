@@ -1,18 +1,9 @@
 {
-  "generatedAt": "2026-08-29T20:32:38+00:00",
+  "generatedAt": "2026-08-30T05:02:51+00:00",
   "blocked": [
-    "www.jnfac.or.kr-board",
-    "www.jobkorea.co.kr-Search",
-    "www.jobkorea.co.kr-Search2",
     "www.junggu.seoul.kr-content.do",
-    "www.jungnanglib.seoul.kr-intro",
-    "www.jungnanglib.seoul.kr-jhklib",
-    "www.jungnanglib.seoul.kr-jhmlib",
-    "www.jungnanglib.seoul.kr-jnlib",
-    "www.jungnanglib.seoul.kr-mmlib",
-    "www.jungnanglib.seoul.kr-sblib",
-    "www.jungnanglib.seoul.kr-small",
-    "www.jungnanglib.seoul.kr-ywlib",
+    "www.l4d.or.kr-hgh",
+    "www.l4d.or.kr-jac",
     "www.nowonlib.kr-NowonNews",
     "www.nowonlib.kr-NowonNews2",
     "www.nowonlib.kr-PublicLibNotice",
@@ -58,6 +49,7 @@
     "www.ydplib.or.kr-sglib",
     "www.ydplib.or.kr-sylib",
     "www.ydplib.or.kr-wjlib",
-    "www.ydplib.or.kr-yulib"
+    "www.ydplib.or.kr-yulib",
+    "강남구립도서관-happylib"
   ]
 }
