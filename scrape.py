@@ -167,9 +167,13 @@ def scrape_all(debug=False, only_local=False, workers=6):
             for r, e, b in pool.map(_worker, [(c, today_iso, debug) for c in chunks]):
                 all_rows.extend(r); errors.extend(e); blocked_list.extend(b)
 
+    # 제목 정규화 기준 중복 제거(같은 공고가 여러 도서관 사이트에 올라와도 1건)
+    import re as _re
+    def _norm(t):
+        return _re.sub(r"\s+", "", _re.sub(r"[^\w가-힣]", "", t or "")).lower()
     seen, deduped = set(), []
     for r in all_rows:
-        key = (r["source"], r["title"], r["link"])
+        key = _norm(r["title"])
         if key in seen: continue
         seen.add(key); deduped.append(r)
 

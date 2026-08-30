@@ -379,9 +379,10 @@ Promise.all([loadJson("data.json"), loadJson("data_local.json")]).then(([main,lo
   let posts=[]; let gen=null;
   if(main && Array.isArray(main.postings)){ posts=posts.concat(main.postings); gen=main.generatedAt||gen; }
   if(local && Array.isArray(local.postings)){ posts=posts.concat(local.postings); if(local.generatedAt && (!gen || local.generatedAt>gen)) {} }
-  // 중복 제거(기관+제목)
+  // 중복 제거(제목 정규화 기준: 같은 공고가 여러 사이트에 있어도 1건)
+  const norm=t=>((t||"").replace(/[^\w가-힣]/g,"").replace(/\s+/g,"").toLowerCase());
   const seen=new Set(); const merged=[];
-  for(const p of posts){ const k=(p.source||"")+"|"+(p.title||""); if(seen.has(k)) continue; seen.add(k); merged.push(p); }
+  for(const p of posts){ const k=norm(p.title); if(seen.has(k)) continue; seen.add(k); merged.push(p); }
   if(merged.length){
     DATA=merged; IS_LIVE=true; GENERATED_AT=gen;
     refreshSourceOptions(); updateFlag();

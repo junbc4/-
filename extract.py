@@ -218,11 +218,13 @@ def extract(html, base_url, source, cfg=None, today=None):
     else:
         raw = extract_generic(soup, base_url)
 
-    topic_kw = cfg.get("topics")  # 예: ["도서관","사서"] → 있으면 이 키워드 포함만
+    # 전역 필터: 제목에 '도서관' 또는 '사서'가 없으면 제외 (모든 사이트 공통)
+    #  - '사서보조'는 '사서', '도서관실무사/작은도서관'은 '도서관'을 포함하므로 함께 걸림
+    REQUIRED = ["도서관", "사서"]
     results = []
     for r in raw:
         title = r["title"]
-        if topic_kw and not any(k in title for k in topic_kw):
+        if not any(k in title for k in REQUIRED):
             continue
         category = classify(title)
         deadline, est = parse_deadline(title, today)
