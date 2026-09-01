@@ -335,7 +335,7 @@ function render(){
         </div>
         <h3><a href="${d.link}" target="_blank" rel="noopener">${hl(d.title,state.q)}</a></h3>
         <div class="meta-bot">
-          <span>📅 등록 ${d.posted}</span>
+          <span>📅 등록 ${d.posted || "미상"}</span>
           ${d.deadline?`<span>⏳ 마감 ${d.deadline}</span>`:`<span>⏳ 상시접수</span>`}
         </div>
       </div>
