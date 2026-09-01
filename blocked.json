@@ -1,7 +1,6 @@
 {
-  "generatedAt": "2026-08-31T11:03:04+00:00",
+  "generatedAt": "2026-09-01T02:43:00+00:00",
   "blocked": [
-    "www.jnfac.or.kr-board",
     "www.junggu.seoul.kr-content.do",
     "www.l4d.or.kr-jac",
     "www.nowonlib.kr-NowonNews",
@@ -50,21 +49,7 @@
     "www.ydplib.or.kr-sylib",
     "www.ydplib.or.kr-wjlib",
     "www.ydplib.or.kr-yulib",
-    "강남 역삼도서관",
-    "강남구립도서관-englib",
-    "강남구립도서관-happylib2",
-    "마포구립도서관-mcl",
-    "마포구립도서관-purme",
-    "마포구립도서관-sglib",
-    "서울교육청도서관-childlib",
-    "서울교육청도서관-dblib",
-    "서울교육청도서관-ddmlib",
-    "서울교육청도서관-gdlib",
-    "서울교육청도서관-gplib",
-    "서울교육청도서관-gslib",
-    "서울교육청도서관-jnlib",
-    "서울교육청도서관-nslib",
-    "서울교육청도서관-splib",
-    "서울교육청도서관-yclib"
+    "강남구립도서관-nhlib",
+    "강남구립도서관-segokmarulib"
   ]
 }
