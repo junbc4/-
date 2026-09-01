@@ -1,0 +1,71 @@
+name: scrape-and-deploy
+
+on:
+  schedule:
+    - cron: "0 3,9 * * *"    # UTC. 한국시간 12시/18시 하루 2회
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: scrape
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          python -m playwright install --with-deps chromium
+
+      - name: Run scraper (with debug HTML)
+        run: python scrape.py --debug
+
+      # 각 사이트의 '실제 렌더링된 HTML'을 아티팩트로 업로드 (selector 튜닝용)
+      - name: Upload debug HTML
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: debug-html
+          path: debug/
+          retention-days: 7
+
+      - name: Commit updated data.json
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data.json blocked.json
+          if git diff --staged --quiet; then
+            echo "no changes"
+          else
+            git commit -m "chore: update data.json"
+            # push 충돌(다른 커밋과 어긋남) 시 최신을 받아 rebase 후 재시도
+            for i in 1 2 3; do
+              git pull --rebase --autostash origin main && git push && break
+              echo "push 재시도 $i..."
+              sleep 3
+            done
+          fi
+
+  deploy:
+    needs: scrape
+    if: always()   # scrape가 실패해도 배포는 무조건 실행 → 수동 실행 시에도 화면 반영
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: "."
+      - uses: actions/deploy-pages@v4
