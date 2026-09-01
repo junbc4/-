@@ -70,12 +70,19 @@ def _attempt(browser, site, wait_until, goto_timeout, settle_ms):
 
 def render_and_extract(browser, site, today):
     base = site.get("settle_ms", 1500)
-    html = _attempt(browser, site, "domcontentloaded", 30000, base)
+    html = _attempt(browser, site, "domcontentloaded", 20000, base)
+    tl = _text_len(html)
+    # 차단 메시지 감지 or 사실상 빈 페이지(<100) → 재시도 없이 즉시 차단 처리
+    if _is_blocked(html) or tl < 100:
+        return html, [], True
     rows = extract(html=html or "", base_url=site["url"], source=site["name"], cfg=site, today=today)
-    if _text_len(html) < 200 or _is_blocked(html):
-        html2 = _attempt(browser, site, "networkidle", 50000, base + 2500)
+    # 내용이 어정쩡(100~200)할 때만 짧게 1회 재시도(느린 로딩 대비)
+    if 100 <= tl < 200:
+        html2 = _attempt(browser, site, "networkidle", 15000, base + 1500)
+        if _is_blocked(html2) or _text_len(html2) < 100:
+            return html2, [], True
         rows2 = extract(html=html2 or "", base_url=site["url"], source=site["name"], cfg=site, today=today)
-        if _is_blocked(html2) or len(rows2) > len(rows):
+        if len(rows2) > len(rows):
             html, rows = html2, rows2
     blocked = _is_blocked(html) or (_text_len(html) < 100)
     return html, rows, blocked
