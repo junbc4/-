@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-01T02:43:00+00:00",
-  "count": 234,
+  "generatedAt": "2026-09-01T04:05:42+00:00",
+  "count": 239,
   "errors": [],
   "postings": [
     {
@@ -302,6 +302,46 @@
       "deadline": "2026-12-21",
       "deadlineEstimated": true,
       "link": "https://library.gangnam.go.kr/sslib/menu/12446/bbs/20296/bbsPostList.do"
+    },
+    {
+      "source": "강남구립도서관-segokmarulib",
+      "sourceUrl": "https://library.gangnam.go.kr/segokmarulib/menu/11527/bbs/20011/bbsPostList.do",
+      "title": "2026년 세곡마루도서관 월급대체직원 채용공고",
+      "category": "채용",
+      "posted": "2026-06-09",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://library.gangnam.go.kr/segokmarulib/menu/11527/bbs/20011/bbsPostList.do"
+    },
+    {
+      "source": "강남구립도서관-segokmarulib",
+      "sourceUrl": "https://library.gangnam.go.kr/segokmarulib/menu/11527/bbs/20011/bbsPostList.do",
+      "title": "세곡마루도서관 시급대체직원 공개채용 모집 공고",
+      "category": "채용",
+      "posted": "2025-02-01",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://library.gangnam.go.kr/segokmarulib/menu/11527/bbs/20011/bbsPostList.do"
+    },
+    {
+      "source": "강남구립도서관-segokmarulib",
+      "sourceUrl": "https://library.gangnam.go.kr/segokmarulib/menu/11527/bbs/20011/bbsPostList.do",
+      "title": "세곡마루도서관 시급대체직 채용공고",
+      "category": "채용",
+      "posted": "2024-01-10",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://library.gangnam.go.kr/segokmarulib/menu/11527/bbs/20011/bbsPostList.do"
+    },
+    {
+      "source": "강남구립도서관-segokmarulib",
+      "sourceUrl": "https://library.gangnam.go.kr/segokmarulib/menu/11527/bbs/20011/bbsPostList.do",
+      "title": "세곡마루도서관 기간제(대체)근로자 공개채용 모집 공고",
+      "category": "채용",
+      "posted": "2023-06-08",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://library.gangnam.go.kr/segokmarulib/menu/11527/bbs/20011/bbsPostList.do"
     },
     {
       "source": "강남구립도서관-yslib",
@@ -1986,6 +2026,16 @@
     {
       "source": "은평구공공도서관",
       "sourceUrl": "https://www.eplib.or.kr/intro/menu/10041/bbs/20002/bbsPostList.do",
+      "title": "기간제 사서(개관시간 연장사업) 채용 공고(9.1~9.11)",
+      "category": "채용",
+      "posted": "2026-09-01",
+      "deadline": "2026-09-11",
+      "deadlineEstimated": true,
+      "link": "https://www.eplib.or.kr/intro/menu/10041/bbs/20002/bbsPostList.do"
+    },
+    {
+      "source": "은평구공공도서관",
+      "sourceUrl": "https://www.eplib.or.kr/intro/menu/10041/bbs/20002/bbsPostList.do",
       "title": "「내를 건너서 숲으로 도서관」 (계약직)환경미화 공개 채용 공고(~8.17)",
       "category": "채용",
       "posted": "2026-08-04",
@@ -2244,16 +2294,6 @@
       "link": "https://work.sen.go.kr/work/search/recInfo/BD_selectRecDetail.do?q_rcrtSn=109409"
     },
     {
-      "source": "서울교육포털(사서검색)",
-      "sourceUrl": "https://work.sen.go.kr/work/main/BD_selectMainSrch.do?q_searchWord=%EC%82%AC%EC%84%9C",
-      "title": "역삼중학교 2학기 교육공무직원 대체 직원( 사서 ) 채용 공고",
-      "category": "채용",
-      "posted": "2026-08-28",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://work.sen.go.kr/work/search/recInfo/BD_selectRecDetail.do?q_rcrtSn=109289"
-    },
-    {
       "source": "www.jobkorea.co.kr-Search",
       "sourceUrl": "https://www.jobkorea.co.kr/Search/?stext=%EC%82%AC%EC%84%9C&tabType=recruit",
       "title": "2026년 서초청소년도서관 개관시간 연장지원사업 계약직원(사서) 채용 공고",
@@ -2291,7 +2331,17 @@
       "posted": null,
       "deadline": null,
       "deadlineEstimated": false,
-      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49845489?Oem_Code=C1&logpath=1&stext=%EB%8F%84%EC%84%9C%EA%B4%80&listno=19&sc=630"
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49845489?Oem_Code=C1&logpath=1&stext=%EB%8F%84%EC%84%9C%EA%B4%80&listno=18&sc=630"
+    },
+    {
+      "source": "www.jobkorea.co.kr-Search2",
+      "sourceUrl": "https://www.jobkorea.co.kr/Search/?stext=%EB%8F%84%EC%84%9C%EA%B4%80&tabType=recruit",
+      "title": "도서관 및 스포츠센터 자동화장비 설치 유지보수 엔지니어 채용",
+      "category": "채용",
+      "posted": null,
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49572784?Oem_Code=C1&logpath=1&stext=%EB%8F%84%EC%84%9C%EA%B4%80&listno=20&sc=630"
     },
     {
       "source": "동작문화재단(채용)",
