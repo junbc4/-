@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-01T08:58:17+00:00",
+  "generatedAt": "2026-09-02T04:05:24+00:00",
   "blocked": [
+    "www.gdlibrary.or.kr-ss",
     "www.junggu.seoul.kr-content.do",
-    "www.jungnanglib.seoul.kr-ywlib",
-    "www.l4d.or.kr-hgh",
-    "www.l4d.or.kr-info",
+    "www.l4d.or.kr-bfl",
+    "www.l4d.or.kr-jac",
     "www.nowonlib.kr-NowonNews",
     "www.nowonlib.kr-NowonNews2",
     "www.nowonlib.kr-PublicLibNotice",
@@ -52,10 +52,10 @@
     "www.ydplib.or.kr-wjlib",
     "www.ydplib.or.kr-yulib",
     "강남 도곡도서관",
-    "강남구립도서관-dch1lib",
-    "강남구립도서관-jdwlib",
-    "강남구립도서관-nmmlib",
-    "강남구립도서관-ys2lib2",
-    "관악문화재단(채용)"
+    "강남구립도서관-mglib",
+    "강남구립도서관-yllib",
+    "강남구립도서관-ysplib",
+    "관악문화재단(채용)",
+    "서울교육청도서관-nslib"
   ]
 }
