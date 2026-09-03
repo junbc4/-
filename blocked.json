@@ -1,8 +1,12 @@
 {
-  "generatedAt": "2026-09-02T10:05:54+00:00",
+  "generatedAt": "2026-09-03T06:25:16+00:00",
   "blocked": [
-    "www.jnfac.or.kr-board",
+    "l4d 도서관(추정)",
+    "www.jobkorea.co.kr-Search",
+    "www.jobkorea.co.kr-Search2",
     "www.junggu.seoul.kr-content.do",
+    "www.l4d.or.kr-jghl",
+    "www.mcst.go.kr-slibrary",
     "www.nowonlib.kr-NowonNews",
     "www.nowonlib.kr-NowonNews2",
     "www.nowonlib.kr-PublicLibNotice",
@@ -50,11 +54,7 @@
     "www.ydplib.or.kr-wjlib",
     "www.ydplib.or.kr-yulib",
     "강남구립도서관-dch1lib",
-    "강남구립도서관-happylib",
-    "강남구립도서관-hchildlib2",
-    "강남구립도서관-hnkklib",
-    "강남구립도서관-jgwlib2",
-    "강남구립도서관-mglib2",
-    "관악문화재단(채용)"
+    "강남구립도서관-segokmarulib",
+    "강남구립도서관-ys2lib"
   ]
 }
