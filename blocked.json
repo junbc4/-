@@ -1,9 +1,8 @@
 {
-  "generatedAt": "2026-09-05T04:05:39+00:00",
+  "generatedAt": "2026-09-05T10:05:08+00:00",
   "blocked": [
-    "www.jobkorea.co.kr-Search",
-    "www.jobkorea.co.kr-Search2",
     "www.junggu.seoul.kr-content.do",
+    "www.l4d.or.kr-dsn",
     "www.mcst.go.kr-slibrary",
     "www.nowonlib.kr-NowonNews",
     "www.nowonlib.kr-NowonNews2",
@@ -51,13 +50,13 @@
     "www.ydplib.or.kr-sylib",
     "www.ydplib.or.kr-wjlib",
     "www.ydplib.or.kr-yulib",
-    "강남구립도서관-dch1lib",
-    "강남구립도서관-dchlib2",
-    "강남구립도서관-dogoklib",
-    "강남구립도서관-hchildlib",
-    "강남구립도서관-jdwlib2",
-    "강남구립도서관-sklib2",
+    "강남 도곡도서관",
+    "강남구립도서관-dogoklib2",
+    "강남구립도서관-jdwlib",
+    "강남구립도서관-mglib2",
+    "강남구립도서관-segokmarulib",
     "강남구립도서관-ysplib",
-    "중구청"
+    "강남구립도서관-ysplib2",
+    "관악문화재단(채용)"
   ]
 }
