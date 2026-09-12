@@ -1,15 +1,17 @@
 {
-  "generatedAt": "2026-09-11T10:05:30+00:00",
+  "generatedAt": "2026-09-12T04:07:42+00:00",
   "blocked": [
-    "www.eplib.or.kr-enlib",
-    "www.eplib.or.kr-enlib2",
-    "www.eplib.or.kr-eplib",
-    "www.eplib.or.kr-etlib",
-    "www.eplib.or.kr-gsvlib",
-    "www.eplib.or.kr-intro",
-    "www.eplib.or.kr-intro2",
-    "www.eplib.or.kr-nslib",
+    "www.gdlibrary.or.kr-sn",
+    "www.jnfac.or.kr-board",
     "www.junggu.seoul.kr-content.do",
+    "www.jungnanglib.seoul.kr-intro",
+    "www.jungnanglib.seoul.kr-jhklib",
+    "www.jungnanglib.seoul.kr-jhmlib",
+    "www.jungnanglib.seoul.kr-jnlib",
+    "www.jungnanglib.seoul.kr-mmlib",
+    "www.jungnanglib.seoul.kr-sblib",
+    "www.jungnanglib.seoul.kr-small",
+    "www.jungnanglib.seoul.kr-ywlib",
     "www.mcst.go.kr-slibrary",
     "www.nowonlib.kr-NowonNews",
     "www.nowonlib.kr-NowonNews2",
@@ -49,6 +51,9 @@
     "www.splib.or.kr-spslib",
     "www.splib.or.kr-spwlib",
     "www.splib.or.kr-spwlib2",
+    "www.work24.go.kr-cm",
+    "www.work24.go.kr-cm2",
+    "www.work24.go.kr-www",
     "www.ydplib.or.kr-brlib",
     "www.ydplib.or.kr-drlib",
     "www.ydplib.or.kr-intro",
@@ -57,8 +62,9 @@
     "www.ydplib.or.kr-sylib",
     "www.ydplib.or.kr-wjlib",
     "www.ydplib.or.kr-yulib",
-    "강남구립도서관-cdlib2",
+    "강남구립도서관-dch1lib",
+    "강남구립도서관-jdwlib2",
     "관악문화재단(채용)",
-    "은평구공공도서관"
+    "광진문화재단(나루아트/채용)"
   ]
 }
