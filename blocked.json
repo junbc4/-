@@ -1,8 +1,12 @@
 {
-  "generatedAt": "2026-09-13T04:05:20+00:00",
+  "generatedAt": "2026-09-14T04:06:08+00:00",
   "blocked": [
+    "www.jnfac.or.kr-board",
     "www.junggu.seoul.kr-content.do",
-    "www.l4d.or.kr-jghl",
+    "www.jungnanglib.seoul.kr-jhmlib",
+    "www.jungnanglib.seoul.kr-sblib",
+    "www.jungnanglib.seoul.kr-ywlib",
+    "www.l4d.or.kr-hgc",
     "www.mcst.go.kr-slibrary",
     "www.nowonlib.kr-NowonNews",
     "www.nowonlib.kr-NowonNews2",
@@ -50,7 +54,8 @@
     "www.ydplib.or.kr-sylib",
     "www.ydplib.or.kr-wjlib",
     "www.ydplib.or.kr-yulib",
-    "강남구립도서관-yllib",
-    "서울교육청도서관-gslib"
+    "강남 도곡도서관",
+    "강남구립도서관-dchlib2",
+    "강남구립도서관-jdwlib"
   ]
 }
