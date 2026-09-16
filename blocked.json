@@ -1,10 +1,8 @@
 {
-  "generatedAt": "2026-09-16T04:05:59+00:00",
+  "generatedAt": "2026-09-16T10:05:31+00:00",
   "blocked": [
-    "sscmc 고시공고(추정)",
-    "www.jnfac.or.kr-board",
+    "l4d 도서관(추정)",
     "www.junggu.seoul.kr-content.do",
-    "www.jungnanglib.seoul.kr-jhklib",
     "www.nowonlib.kr-NowonNews",
     "www.nowonlib.kr-NowonNews2",
     "www.nowonlib.kr-PublicLibNotice",
@@ -51,9 +49,8 @@
     "www.ydplib.or.kr-sylib",
     "www.ydplib.or.kr-wjlib",
     "www.ydplib.or.kr-yulib",
-    "강남구립도서관-mglib",
-    "강남구립도서관-ys2lib",
-    "강남문화재단(채용)",
-    "관악문화재단(채용)"
+    "강남구립도서관-dogoklib",
+    "강남구립도서관-segokmarulib2",
+    "강남구립도서관-ys2lib"
   ]
 }
