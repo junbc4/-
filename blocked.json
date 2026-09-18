@@ -1,7 +1,10 @@
 {
-  "generatedAt": "2026-09-18T04:05:30+00:00",
+  "generatedAt": "2026-09-18T10:05:40+00:00",
   "blocked": [
+    "www.jobkorea.co.kr-Search",
+    "www.jobkorea.co.kr-Search2",
     "www.junggu.seoul.kr-content.do",
+    "www.l4d.or.kr-bml",
     "www.mcst.go.kr-slibrary",
     "www.nowonlib.kr-NowonNews",
     "www.nowonlib.kr-NowonNews2",
@@ -49,11 +52,6 @@
     "www.ydplib.or.kr-sylib",
     "www.ydplib.or.kr-wjlib",
     "www.ydplib.or.kr-yulib",
-    "강남구립도서관-dchlib2",
-    "강남구립도서관-jdwlib",
-    "강남구립도서관-sklib2",
-    "서울교육청도서관-ddmlib",
-    "서울교육청도서관-gplib",
-    "서울교육청도서관-yclib"
+    "강남구립도서관-hchildlib"
   ]
 }
