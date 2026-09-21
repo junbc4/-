@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-21T09:23:30+00:00",
-  "count": 89,
+  "generatedAt": "2026-09-21T16:30:36+00:00",
+  "count": 205,
   "errors": [],
   "postings": [
     {
@@ -32,6 +32,26 @@
       "deadline": "2027-02-21",
       "deadlineEstimated": true,
       "link": "https://library.gangnam.go.kr/nhlib/menu/12440/bbs/20290/bbsPostList.do"
+    },
+    {
+      "source": "강남 도곡도서관",
+      "sourceUrl": "https://library.gangnam.go.kr/dch1lib/menu/12442/bbs/20292/bbsPostList.do",
+      "title": "[채용 공고] 강남구립대치1작은도서관 계약직 사서 채용 공고(~12/13)",
+      "category": "채용",
+      "posted": "2025-12-06",
+      "deadline": "2026-12-13",
+      "deadlineEstimated": true,
+      "link": "https://library.gangnam.go.kr/dch1lib/menu/12442/bbs/20292/bbsPostList.do"
+    },
+    {
+      "source": "강남 도곡도서관",
+      "sourceUrl": "https://library.gangnam.go.kr/dch1lib/menu/12442/bbs/20292/bbsPostList.do",
+      "title": "강남구립 대치1작은도서관 발열 및 업무보조 인력 채용 공고 (~9/22)",
+      "category": "채용",
+      "posted": "2021-09-17",
+      "deadline": "2026-09-22",
+      "deadlineEstimated": true,
+      "link": "https://library.gangnam.go.kr/dch1lib/menu/12442/bbs/20292/bbsPostList.do"
     },
     {
       "source": "강남구립도서관-dogoklib",
@@ -212,6 +232,36 @@
       "deadline": null,
       "deadlineEstimated": false,
       "link": "https://library.gangnam.go.kr/mglib/menu/12444/bbs/20294/bbsPostList.do"
+    },
+    {
+      "source": "강남구립도서관-hchildlib",
+      "sourceUrl": "https://library.gangnam.go.kr/hchildlib/menu/12445/bbs/20295/bbsPostList.do",
+      "title": "[채용공고] 강남구립못골한옥어린이도서관 계약직 사서 채용 공고(~12/19)",
+      "category": "채용",
+      "posted": "2025-12-10",
+      "deadline": "2026-12-19",
+      "deadlineEstimated": true,
+      "link": "https://library.gangnam.go.kr/hchildlib/menu/12445/bbs/20295/bbsPostList.do"
+    },
+    {
+      "source": "강남구립도서관-hchildlib",
+      "sourceUrl": "https://library.gangnam.go.kr/hchildlib/menu/12445/bbs/20295/bbsPostList.do",
+      "title": "[채용공고] 강남구립못골한옥어린이도서관 주말 초단시간 근로자 채용 공고(~5/21)",
+      "category": "채용",
+      "posted": "2025-05-15",
+      "deadline": "2027-05-21",
+      "deadlineEstimated": true,
+      "link": "https://library.gangnam.go.kr/hchildlib/menu/12445/bbs/20295/bbsPostList.do"
+    },
+    {
+      "source": "강남구립도서관-hchildlib",
+      "sourceUrl": "https://library.gangnam.go.kr/hchildlib/menu/12445/bbs/20295/bbsPostList.do",
+      "title": "[채용공고] 강남구립못골한옥어린이도서관 주말 초단시간 근로자 채용 공고(~4/26)",
+      "category": "채용",
+      "posted": "2025-04-23",
+      "deadline": "2027-04-26",
+      "deadlineEstimated": true,
+      "link": "https://library.gangnam.go.kr/hchildlib/menu/12445/bbs/20295/bbsPostList.do"
     },
     {
       "source": "강남구립도서관-sslib",
@@ -424,6 +474,26 @@
       "link": "https://library.gangnam.go.kr/jdwlib/menu/12452/bbs/20302/bbsPostList.do"
     },
     {
+      "source": "강남구립도서관-jgwlib",
+      "sourceUrl": "https://library.gangnam.go.kr/jgwlib/menu/12453/bbs/20303/bbsPostList.do",
+      "title": "강남구립즐거운도서관 주말 초단시간 근로자 채용공고 (-3/6)",
+      "category": "채용",
+      "posted": "2026-02-14",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://library.gangnam.go.kr/jgwlib/menu/12453/bbs/20303/bbsPostList.do"
+    },
+    {
+      "source": "강남구립도서관-jgwlib",
+      "sourceUrl": "https://library.gangnam.go.kr/jgwlib/menu/12453/bbs/20303/bbsPostList.do",
+      "title": "강남구립도서관 개관연장사서 채용 공고 (-12/18)",
+      "category": "채용",
+      "posted": "2025-12-10",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://library.gangnam.go.kr/jgwlib/menu/12453/bbs/20303/bbsPostList.do"
+    },
+    {
       "source": "강남구립도서관-yllib",
       "sourceUrl": "https://library.gangnam.go.kr/yllib/menu/12451/bbs/20301/bbsPostList.do",
       "title": "강남구립 열린도서관 주말 초단시간 근로자 채용 공고 (~6/14)",
@@ -482,6 +552,1096 @@
       "deadline": null,
       "deadlineEstimated": false,
       "link": "https://www.gangnam.go.kr/office/gfac/board/gfac_staffrec/588/view.do?mid=gfac_staffRec"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2026년 3차 직원채용 계약직(사서) 지원페이지(2명 채용) 2026-08-10 ~ 2026-08-18 마감",
+      "category": "채용",
+      "posted": "2026-08-31",
+      "deadline": "2026-08-18",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/965/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2026년 3차 직원채용 기간제(주39시간)_사서 지원페이지 2026-08-10 ~ 2026-08-18 마감",
+      "category": "채용",
+      "posted": "2026-08-31",
+      "deadline": "2026-08-18",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/966/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2026년 3차 직원채용 주말기간제(주14시간)_사서 지원페이지 2026-08-07 ~ 2026-08-18 마감",
+      "category": "채용",
+      "posted": "2026-08-31",
+      "deadline": "2026-08-18",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/967/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2026년 2차 직원채용 계약직(사서) 지원페이지 2026-05-28 ~ 2026-06-05 마감",
+      "category": "채용",
+      "posted": "2026-06-24",
+      "deadline": "2026-06-05",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/948/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2026년 2차 직원채용 사서직8급(사서) 지원페이지 2026-05-28 ~ 2026-06-05 마감",
+      "category": "채용",
+      "posted": "2026-06-24",
+      "deadline": "2026-06-05",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/953/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2026년 2차 직원채용 주말기간제 (주14시간)_사서 지원페이지 (2명 채용) 2026-05-28 ~ 2026-06-05 마감",
+      "category": "채용",
+      "posted": "2026-06-24",
+      "deadline": "2026-06-05",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/947/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2026년 1차 직원채용 공고 계약직(사서) 지원페이지 (2명 채용) 2026-02-20 ~ 2026-03-05 마감",
+      "category": "채용",
+      "posted": "2026-03-20",
+      "deadline": "2026-03-05",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/935/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2026년 1차 직원채용 공고 기간제(주39시간)_사서 지원페이지 (3명 채용) 2026-02-20 ~ 2026-03-05 마감",
+      "category": "채용",
+      "posted": "2026-03-20",
+      "deadline": "2026-03-05",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/938/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2026년 1차 직원채용 공고 기간제(주27시간)_사서 지원페이지 2026-02-20 ~ 2026-03-05 마감",
+      "category": "채용",
+      "posted": "2026-03-20",
+      "deadline": "2026-03-05",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/939/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2026년 1차 직원채용 공고 개관연장(사서) 지원페이지 2026-02-20 ~ 2026-03-05 마감",
+      "category": "채용",
+      "posted": "2026-03-20",
+      "deadline": "2026-03-05",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/940/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2026년 1차 직원채용 공고 장애인특별전형기간제(주16시간)_사서보조 지원페이지 2026-02-20 ~ 2026-03-05 마감",
+      "category": "채용",
+      "posted": "2026-03-20",
+      "deadline": "2026-03-05",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/941/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2025년 5차 2025년 제5차 직원채용 공고 사서직8급(사서) 지원페이지 2025-11-14 ~ 2025-11-24 마감",
+      "category": "채용",
+      "posted": "2025-12-05",
+      "deadline": "2025-11-24",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/915/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2025년 5차 2025년 제5차 직원채용 공고 기간제(주39시간)_사서 지원페이지 2025-11-14 ~ 2025-11-24 마감",
+      "category": "채용",
+      "posted": "2025-12-05",
+      "deadline": "2025-11-24",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/918/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2025년 5차 2025년 제5차 직원채용 공고 개관연장(사서) 지원페이지 2025-11-14 ~ 2025-11-24 마감",
+      "category": "채용",
+      "posted": "2025-12-05",
+      "deadline": "2025-11-24",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/919/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2025년 5차 2025년 제5차 직원채용 공고 주말기간제(주14시간)_사서 지원페이지 2025-11-14 ~ 2025-11-24 마감",
+      "category": "채용",
+      "posted": "2025-12-05",
+      "deadline": "2025-11-24",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/921/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2025년 5차 2025년 제5차 직원채용 공고 장애인특별전형기간제(주16시간)_사서보조 지원페이지 2025-11-14 ~ 2025-11-24 마감",
+      "category": "채용",
+      "posted": "2025-12-05",
+      "deadline": "2025-11-24",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/923/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2025년 4차 주말기간제(주14시간)_사서 2025-09-15 ~ 2025-09-22 마감",
+      "category": "채용",
+      "posted": "2025-10-02",
+      "deadline": "2025-09-22",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/909/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2025년 3차 계약직(사서) 2025-07-15 ~ 2025-07-24 마감",
+      "category": "채용",
+      "posted": "2025-08-07",
+      "deadline": "2025-07-24",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/902/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2025년 3차 휴직대체계약직(8급 상당)_사서 2025-07-15 ~ 2025-07-24 마감",
+      "category": "채용",
+      "posted": "2025-08-07",
+      "deadline": "2025-07-24",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/901/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2025년 2차 사서직7급(사서) 2025-05-07 ~ 2025-05-20 마감",
+      "category": "채용",
+      "posted": "2025-06-04",
+      "deadline": "2025-05-20",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/878/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2025년 2차 계약직(사서) 2025-05-07 ~ 2025-05-20 마감",
+      "category": "채용",
+      "posted": "2025-06-04",
+      "deadline": "2025-05-20",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/883/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2025년 2차 기간제(주39시간)_사서 2025-05-07 ~ 2025-05-20 마감",
+      "category": "채용",
+      "posted": "2025-06-04",
+      "deadline": "2025-05-20",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/884/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2025년 2차 주말기간제(주10시간)_사서 2025-05-07 ~ 2025-05-20 마감",
+      "category": "채용",
+      "posted": "2025-06-04",
+      "deadline": "2025-05-20",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/886/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2025년 2차 장애인특별전형기간제(사서보조) 2025-05-07 ~ 2025-05-20 마감",
+      "category": "채용",
+      "posted": "2025-06-04",
+      "deadline": "2025-05-20",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/887/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2025년 1차 직원 채용 공고(기간제(주39시간)_사서) 지원페이지 2025-02-07 ~ 2025-02-20 마감",
+      "category": "채용",
+      "posted": "2025-02-07",
+      "deadline": "2025-02-20",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/848/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2025년 1차 직원 채용 공고(기간제(주27시간)_사서) 지원페이지 2025-02-07 ~ 2025-02-20 마감",
+      "category": "채용",
+      "posted": "2025-02-07",
+      "deadline": "2025-02-20",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/847/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2025년 1차 직원 채용 공고(장애인특별전형기간제_사서보조) 지원페이지 2025-02-07 ~ 2025-02-20 마감",
+      "category": "채용",
+      "posted": "2025-02-07",
+      "deadline": "2025-02-20",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/846/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2024년 6차 2024년 제6차 직원 채용 공고(장애인특별전형기간제_사서보조) 지원페이지 2025-02-07 ~ 2025-02-20 마감",
+      "category": "채용",
+      "posted": "2024-12-24",
+      "deadline": "2025-02-20",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/839/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2024년 6차 2024년 제6차 직원 채용 공고(개관연장_사서) 지원페이지 2025-02-07 ~ 2025-02-20 마감",
+      "category": "채용",
+      "posted": "2024-12-24",
+      "deadline": "2025-02-20",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/838/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2024년 6차 2024년 제6차 직원 채용 공고(기간제(주39시간)_사서) 지원페이지 2025-02-07 ~ 2025-02-20 마감",
+      "category": "채용",
+      "posted": "2024-12-24",
+      "deadline": "2025-02-20",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/837/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2024년 5차 2024년 제5차 직원 채용 공고(사서직8급_사서) 지원페이지 2025-02-07 ~ 2025-02-20 마감",
+      "category": "채용",
+      "posted": "2024-09-25",
+      "deadline": "2025-02-20",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/826/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2024년 5차 2024년 제5차 직원 채용 공고(휴직대체계약직_사서) 지원페이지 2025-02-07 ~ 2025-02-20 마감",
+      "category": "채용",
+      "posted": "2024-09-25",
+      "deadline": "2025-02-20",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/820/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2024년 5차 2024년 제5차 직원 채용 공고(주말기간제(주14시간_사서)) 지원페이지 2025-02-07 ~ 2025-02-20 마감",
+      "category": "채용",
+      "posted": "2024-09-25",
+      "deadline": "2025-02-20",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/818/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용공고 2024년 3차 2024년 제3차 직원 채용 공고(휴직대체계약직1-사서) 지원페이지 *근무기간 확인 필수 2024-07-02 마감",
+      "category": "채용",
+      "posted": "2024-08-02",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/811/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2024년 3차 2024년 제3차 직원 채용 공고(휴직대체계약직2-사서) 지원페이지 *근무기간 확인 필수 2024-07-02 ~ 2024-07-15 마감",
+      "category": "채용",
+      "posted": "2024-08-02",
+      "deadline": "2024-07-15",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/810/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2024년 3차 2024년 제3차 직원 채용 공고(휴직대체계약직3-사서) 지원페이지 *근무기간 확인 필수 2024-07-02 ~ 2024-07-15 마감",
+      "category": "채용",
+      "posted": "2024-08-02",
+      "deadline": "2024-07-15",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/809/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2024년 3차 2024년 제3차 직원 채용 공고(사서직7급-사서) 지원페이지 2024-07-02 ~ 2024-07-15 마감",
+      "category": "채용",
+      "posted": "2024-08-02",
+      "deadline": "2024-07-15",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/807/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2024년 3차 2024년 제3차 직원 채용 공고(계약직-사서) 지원페이지 2024-07-02 ~ 2024-07-15 마감",
+      "category": "채용",
+      "posted": "2024-08-02",
+      "deadline": "2024-07-15",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/803/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2024년 3차 2024년 제3차 직원 채용 공고(기간제_주39시간-사서) 지원페이지 2024-07-02 ~ 2024-07-15 마감",
+      "category": "채용",
+      "posted": "2024-08-02",
+      "deadline": "2024-07-15",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/802/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2024년 3차 2024년 제3차 직원 채용 공고(주말기간제-사서) 지원페이지 2024-07-02 ~ 2024-07-15 마감",
+      "category": "채용",
+      "posted": "2024-08-02",
+      "deadline": "2024-07-15",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/801/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2024년 2차 2024년 제2차 직원 채용 재공고(계약직-사서) 지원페이지 2024-05-13 ~ 2024-05-21 마감",
+      "category": "채용",
+      "posted": "2024-06-07",
+      "deadline": "2024-05-21",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/795/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2024년 2차 2024년 제2차 직원 채용 재공고(기간제-사서) 지원페이지 2024-05-13 ~ 2024-05-21 마감",
+      "category": "채용",
+      "posted": "2024-06-07",
+      "deadline": "2024-05-21",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/793/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2024년 2차 2024년 제2차 직원 채용 재공고(주말 기간제/사서) 지원페이지 2024-05-13 ~ 2024-05-21 마감",
+      "category": "채용",
+      "posted": "2024-06-07",
+      "deadline": "2024-05-21",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/792/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2024년 2차 2024년 제2차 직원 채용 공고(사서직8급/사서) 지원페이지 2024-04-08 ~ 2024-04-18 마감",
+      "category": "채용",
+      "posted": "2024-06-07",
+      "deadline": "2024-04-18",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/784/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2024년 2차 2024년 제2차 직원 채용 공고(계약직-8급상당/사서) 지원페이지 2024-04-08 ~ 2024-04-18 마감",
+      "category": "채용",
+      "posted": "2024-06-07",
+      "deadline": "2024-04-18",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/778/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2024년 2차 2024년 제2차 직원 채용 공고(기간제/사서) 지원페이지 2024-04-08 ~ 2024-04-18 마감",
+      "category": "채용",
+      "posted": "2024-06-07",
+      "deadline": "2024-04-18",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/776/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2024년 2차 2024년 제2차 직원 채용 공고(주말기간제/사서) 지원페이지 2024-04-08 ~ 2024-04-18 마감",
+      "category": "채용",
+      "posted": "2024-06-07",
+      "deadline": "2024-04-18",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/775/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2024년 2차 2024년 제2차 직원 채용 공고(장애인특별전형 기간제/사서보조) 지원페이지 2024-04-08 ~ 2024-04-18 마감",
+      "category": "채용",
+      "posted": "2024-06-07",
+      "deadline": "2024-04-18",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/774/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2024년 1차 2024년 제1차 직원 채용(기간제/사서) 지원페이지 2024-01-24 ~ 2024-02-01 마감",
+      "category": "채용",
+      "posted": "2024-03-08",
+      "deadline": "2024-02-01",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/752/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2024년 1차 2024년 제1차 직원 채용(개관연장/사서) 지원페이지 2024-01-24 ~ 2024-02-01 마감",
+      "category": "채용",
+      "posted": "2024-03-08",
+      "deadline": "2024-02-01",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/751/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용공고 2023년 7 2023년 제7차 직원 채용(기간제/사서) 지원페이지 2023-11-27 마감",
+      "category": "채용",
+      "posted": "2023-12-18",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/729/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용공고 2023년 7 2023년 제7차 직원 채용(주말기간제/사서) 지원페이지 2023-11-27 마감",
+      "category": "채용",
+      "posted": "2023-12-18",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/728/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2023년 7 2023년 제7차 직원 채용(개관연장/사서) 지원페이지 2023-11-27 ~ 2023-12-05 마감",
+      "category": "채용",
+      "posted": "2023-12-18",
+      "deadline": "2023-12-05",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/726/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2023년 6 2023년 제6차 직원 채용(계약직-사서) 지원페이지 2023-09-27 ~ 2023-10-10 마감",
+      "category": "채용",
+      "posted": "2023-10-23",
+      "deadline": "2023-10-10",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/710/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2023년 6 2023년 제6차 직원 채용(주말 기간제-사서) 지원페이지 2023-09-27 ~ 2023-10-10 마감",
+      "category": "채용",
+      "posted": "2023-10-23",
+      "deadline": "2023-10-10",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/708/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2023년 6 2023년 제6차 직원 채용(개관연장-사서) 지원페이지 2023-09-27 ~ 2023-10-10 마감",
+      "category": "채용",
+      "posted": "2023-10-23",
+      "deadline": "2023-10-10",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/706/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2023년 5 2023년 제5차 직원 채용(육아휴직대체 계약직-사서) 지원페이지 2023-08-07 ~ 2023-08-17 마감",
+      "category": "채용",
+      "posted": "2023-09-05",
+      "deadline": "2023-08-17",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/550/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2023년 5 2023년 제5차 직원 채용(계약직-사서) 지원페이지 2023-08-07 ~ 2023-08-17 마감",
+      "category": "채용",
+      "posted": "2023-09-05",
+      "deadline": "2023-08-17",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/548/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2023년 5 2023년 제5차 직원 채용(기간제-사서) 지원페이지 2023-08-07 ~ 2023-08-17 마감",
+      "category": "채용",
+      "posted": "2023-09-05",
+      "deadline": "2023-08-17",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/547/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2023년 5 2023년 제5차 직원 채용(주말기간제-사서) 지원페이지 2023-08-07 ~ 2023-08-17 마감",
+      "category": "채용",
+      "posted": "2023-09-05",
+      "deadline": "2023-08-17",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/545/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2023년 5 2023년 제5차 직원 채용(개관연장-사서) 지원페이지 2023-08-07 ~ 2023-08-17 마감",
+      "category": "채용",
+      "posted": "2023-09-05",
+      "deadline": "2023-08-17",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/543/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2023년 4 2023년 제4차 직원 채용(휴직대체 계약직-사서) 지원페이지 2023-06-12 ~ 2023-06-16 마감",
+      "category": "채용",
+      "posted": "2023-07-03",
+      "deadline": "2023-06-16",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/539/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2023년 4 2023년 제4차 직원 채용(기간제-사서) 지원페이지 2023-06-12 ~ 2023-06-16 마감",
+      "category": "채용",
+      "posted": "2023-07-03",
+      "deadline": "2023-06-16",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/538/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2023년 3 2023년 제3차 직원 채용(사서직8급-사서) 지원페이지 2023-05-10 ~ 2023-05-23 마감",
+      "category": "채용",
+      "posted": "2023-06-13",
+      "deadline": "2023-05-23",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/527/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2023년 3 2023년 제3차 직원 채용(계약직-사서) 지원페이지 2023-05-10 ~ 2023-05-23 마감",
+      "category": "채용",
+      "posted": "2023-06-13",
+      "deadline": "2023-05-23",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/522/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2023년 3 2023년 제3차 직원 채용(휴직대체계약직-사서) 지원페이지 2023-05-10 ~ 2023-05-23 마감",
+      "category": "채용",
+      "posted": "2023-06-13",
+      "deadline": "2023-05-23",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/521/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2023년 3 2023년 제3차 직원 채용(기간제-사서) 지원페이지 2023-05-10 ~ 2023-05-23 마감",
+      "category": "채용",
+      "posted": "2023-06-13",
+      "deadline": "2023-05-23",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/520/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2023년 3 2023년 제3차 직원 채용(주말기간제-사서) 지원페이지 2023-05-10 ~ 2023-05-23 마감",
+      "category": "채용",
+      "posted": "2023-06-13",
+      "deadline": "2023-05-23",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/517/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2023년 2 2023년 제2차 직원 채용(사서직8급-사서) 지원페이지 2023-03-03 ~ 2023-03-16 마감",
+      "category": "채용",
+      "posted": "2023-03-31",
+      "deadline": "2023-03-16",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/505/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2023년 2 2023년 제2차 직원 채용(계약직-사서) 지원페이지 2023-03-03 ~ 2023-03-16 마감",
+      "category": "채용",
+      "posted": "2023-03-31",
+      "deadline": "2023-03-16",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/503/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2023년 2 2023년 제2차 직원 채용(휴직대체 계약직-사서) 지원페이지 2023-03-03 ~ 2023-03-16 마감",
+      "category": "채용",
+      "posted": "2023-03-31",
+      "deadline": "2023-03-16",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/502/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2023년 2 2023년 제2차 직원 채용(주27시간 기간제-사서) 지원페이지 2023-03-03 ~ 2023-03-16 마감",
+      "category": "채용",
+      "posted": "2023-03-31",
+      "deadline": "2023-03-16",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/497/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2023년 2 2023년 제2차 직원 채용(주말기간제-사서) 지원페이지 2023-03-03 ~ 2023-03-16 마감",
+      "category": "채용",
+      "posted": "2023-03-31",
+      "deadline": "2023-03-16",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/495/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2023년 1 2023년 제1차 직원 채용(주말기간제-사서) 지원페이지 2023-01-20 ~ 2023-01-31 마감",
+      "category": "채용",
+      "posted": "2023-02-10",
+      "deadline": "2023-01-31",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/490/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2023년 1 2023년 제1차 직원 채용(계약직-사서) 지원페이지 2023-01-20 ~ 2023-01-31 마감",
+      "category": "채용",
+      "posted": "2023-02-10",
+      "deadline": "2023-01-31",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/487/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2023년 1 2023년 제1차 직원 채용(사서직8급-사서) 지원페이지 2023-01-20 ~ 2023-01-31 마감",
+      "category": "채용",
+      "posted": "2023-02-10",
+      "deadline": "2023-01-31",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/486/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2022년 11 2022년 제 11차 직원 채용(사서직 8급-사서) 지원페이지 2022-12-28 ~ 2023-01-11 마감",
+      "category": "채용",
+      "posted": "2022-12-28",
+      "deadline": "2023-01-11",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/478/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2022년 10 2022년 제10차 직원 채용(주말기간제-사서) 지원페이지 2022-12-08 ~ 2022-12-20 마감",
+      "category": "채용",
+      "posted": "2022-12-30",
+      "deadline": "2022-12-20",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/468/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2022년 10 2022년 제10차 직원 채용(기간제-사서) 지원페이지 2022-12-08 ~ 2022-12-20 마감",
+      "category": "채용",
+      "posted": "2022-12-30",
+      "deadline": "2022-12-20",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/467/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2022년 10 2022년 제10차 직원 채용(개관연장-사서) 지원페이지 2022-12-08 ~ 2022-12-20 마감",
+      "category": "채용",
+      "posted": "2022-12-30",
+      "deadline": "2022-12-20",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/466/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2022년 10 2022년 제10차 직원 채용(계약직-사서) 지원페이지 2022-12-08 ~ 2022-12-20 마감",
+      "category": "채용",
+      "posted": "2022-12-30",
+      "deadline": "2022-12-20",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/465/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2022년 9 재단법인 관악문화재단 2022년 제9차 직원 채용(사서직 8급-사서) 지원페이지 2022-11-14 ~ 2022-11-20 마감",
+      "category": "채용",
+      "posted": "2022-12-21",
+      "deadline": "2022-11-20",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/463/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2022년 8 재단법인 관악문화재단 2022년 제8차 직원 채용 (기간제-사서) 지원페이지 2022-09-08 ~ 2022-09-22 마감",
+      "category": "채용",
+      "posted": "2022-10-07",
+      "deadline": "2022-09-22",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/455/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2022년 8 재단법인 관악문화재단 2022년 제8차 직원 채용 (계약직(육아휴직대체-사서)) 지원페이지 2022-09-08 ~ 2022-09-22 마감",
+      "category": "채용",
+      "posted": "2022-10-07",
+      "deadline": "2022-09-22",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/453/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2022년 8 재단법인 관악문화재단 2022년 제8차 직원 채용 (계약직-사서) 지원페이지 2022-09-08 ~ 2022-09-22 마감",
+      "category": "채용",
+      "posted": "2022-10-07",
+      "deadline": "2022-09-22",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/452/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2022년 6 재단법인 관악문화재단 2022년 직원 제6차 채용 기간제(주말-사서) 지원페이지 2022-05-30 ~ 2022-06-08 마감",
+      "category": "채용",
+      "posted": "2022-06-20",
+      "deadline": "2022-06-08",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/438/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2022년 6 재단법인 관악문화재단 2022년 직원 제6차 채용 기간제(사서) 지원페이지 2022-05-30 ~ 2022-06-08 마감",
+      "category": "채용",
+      "posted": "2022-06-20",
+      "deadline": "2022-06-08",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/437/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2022년 6 재단법인 관악문화재단 2022년 직원 제6차 채용 (사서직-8급) 지원페이지 2022-05-30 ~ 2022-06-08 마감",
+      "category": "채용",
+      "posted": "2022-06-20",
+      "deadline": "2022-06-08",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/433/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2022년 5 재단법인 관악문화재단 2022년 직원 제5차 채용 기간제(주말-사서) 지원페이지 2022-04-15 ~ 2022-04-25 마감",
+      "category": "채용",
+      "posted": "2022-05-06",
+      "deadline": "2022-04-25",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/431/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2022년 4 재단법인 관악문화재단 2022년 제4차 직원 채용 (사서직 -8급) 지원페이지 2022-03-11 ~ 2022-03-17 마감",
+      "category": "채용",
+      "posted": "2022-03-30",
+      "deadline": "2022-03-17",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/422/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2022년 2 재단법인 관악문화재단 2022년 제2차 직원 채용 (기간제-사서(주말)) 지원페이지 2022-01-11 ~ 2022-01-21 마감",
+      "category": "채용",
+      "posted": "2022-02-11",
+      "deadline": "2022-01-21",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/408/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2022년 2 재단법인 관악문화재단 2022년 제2차 직원 채용 (기간제-사서(주27시간)) 지원페이지 2022-01-11 ~ 2022-01-21 마감",
+      "category": "채용",
+      "posted": "2022-02-11",
+      "deadline": "2022-01-21",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/407/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2022년 2 재단법인 관악문화재단 2022년 제2차 직원 채용 (기간제-사서(주40시간)) 지원페이지 2022-01-11 ~ 2022-01-21 마감",
+      "category": "채용",
+      "posted": "2022-02-11",
+      "deadline": "2022-01-21",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/406/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2022년 1 재단법인 관악문화재단 2022년 제1차 직원 채용 (계약직 육아휴직대체- 사서) 지원페이지 2022-01-10 ~ 2022-01-20 마감",
+      "category": "채용",
+      "posted": "2022-02-10",
+      "deadline": "2022-01-20",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/405/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2022년 1 재단법인 관악문화재단 2022년 제1차 직원 채용 (사서직 7급) 지원페이지 2022-01-10 ~ 2022-01-20 마감",
+      "category": "채용",
+      "posted": "2022-02-10",
+      "deadline": "2022-01-20",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/403/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2021년 8 2021년 관악문화재단 제8차 직원 채용 (계약직 사서-개관연장) 지원페이지 2021-12-13 ~ 2021-12-20 마감",
+      "category": "채용",
+      "posted": "2021-12-30",
+      "deadline": "2021-12-20",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/396/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2021년 8 2021년 관악문화재단 제8차 직원 채용 (계약직 사서-육아휴직대체) 지원페이지 2021-12-13 ~ 2021-12-20 마감",
+      "category": "채용",
+      "posted": "2021-12-30",
+      "deadline": "2021-12-20",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/395/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2021년 7 2021년 관악문화재단 제7차 직원 채용(기간제-사서 주말) 지원페이지 2021-11-11 ~ 2021-11-20 마감",
+      "category": "채용",
+      "posted": "2021-11-26",
+      "deadline": "2021-11-20",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/392/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2021년 7 2021년 관악문화재단 제7차 직원 채용(기간제-사서) 지원페이지 2021-11-11 ~ 2021-11-20 마감",
+      "category": "채용",
+      "posted": "2021-11-26",
+      "deadline": "2021-11-20",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/391/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2021년 6 2021년 제6차 직원채용 (기간제-사서) 지원페이지 2021-09-06 ~ 2021-09-13 마감",
+      "category": "채용",
+      "posted": "2021-09-06",
+      "deadline": "2021-09-13",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/387/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2021년 4 2021년 제4차 직원채용 (기간제-사서) 지원페이지 2021-06-15 ~ 2021-06-21 마감",
+      "category": "채용",
+      "posted": "2021-07-08",
+      "deadline": "2021-06-21",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/382/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2021년 4 2021년 제4차 직원채용 (계약직-사서) 지원페이지 2021-06-15 ~ 2021-06-21 마감",
+      "category": "채용",
+      "posted": "2021-07-08",
+      "deadline": "2021-06-21",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/380/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2021년 3 2021년 제3차 직원채용 (사서직8급) 지원페이지 2021-04-28 ~ 2021-05-03 마감",
+      "category": "채용",
+      "posted": "2021-05-20",
+      "deadline": "2021-05-03",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/371/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2021년 1 2021년 제1차 직원채용(계약직-사서 야간전담) 지원페이지 2021-01-11 ~ 2021-01-21 마감",
+      "category": "채용",
+      "posted": "2021-02-02",
+      "deadline": "2021-01-21",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/355/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2021년 1 2021년 제1차 직원채용(계약직-사서) 지원페이지 2021-01-11 ~ 2021-01-21 마감",
+      "category": "채용",
+      "posted": "2021-02-02",
+      "deadline": "2021-01-21",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/354/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2020년 9 2020년 제9차 직원채용(기간제-사서) 지원페이지 2020-11-16 ~ 2020-11-20 마감",
+      "category": "채용",
+      "posted": "2020-12-15",
+      "deadline": "2020-11-20",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/349/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2020년 6 2020년 제6차 직원채용 기간제(사서) 지원페이지 2020-08-14 ~ 2020-08-20 마감",
+      "category": "채용",
+      "posted": "2020-08-28",
+      "deadline": "2020-08-20",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/334/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2020년 6 2020년 제6차 직원채용 계약직(사서) 지원페이지 2020-08-14 ~ 2020-08-20 마감",
+      "category": "채용",
+      "posted": "2020-08-28",
+      "deadline": "2020-08-20",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/330/view"
+    },
+    {
+      "source": "관악문화재단(채용)",
+      "sourceUrl": "https://gfac.or.kr/site/main/recruit/accordionList",
+      "title": "채용지원 2020년 5 제5차 직원채용공고 계약직(사서) 지원페이지 2020-06-12 ~ 2020-06-18 마감",
+      "category": "채용",
+      "posted": "2020-07-13",
+      "deadline": "2020-06-18",
+      "deadlineEstimated": false,
+      "link": "https://gfac.or.kr/site/main/recruit/321/view"
     },
     {
       "source": "forest.seocholib.or.kr-NoticeInfo",
@@ -841,7 +2001,7 @@
       "posted": null,
       "deadline": null,
       "deadlineEstimated": false,
-      "link": "https://ader.naver.com/v1/9uYsaa751TAlI4IEOzkn2aLFGwtr5pUPTWZwwKDXM1jF4_pPsTJqfY5A45kBLsQAdeEQyC5QrddjYq9jlfV7p57JcrkL06j6D641X6xsoXCzp_IXXKR1dT5CTSbjh6RLP8V3UqY5GLGOLze5JrKaJf8GmiF5nV0EW6EDPDLS0M10Rd3AYIk7mAuOSKLIH0ZrQ31QVRHD1h5iIN1gy-PhZFNS4qgfwbWRFosavNogDc2oL1Qx4MhKGpnXbwU0lbqPfPMa4PuWrsvbWzUyKf8K5Hcvxd9vPLYxd77Kj0rY-s_QDaKTfZuUDrc-Bmyg130G9tEaJ3movb74kunQVVimZRbNZV4ZUnooHNWehuekHF4C0FucfK-UYVgMSXoyzoPMacIksc20N8L6TU5mlJnvB6P-3vOSRoAFeNUjG7rdQ00=?c=jobkorea.ch1&t=0"
+      "link": "https://ader.naver.com/v1/kHvVkd9CGKjbiOgC1gSCEL43v3rS-2Voly-8jZv5H08R1WNG7eTlyLRaZ_y_JJEWI-8L5fCNoWcZoPA63LYTGlDF2ss18eqfA4Y4mNfdUGKbIBMrJj0XObj4mGrFJMUSlwjYwood-I1tMcCTVe7a2hCXuZ-jE3aQy6Wtup3TyTfERwPJpfx1yCNTxOZ8Beae64UF9CinJWnXikQ4-akX3ld0spwuWe5n7socw_BE2NKTTqaRgugr2bIVg5DZlQDpEihIP06ouHDGImNYUEqVXyTPr0hdWY5Ek5_e37SLvQzAe155x375J1Rg2HDA5YbV1B4OW_S9cekA2B98X8S8lwR5T8vowl5pZle8EWJrX7BEPPcY2gCpEX51emr6Nca1GmcpjmqW6WzlDGuJbQ79IkdB9GwPmipT4sftoO6J8yY=?c=jobkorea.ch1&t=0"
     },
     {
       "source": "www.jobkorea.co.kr-Search2",
