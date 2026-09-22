@@ -1,8 +1,16 @@
 {
-  "generatedAt": "2026-09-21T16:30:36+00:00",
+  "generatedAt": "2026-09-22T09:05:44+00:00",
   "blocked": [
+    "sscmc 고시공고(추정)",
+    "www.eplib.or.kr-enlib",
+    "www.eplib.or.kr-enlib2",
+    "www.eplib.or.kr-eplib",
+    "www.eplib.or.kr-etlib",
+    "www.eplib.or.kr-gsvlib",
+    "www.eplib.or.kr-intro",
+    "www.eplib.or.kr-intro2",
+    "www.eplib.or.kr-nslib",
     "www.junggu.seoul.kr-content.do",
-    "www.l4d.or.kr-dsn",
     "www.nowonlib.kr-NowonNews",
     "www.nowonlib.kr-NowonNews2",
     "www.nowonlib.kr-PublicLibNotice",
@@ -49,7 +57,14 @@
     "www.ydplib.or.kr-sylib",
     "www.ydplib.or.kr-wjlib",
     "www.ydplib.or.kr-yulib",
-    "강남구립도서관-hnkklib2",
-    "강남구립도서관-nhlib"
+    "강남 역삼도서관",
+    "강남구립도서관-cdlib2",
+    "강남구립도서관-dch1lib",
+    "강남구립도서관-happylib2",
+    "강남구립도서관-nmmlib2",
+    "강남구립도서관-sslib",
+    "강남구립도서관-ys2lib",
+    "관악문화재단(채용)",
+    "은평구공공도서관"
   ]
 }
