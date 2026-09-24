@@ -1,16 +1,8 @@
 {
-  "generatedAt": "2026-09-23T15:00:00+00:00",
+  "generatedAt": "2026-09-24T08:59:12+00:00",
   "blocked": [
-    "www.gdlibrary.or.kr-ss",
-    "www.jnfac.or.kr-board",
-    "www.jobkorea.co.kr-Search",
-    "www.jobkorea.co.kr-Search2",
     "www.junggu.seoul.kr-content.do",
-    "www.jungnanglib.seoul.kr-jhklib",
-    "www.jungnanglib.seoul.kr-jhmlib",
-    "www.jungnanglib.seoul.kr-jnlib",
-    "www.jungnanglib.seoul.kr-mmlib",
-    "www.l4d.or.kr-dsn",
+    "www.l4d.or.kr-info",
     "www.mcst.go.kr-slibrary",
     "www.nowonlib.kr-NowonNews",
     "www.nowonlib.kr-NowonNews2",
@@ -58,7 +50,11 @@
     "www.ydplib.or.kr-sylib",
     "www.ydplib.or.kr-wjlib",
     "www.ydplib.or.kr-yulib",
-    "강남 도곡도서관",
-    "강남구립도서관-sklib2"
+    "강남구립도서관-dch1lib",
+    "강남구립도서관-jdwlib",
+    "강남구립도서관-mglib2",
+    "강남구립도서관-segokmarulib",
+    "강남구립도서관-segokmarulib2",
+    "구로구청(채용정보)"
   ]
 }
