@@ -1,9 +1,17 @@
 {
-  "generatedAt": "2026-09-25T15:19:47+00:00",
+  "generatedAt": "2026-09-26T09:08:21+00:00",
   "blocked": [
     "l4d 도서관(추정)",
     "www.gbcf.or.kr-load.asp",
     "www.junggu.seoul.kr-content.do",
+    "www.jungnanglib.seoul.kr-intro",
+    "www.jungnanglib.seoul.kr-jhklib",
+    "www.jungnanglib.seoul.kr-jhmlib",
+    "www.jungnanglib.seoul.kr-jnlib",
+    "www.jungnanglib.seoul.kr-mmlib",
+    "www.jungnanglib.seoul.kr-sblib",
+    "www.jungnanglib.seoul.kr-small",
+    "www.jungnanglib.seoul.kr-ywlib",
     "www.nowonlib.kr-NowonNews",
     "www.nowonlib.kr-NowonNews2",
     "www.nowonlib.kr-PublicLibNotice",
@@ -50,11 +58,7 @@
     "www.ydplib.or.kr-sylib",
     "www.ydplib.or.kr-wjlib",
     "www.ydplib.or.kr-yulib",
-    "강남구립도서관-cdlib2",
-    "강남구립도서관-dchlib",
-    "강남구립도서관-englib",
-    "강남구립도서관-nmmlib",
-    "강남구립도서관-sklib",
-    "강남구립도서관-sslib2"
+    "강남구립도서관-hchildlib2",
+    "강남구립도서관-ysplib"
   ]
 }
