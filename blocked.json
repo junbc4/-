@@ -1,12 +1,7 @@
 {
-  "generatedAt": "2026-10-03T09:46:41+00:00",
+  "generatedAt": "2026-10-03T15:06:02+00:00",
   "blocked": [
-    "l4d 도서관(추정)",
-    "www.jnfac.or.kr-board",
     "www.junggu.seoul.kr-content.do",
-    "www.jungnanglib.seoul.kr-jhmlib",
-    "www.jungnanglib.seoul.kr-jnlib",
-    "www.jungnanglib.seoul.kr-mmlib",
     "www.l4d.or.kr-info",
     "www.nowonlib.kr-NowonNews",
     "www.nowonlib.kr-NowonNews2",
@@ -55,8 +50,9 @@
     "www.ydplib.or.kr-wjlib",
     "www.ydplib.or.kr-yulib",
     "강남 역삼도서관",
-    "강남구립도서관-jgwlib",
-    "강남구립도서관-mglib",
-    "강남구립도서관-mglib2"
+    "강남구립도서관-dch1lib",
+    "강남구립도서관-happylib2",
+    "강남구립도서관-segokmarulib2",
+    "강남구립도서관-yllib"
   ]
 }
