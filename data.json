@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-04T10:00:30+00:00",
-  "count": 214,
+  "generatedAt": "2026-10-04T15:41:05+00:00",
+  "count": 213,
   "errors": [],
   "postings": [
     {
@@ -224,36 +224,6 @@
       "link": "https://library.gangnam.go.kr/dchlib/menu/12443/bbs/20293/bbsPostList.do"
     },
     {
-      "source": "강남구립도서관-mglib",
-      "sourceUrl": "https://library.gangnam.go.kr/mglib/menu/12444/bbs/20294/bbsPostList.do",
-      "title": "[채용공고] 강남구립못골도서관 주말 초단시간 근로자 채용 공고 (-9/27)",
-      "category": "채용",
-      "posted": "2026-09-16",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://library.gangnam.go.kr/mglib/menu/12444/bbs/20294/bbsPostList.do"
-    },
-    {
-      "source": "강남구립도서관-mglib",
-      "sourceUrl": "https://library.gangnam.go.kr/mglib/menu/12444/bbs/20294/bbsPostList.do",
-      "title": "[채용공고] 강남구립못골도서관 주말 초단시간 근로자 채용 공고 (-7/22)",
-      "category": "채용",
-      "posted": "2026-07-08",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://library.gangnam.go.kr/mglib/menu/12444/bbs/20294/bbsPostList.do"
-    },
-    {
-      "source": "강남구립도서관-mglib",
-      "sourceUrl": "https://library.gangnam.go.kr/mglib/menu/12444/bbs/20294/bbsPostList.do",
-      "title": "[채용공고] 강남구립못골도서관 주말 초단시간 근로자 채용 공고 (-4/19)",
-      "category": "채용",
-      "posted": "2026-04-16",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://library.gangnam.go.kr/mglib/menu/12444/bbs/20294/bbsPostList.do"
-    },
-    {
       "source": "강남구립도서관-hchildlib",
       "sourceUrl": "https://library.gangnam.go.kr/hchildlib/menu/12445/bbs/20295/bbsPostList.do",
       "title": "[채용공고] 강남구립못골한옥어린이도서관 계약직 사서 채용 공고(~12/19)",
@@ -402,6 +372,26 @@
       "deadline": "2026-01-04",
       "deadlineEstimated": false,
       "link": "https://library.gangnam.go.kr/ysplib/menu/12450/bbs/20300/bbsPostList.do"
+    },
+    {
+      "source": "강남구립도서관-cdlib",
+      "sourceUrl": "https://library.gangnam.go.kr/cdlib/menu/12454/bbs/20304/bbsPostList.do",
+      "title": "강남구립청담도서관 계약직 사서 채용 공고",
+      "category": "채용",
+      "posted": "2026-05-20",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://library.gangnam.go.kr/cdlib/menu/12454/bbs/20304/bbsPostList.do"
+    },
+    {
+      "source": "강남구립도서관-cdlib",
+      "sourceUrl": "https://library.gangnam.go.kr/cdlib/menu/12454/bbs/20304/bbsPostList.do",
+      "title": "강남구립도서관 계약직 사서 채용 공고",
+      "category": "채용",
+      "posted": "2026-02-25",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://library.gangnam.go.kr/cdlib/menu/12454/bbs/20304/bbsPostList.do"
     },
     {
       "source": "강남구립도서관-happylib",
