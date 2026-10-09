@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T10:44:42+00:00",
+  "generatedAt": "2026-10-09T10:50:05+00:00",
   "blocked": [
     "www.eplib.or.kr-enlib",
     "www.eplib.or.kr-enlib2",
@@ -10,7 +10,6 @@
     "www.eplib.or.kr-intro2",
     "www.eplib.or.kr-nslib",
     "www.junggu.seoul.kr-content.do",
-    "www.l4d.or.kr-jac",
     "www.nowonlib.kr-NowonNews",
     "www.nowonlib.kr-NowonNews2",
     "www.nowonlib.kr-PublicLibNotice",
@@ -57,7 +56,9 @@
     "www.ydplib.or.kr-sylib",
     "www.ydplib.or.kr-wjlib",
     "www.ydplib.or.kr-yulib",
-    "강남구립도서관-hchildlib2",
+    "강남구립도서관-dch1lib",
+    "강남구립도서관-happylib",
+    "강남구립도서관-ys2lib",
     "관악문화재단(채용)",
     "은평구공공도서관"
   ]
