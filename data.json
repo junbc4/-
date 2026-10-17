@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-17T08:20:55+00:00",
-  "count": 207,
+  "generatedAt": "2026-10-17T13:36:19+00:00",
+  "count": 200,
   "errors": [],
   "postings": [
     {
@@ -394,44 +394,24 @@
       "link": "https://library.gangnam.go.kr/ysplib/menu/12450/bbs/20300/bbsPostList.do"
     },
     {
-      "source": "강남구립도서관-happylib",
-      "sourceUrl": "https://library.gangnam.go.kr/happylib/menu/12455/bbs/20305/bbsPostList.do",
-      "title": "[채용공고] 강남구립도서관 상호대차 계약직 채용 공고(~10/23)",
+      "source": "강남구립도서관-cdlib",
+      "sourceUrl": "https://library.gangnam.go.kr/cdlib/menu/12454/bbs/20304/bbsPostList.do",
+      "title": "강남구립청담도서관 계약직 사서 채용 공고",
       "category": "채용",
-      "posted": "2026-10-15",
-      "deadline": "2026-10-23",
-      "deadlineEstimated": true,
-      "link": "https://library.gangnam.go.kr/happylib/menu/12455/bbs/20305/bbsPostList.do"
+      "posted": "2026-05-20",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://library.gangnam.go.kr/cdlib/menu/12454/bbs/20304/bbsPostList.do"
     },
     {
-      "source": "강남구립도서관-happylib",
-      "sourceUrl": "https://library.gangnam.go.kr/happylib/menu/12455/bbs/20305/bbsPostList.do",
-      "title": "[채용공고] 강남구립도서관 상호대차 계약직 채용 공고(~2/6)",
+      "source": "강남구립도서관-cdlib",
+      "sourceUrl": "https://library.gangnam.go.kr/cdlib/menu/12454/bbs/20304/bbsPostList.do",
+      "title": "강남구립도서관 계약직 사서 채용 공고",
       "category": "채용",
-      "posted": "2026-01-28",
-      "deadline": "2027-02-06",
-      "deadlineEstimated": true,
-      "link": "https://library.gangnam.go.kr/happylib/menu/12455/bbs/20305/bbsPostList.do"
-    },
-    {
-      "source": "강남구립도서관-happylib",
-      "sourceUrl": "https://library.gangnam.go.kr/happylib/menu/12455/bbs/20305/bbsPostList.do",
-      "title": "[채용공고] 강남구립 행복한도서관 개관연장사서 채용 공고(~1/9)",
-      "category": "채용",
-      "posted": "2025-12-31",
-      "deadline": "2027-01-09",
-      "deadlineEstimated": true,
-      "link": "https://library.gangnam.go.kr/happylib/menu/12455/bbs/20305/bbsPostList.do"
-    },
-    {
-      "source": "강남구립도서관-happylib",
-      "sourceUrl": "https://library.gangnam.go.kr/happylib/menu/12455/bbs/20305/bbsPostList.do",
-      "title": "[채용공고] 강남구립 행복한도서관 개관연장사서 채용 공고(~12/18)",
-      "category": "채용",
-      "posted": "2025-12-08",
-      "deadline": "2026-12-18",
-      "deadlineEstimated": true,
-      "link": "https://library.gangnam.go.kr/happylib/menu/12455/bbs/20305/bbsPostList.do"
+      "posted": "2026-02-25",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://library.gangnam.go.kr/cdlib/menu/12454/bbs/20304/bbsPostList.do"
     },
     {
       "source": "강남구립도서관-jdwlib",
@@ -1694,36 +1674,6 @@
       "link": "https://www.jnfac.or.kr/board/7/16967"
     },
     {
-      "source": "www.l4d.or.kr-info",
-      "sourceUrl": "https://www.l4d.or.kr/info/menu/10198/bbs/20006/bbsPostList.do",
-      "title": "동대문구정보화도서관 개관연장 지원사업 계약직원 공개채용 공고(~5/11)",
-      "category": "채용",
-      "posted": "2026-04-30",
-      "deadline": "2027-05-11",
-      "deadlineEstimated": true,
-      "link": "https://www.l4d.or.kr/info/menu/10198/bbs/20006/bbsPostList.do"
-    },
-    {
-      "source": "www.l4d.or.kr-info",
-      "sourceUrl": "https://www.l4d.or.kr/info/menu/10198/bbs/20006/bbsPostList.do",
-      "title": "동대문구정보화도서관 개관연장 지원사업 계약직원 공개채용 공고(~3/9)",
-      "category": "채용",
-      "posted": "2026-02-26",
-      "deadline": "2027-03-09",
-      "deadlineEstimated": true,
-      "link": "https://www.l4d.or.kr/info/menu/10198/bbs/20006/bbsPostList.do"
-    },
-    {
-      "source": "www.l4d.or.kr-info",
-      "sourceUrl": "https://www.l4d.or.kr/info/menu/10198/bbs/20006/bbsPostList.do",
-      "title": "동대문구정보화도서관 개관연장 지원사업 계약직원 공개채용 공고",
-      "category": "채용",
-      "posted": "2026-01-06",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.l4d.or.kr/info/menu/10198/bbs/20006/bbsPostList.do"
-    },
-    {
       "source": "노원문화재단(채용)",
       "sourceUrl": "https://www.nowonarts.kr/channels/job/posts",
       "title": "2026년 11차 노원문화재단 도서관기획실 채용 공고 [기간제]",
@@ -1812,26 +1762,6 @@
       "deadline": "2027-06-08",
       "deadlineEstimated": true,
       "link": "https://www.eplib.or.kr/enlib/menu/10851/bbs/20002/bbsPostList.do"
-    },
-    {
-      "source": "마포구립도서관-sglib",
-      "sourceUrl": "https://mplib.mapo.go.kr/sglib/MENU1211/BBS2001/bbsArticleList.do",
-      "title": "[2026-07호 채용] 2026년도 마포구립작은도서관 순회사서 채용(서류접수: 10/17(토)~10/21(수) 18시)",
-      "category": "채용",
-      "posted": "2026-10-08",
-      "deadline": "2026-10-21",
-      "deadlineEstimated": true,
-      "link": "https://mplib.mapo.go.kr/sglib/MENU1211/BBS2001/bbsArticleList.do"
-    },
-    {
-      "source": "마포구립도서관-sglib",
-      "sourceUrl": "https://mplib.mapo.go.kr/sglib/MENU1211/BBS2001/bbsArticleList.do",
-      "title": "[긴급/추가채용] 마포구립서강도서관 사서직5급 채용(마감)",
-      "category": "채용",
-      "posted": "2026-09-23",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://mplib.mapo.go.kr/sglib/MENU1211/BBS2001/bbsArticleList.do"
     },
     {
       "source": "중구청",
@@ -2041,7 +1971,7 @@
       "posted": null,
       "deadline": null,
       "deadlineEstimated": false,
-      "link": "https://ader.naver.com/v1/9iUKdFDaS3y8nDhCPZgouKEXFjGkXOKKhtBG44T_yPkLaojqzqntef2DzjRii2RUrRyKnCg2qd9HkxJKAKAgaylxf1Fy2upydapSvO59oai4TffWhTzSziZp_bqBiMyOcvGK0ywbOqlN6BZ0-DGUBE6qISyDPtWOPwYWOL11vIXL64-4w_QZdfD7l2VYLYC379MNN4zmzKg8PrKn20PjzHKxd0ixcKw7h2s5a_msd8HWV9v8ZcF9n01uXKQ-eBo9qTyuZSg3SxUt-i3X78-M8rpc9b-i7vfBlhKqISBH3qjYetqTXoS1_lbwhOF6yzVtqCsWxZQD1KLvAvZmrzU_WrK2AZrs86JluJiBRPrC24l_cBIzzEuD_CA2Dax7QmwNdsO3ZqMLlYwY0PmJ8PzpLv-gDdJhjRszkyved4IfS6s=?c=jobkorea.ch1&t=0"
+      "link": "https://ader.naver.com/v1/iTOfzn2kQfEVEbLIrg1jPDUNK8jgb8OPXQ5jBgSvDfWNBZZ_MC9dd6DEomq88dxPO3BpHH9a64UrsvNClc-3HtUt1uCmIrvTTYFPLOaVMcQp7cOfkNHj7xsMprFIZKP9ZsA1FONYz3WlM7eKSPOhXr7U74nfCo4OE0m4LSBjxQPLhhIdyXfIZc_O7aDhVqncCuM0eP_IeJYnkbxu41qvB3w_YXWyAwCoDncianlCfLtQzBA4jTlPNjzBwXr5oVj0_xhSbLuFRIbOzi1j9TGj6oNv43Kx4dbQh8CBigztbOBYGHwx3LF2ChgubdeF9ywyL4FqhA_TQ_JD5AkzVzW8qZTz1__a71KTU-Qmv-fYhTYrhPMTBdU-A_my1XrxWFO_PLUW74IzGk-w-vbkehtFPqTukhALfqTLkDFwgc8UqCI=?c=jobkorea.ch1&t=0"
     },
     {
       "source": "동작문화재단(채용)",
