@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-24T08:48:03+00:00",
-  "count": 199,
+  "generatedAt": "2026-10-24T14:01:42+00:00",
+  "count": 206,
   "errors": [],
   "postings": [
     {
@@ -422,6 +422,36 @@
       "deadline": null,
       "deadlineEstimated": false,
       "link": "https://library.gangnam.go.kr/cdlib/menu/12454/bbs/20304/bbsPostList.do"
+    },
+    {
+      "source": "강남구립도서관-happylib",
+      "sourceUrl": "https://library.gangnam.go.kr/happylib/menu/12455/bbs/20305/bbsPostList.do",
+      "title": "[채용공고] 강남구립도서관 상호대차 계약직 채용 공고(~10/23)",
+      "category": "채용",
+      "posted": "2026-10-15",
+      "deadline": "2027-10-23",
+      "deadlineEstimated": true,
+      "link": "https://library.gangnam.go.kr/happylib/menu/12455/bbs/20305/bbsPostList.do"
+    },
+    {
+      "source": "강남구립도서관-happylib",
+      "sourceUrl": "https://library.gangnam.go.kr/happylib/menu/12455/bbs/20305/bbsPostList.do",
+      "title": "[채용공고] 강남구립도서관 상호대차 계약직 채용 공고(~2/6)",
+      "category": "채용",
+      "posted": "2026-01-28",
+      "deadline": "2027-02-06",
+      "deadlineEstimated": true,
+      "link": "https://library.gangnam.go.kr/happylib/menu/12455/bbs/20305/bbsPostList.do"
+    },
+    {
+      "source": "강남구립도서관-happylib",
+      "sourceUrl": "https://library.gangnam.go.kr/happylib/menu/12455/bbs/20305/bbsPostList.do",
+      "title": "[채용공고] 강남구립 행복한도서관 개관연장사서 채용 공고(~1/9)",
+      "category": "채용",
+      "posted": "2025-12-31",
+      "deadline": "2027-01-09",
+      "deadlineEstimated": true,
+      "link": "https://library.gangnam.go.kr/happylib/menu/12455/bbs/20305/bbsPostList.do"
     },
     {
       "source": "강남구립도서관-jdwlib",
@@ -1634,6 +1664,26 @@
       "link": "https://jdlib.sen.go.kr/jdlib/board/index.do?menu_idx=25&manage_idx=1039"
     },
     {
+      "source": "www.jnfac.or.kr-board",
+      "sourceUrl": "https://www.jnfac.or.kr/board/7",
+      "title": "중랑구립정보도서관 시간제 근로자 채용 공고",
+      "category": "채용",
+      "posted": "2026-09-22",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.jnfac.or.kr/board/7/17187"
+    },
+    {
+      "source": "www.jnfac.or.kr-board",
+      "sourceUrl": "https://www.jnfac.or.kr/board/7",
+      "title": "중랑숲어린이도서관 시간제근로자 채용 공고",
+      "category": "채용",
+      "posted": "2026-09-03",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.jnfac.or.kr/board/7/16967"
+    },
+    {
       "source": "www.l4d.or.kr-info",
       "sourceUrl": "https://www.l4d.or.kr/info/menu/10198/bbs/20006/bbsPostList.do",
       "title": "동대문구정보화도서관 개관연장 지원사업 계약직원 공개채용 공고(~5/11)",
@@ -1662,106 +1712,6 @@
       "deadline": null,
       "deadlineEstimated": false,
       "link": "https://www.l4d.or.kr/info/menu/10198/bbs/20006/bbsPostList.do"
-    },
-    {
-      "source": "www.l4d.or.kr-dsn",
-      "sourceUrl": "https://www.l4d.or.kr/dsn/menu/10301/bbs/20006/bbsPostList.do",
-      "title": "2026년 동대문구답십리도서관 개관시간 연장사업 계약직원 채용 공고(1명, 5/8~5/17)",
-      "category": "채용",
-      "posted": "2026-05-07",
-      "deadline": "2027-05-17",
-      "deadlineEstimated": true,
-      "link": "https://www.l4d.or.kr/dsn/menu/10301/bbs/20006/bbsPostList.do"
-    },
-    {
-      "source": "www.l4d.or.kr-dsn",
-      "sourceUrl": "https://www.l4d.or.kr/dsn/menu/10301/bbs/20006/bbsPostList.do",
-      "title": "2025년 동대문구답십리도서관 개관시간 연장사업 계약직원 채용 공고(1명, 10/20~10/29)",
-      "category": "채용",
-      "posted": "2025-10-19",
-      "deadline": "2026-10-29",
-      "deadlineEstimated": true,
-      "link": "https://www.l4d.or.kr/dsn/menu/10301/bbs/20006/bbsPostList.do"
-    },
-    {
-      "source": "www.l4d.or.kr-dsn",
-      "sourceUrl": "https://www.l4d.or.kr/dsn/menu/10301/bbs/20006/bbsPostList.do",
-      "title": "[공공] 서울 동대문구 답십리도서관 개관시간 연장사업 계약직원 채용 공고(23. 11. 6.~11. 19.) 파일",
-      "category": "채용",
-      "posted": "2023-11-06",
-      "deadline": null,
-      "deadlineEstimated": false,
-      "link": "https://www.l4d.or.kr/dsn/menu/10301/bbs/20006/bbsPostList.do"
-    },
-    {
-      "source": "www.l4d.or.kr-dsn",
-      "sourceUrl": "https://www.l4d.or.kr/dsn/menu/10301/bbs/20006/bbsPostList.do",
-      "title": "2023년 동대문구답십리도서관 개관시간 연장사업 계약직원 채용 공고(2명, 3/7 ~ 3/15)",
-      "category": "채용",
-      "posted": "2023-03-07",
-      "deadline": "2027-03-15",
-      "deadlineEstimated": true,
-      "link": "https://www.l4d.or.kr/dsn/menu/10301/bbs/20006/bbsPostList.do"
-    },
-    {
-      "source": "www.l4d.or.kr-dsn",
-      "sourceUrl": "https://www.l4d.or.kr/dsn/menu/10301/bbs/20006/bbsPostList.do",
-      "title": "2023년 동대문구답십리도서관 개관시간 연장사업 계약직원 채용 공고(3명, 2/9 ~ 2/22)",
-      "category": "채용",
-      "posted": "2023-02-08",
-      "deadline": "2027-02-22",
-      "deadlineEstimated": true,
-      "link": "https://www.l4d.or.kr/dsn/menu/10301/bbs/20006/bbsPostList.do"
-    },
-    {
-      "source": "www.l4d.or.kr-dsn",
-      "sourceUrl": "https://www.l4d.or.kr/dsn/menu/10301/bbs/20006/bbsPostList.do",
-      "title": "2022년 동대문구답십리도서관 개관시간 연장사업 계약직원 채용 공고(1명, ~9/12)",
-      "category": "채용",
-      "posted": "2022-08-30",
-      "deadline": "2027-09-12",
-      "deadlineEstimated": true,
-      "link": "https://www.l4d.or.kr/dsn/menu/10301/bbs/20006/bbsPostList.do"
-    },
-    {
-      "source": "www.l4d.or.kr-dsn",
-      "sourceUrl": "https://www.l4d.or.kr/dsn/menu/10301/bbs/20006/bbsPostList.do",
-      "title": "2022년 동대문구답십리도서관 개관시간 연장사업 계약직원 채용 공고(1명, ~5/16)",
-      "category": "채용",
-      "posted": "2022-05-10",
-      "deadline": "2027-05-16",
-      "deadlineEstimated": true,
-      "link": "https://www.l4d.or.kr/dsn/menu/10301/bbs/20006/bbsPostList.do"
-    },
-    {
-      "source": "www.l4d.or.kr-dsn",
-      "sourceUrl": "https://www.l4d.or.kr/dsn/menu/10301/bbs/20006/bbsPostList.do",
-      "title": "2022년 동대문구답십리도서관 개관시간 연장사업 계약직원 채용 공고(1명, ~5/9)",
-      "category": "채용",
-      "posted": "2022-05-03",
-      "deadline": "2027-05-09",
-      "deadlineEstimated": true,
-      "link": "https://www.l4d.or.kr/dsn/menu/10301/bbs/20006/bbsPostList.do"
-    },
-    {
-      "source": "www.l4d.or.kr-dsn",
-      "sourceUrl": "https://www.l4d.or.kr/dsn/menu/10301/bbs/20006/bbsPostList.do",
-      "title": "2021년 동대문구답십리도서관 개관시간 연장사업 계약직원 채용 공고(2명, ~6/14)",
-      "category": "채용",
-      "posted": "2021-06-07",
-      "deadline": "2027-06-14",
-      "deadlineEstimated": true,
-      "link": "https://www.l4d.or.kr/dsn/menu/10301/bbs/20006/bbsPostList.do"
-    },
-    {
-      "source": "www.l4d.or.kr-dsn",
-      "sourceUrl": "https://www.l4d.or.kr/dsn/menu/10301/bbs/20006/bbsPostList.do",
-      "title": "2021년 동대문구답십리도서관 개관시간 연장사업 계약직원 채용 공고(1명, ~3/21)",
-      "category": "채용",
-      "posted": "2021-03-15",
-      "deadline": "2027-03-21",
-      "deadlineEstimated": true,
-      "link": "https://www.l4d.or.kr/dsn/menu/10301/bbs/20006/bbsPostList.do"
     },
     {
       "source": "강북구립도서관",
@@ -1884,6 +1834,116 @@
       "link": "https://www.ydpcf.or.kr/postview.do?bid=3&pid=2663"
     },
     {
+      "source": "www.jungnanglib.seoul.kr-jnlib",
+      "sourceUrl": "https://www.jungnanglib.seoul.kr/jnlib/menu/10205/bbs/20005/bbsPostList.do?searchCategory=3",
+      "title": "중랑구립정보도서관 시간제 근로자 신규직원 채용 공고",
+      "category": "채용",
+      "posted": "2026-09-22",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.jungnanglib.seoul.kr/jnlib/menu/10205/bbs/20005/bbsPostList.do?searchCategory=3"
+    },
+    {
+      "source": "www.jungnanglib.seoul.kr-mmlib",
+      "sourceUrl": "https://www.jungnanglib.seoul.kr/mmlib/menu/10322/bbs/20005/bbsPostList.do?searchCategory=3",
+      "title": "중랑구립면목정보도서관 시간제 근로자 채용 공고",
+      "category": "채용",
+      "posted": "2026-07-08",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.jungnanglib.seoul.kr/mmlib/menu/10322/bbs/20005/bbsPostList.do?searchCategory=3"
+    },
+    {
+      "source": "www.jungnanglib.seoul.kr-mmlib",
+      "sourceUrl": "https://www.jungnanglib.seoul.kr/mmlib/menu/10322/bbs/20005/bbsPostList.do?searchCategory=3",
+      "title": "중랑구립면목정보도서관 개관시간연장 지원사업 계약직(사서) 채용 공고(재공고)",
+      "category": "채용",
+      "posted": "2025-12-15",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.jungnanglib.seoul.kr/mmlib/menu/10322/bbs/20005/bbsPostList.do?searchCategory=3"
+    },
+    {
+      "source": "www.jungnanglib.seoul.kr-intro",
+      "sourceUrl": "https://www.jungnanglib.seoul.kr/intro/menu/10081/bbs/20005/bbsPostList.do?searchCategory=3",
+      "title": "중랑상봉도서관 개관시간연장 지원사업 계약직(사서) 채용 공고",
+      "category": "채용",
+      "posted": "2026-08-05",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.jungnanglib.seoul.kr/intro/menu/10081/bbs/20005/bbsPostList.do?searchCategory=3"
+    },
+    {
+      "source": "www.jungnanglib.seoul.kr-jhklib",
+      "sourceUrl": "https://www.jungnanglib.seoul.kr/jhklib/menu/10548/bbs/20005/bbsPostList.do?searchCategory=3",
+      "title": "중화어린이도서관 시간제 근로자 채용 공고",
+      "category": "채용",
+      "posted": "2025-12-10",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.jungnanglib.seoul.kr/jhklib/menu/10548/bbs/20005/bbsPostList.do?searchCategory=3"
+    },
+    {
+      "source": "www.jungnanglib.seoul.kr-jhmlib",
+      "sourceUrl": "https://www.jungnanglib.seoul.kr/jhmlib/menu/11024/bbs/20005/bbsPostList.do?searchCategory=3",
+      "title": "중화문학도서관 시간제근로자 신규직원 채용 공고",
+      "category": "채용",
+      "posted": "2025-12-09",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.jungnanglib.seoul.kr/jhmlib/menu/11024/bbs/20005/bbsPostList.do?searchCategory=3"
+    },
+    {
+      "source": "www.jungnanglib.seoul.kr-jhmlib",
+      "sourceUrl": "https://www.jungnanglib.seoul.kr/jhmlib/menu/11024/bbs/20005/bbsPostList.do?searchCategory=3",
+      "title": "중화문학도서관 개관시간연장사업 계약직(사서) 채용 공고",
+      "category": "채용",
+      "posted": "2025-12-04",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.jungnanglib.seoul.kr/jhmlib/menu/11024/bbs/20005/bbsPostList.do?searchCategory=3"
+    },
+    {
+      "source": "www.jungnanglib.seoul.kr-jhmlib",
+      "sourceUrl": "https://www.jungnanglib.seoul.kr/jhmlib/menu/11024/bbs/20005/bbsPostList.do?searchCategory=3",
+      "title": "중화문학도서관 시간제 근로자(사서) 채용 공고",
+      "category": "채용",
+      "posted": "2025-10-01",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.jungnanglib.seoul.kr/jhmlib/menu/11024/bbs/20005/bbsPostList.do?searchCategory=3"
+    },
+    {
+      "source": "www.jungnanglib.seoul.kr-ywlib",
+      "sourceUrl": "https://www.jungnanglib.seoul.kr/ywlib/menu/10666/bbs/20005/bbsPostList.do?searchCategory=3",
+      "title": "양원숲속도서관 시간제근로자 신규직원 채용 공고",
+      "category": "채용",
+      "posted": "2025-12-05",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.jungnanglib.seoul.kr/ywlib/menu/10666/bbs/20005/bbsPostList.do?searchCategory=3"
+    },
+    {
+      "source": "www.jungnanglib.seoul.kr-ywlib",
+      "sourceUrl": "https://www.jungnanglib.seoul.kr/ywlib/menu/10666/bbs/20005/bbsPostList.do?searchCategory=3",
+      "title": "양원숲속도서관 시간제근로자(주말) 신규직원 채용 공고",
+      "category": "채용",
+      "posted": "2025-06-20",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.jungnanglib.seoul.kr/ywlib/menu/10666/bbs/20005/bbsPostList.do?searchCategory=3"
+    },
+    {
+      "source": "www.jungnanglib.seoul.kr-sblib",
+      "sourceUrl": "https://www.jungnanglib.seoul.kr/sblib/menu/10780/bbs/20005/bbsPostList.do?searchCategory=3",
+      "title": "중랑상봉도서관 개관시간 연장 지원사업 기간제(사서) 채용 공고",
+      "category": "채용",
+      "posted": "2026-01-05",
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.jungnanglib.seoul.kr/sblib/menu/10780/bbs/20005/bbsPostList.do?searchCategory=3"
+    },
+    {
       "source": "서울교육포털(사서검색)",
       "sourceUrl": "https://work.sen.go.kr/work/main/BD_selectMainSrch.do?q_searchWord=%EC%82%AC%EC%84%9C",
       "title": "(인왕중) 교육공무직원( 사서 ) 대체 기간제근로자 채용 공고",
@@ -1951,7 +2011,7 @@
       "posted": null,
       "deadline": null,
       "deadlineEstimated": false,
-      "link": "https://ader.naver.com/v1/iTOfzn2kQfEVEbLIrg1jPOleLWnuk0B2HEyeWaP7V2k1gPL5Fq9l27QQXqOYA9CyNIrdojUazIPRzQOUpyZ6w3ZbCcN9MklJai7PMk5UiXEA9cLFxXJASFYCIQ6krPz5CCkW90EGi57MnlfbziNjuzyWFYII3HsMzpE2foUbZOUN6FBfQEV3JBwBe9DUzHIIxnQCAV-tyD15zbYuYfPnILvPG8gkt52_eqyAqiw_3qJ1HyUxVr-syUqxTRTv9bHj7hYMFbqIjyywR5VWG99UKBhYI0y8UJOdB75dYqBHk4D7In3jJSw3HaOSnMFih2RkMIj7JiiNuhf07hy_dgDpCsmPEhy0bmF0Ug4L7d9Vmx40s1kkMJG4usCf4hlf40uTB1IgyjRIgZRRIgZZQ-B6Fex_nXimy9lwVt-eNtiOxMU=?c=jobkorea.ch1&t=0"
+      "link": "https://ader.naver.com/v1/kHvVkd9CGKjbiOgC1gSCEPaVx9aIODJ1cTBJnTF7mBOXNbw-VK68K2Cy1orjxny8FX7ULoQvRaitcfeEcNih8LoIevofrxefY52E7dwxXkGv02PO_SbdyxOmMdC1lsGwqDwyFqCl5mEbVy7evNxBG4EykFn6PlC1CnPIe8p_pjUOFpGSCsSG2HwHJPmTKBNsKJ9saA_lH5D0V1orLLnF9A1hUYwo_ej1MQszLuVP9oAQ1M8fL0xNvewyXzoUKdT1CYUP-gOIU9wL8_TMS67-S33SDtiRCY0uXWzXIG9UswdosN5kF4P1HDKysFM78-yIrhrzevOf27G4dUg-DpMK5Fv81_9KygoG7Ja3AtW8bdeF7X8TAiF35J5dhTS8DwsKVsFQNWG0pfJN2XrJeswUyDWQW5trX2VygWGx3LkFEbI=?c=jobkorea.ch1&t=0"
     },
     {
       "source": "www.jobkorea.co.kr-Search2",
@@ -1962,6 +2022,16 @@
       "deadline": null,
       "deadlineEstimated": false,
       "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50186741?Oem_Code=C1&logpath=1&stext=%EB%8F%84%EC%84%9C%EA%B4%80&listno=18&sc=630"
+    },
+    {
+      "source": "www.jobkorea.co.kr-Search2",
+      "sourceUrl": "https://www.jobkorea.co.kr/Search/?stext=%EB%8F%84%EC%84%9C%EA%B4%80&tabType=recruit",
+      "title": "동작구 아파트 커뮤니티 작은도서관(독서실) 총무 채용 공고",
+      "category": "채용",
+      "posted": null,
+      "deadline": null,
+      "deadlineEstimated": false,
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50214867?Oem_Code=C1&logpath=1&stext=%EB%8F%84%EC%84%9C%EA%B4%80&listno=20&sc=630"
     },
     {
       "source": "동작문화재단(채용)",
