@@ -1,18 +1,11 @@
 {
-  "generatedAt": "2026-11-10T11:38:36+00:00",
+  "generatedAt": "2026-11-11T11:03:24+00:00",
   "blocked": [
-    "dfmc(채용/추정)",
-    "www.eplib.or.kr-enlib",
-    "www.eplib.or.kr-enlib2",
-    "www.eplib.or.kr-eplib",
-    "www.eplib.or.kr-etlib",
-    "www.eplib.or.kr-gsvlib",
-    "www.eplib.or.kr-intro",
-    "www.eplib.or.kr-intro2",
-    "www.eplib.or.kr-nslib",
-    "www.jobkorea.co.kr-Search",
-    "www.jobkorea.co.kr-Search2",
     "www.junggu.seoul.kr-content.do",
+    "www.jungnanglib.seoul.kr-jhklib",
+    "www.jungnanglib.seoul.kr-mmlib",
+    "www.l4d.or.kr-info",
+    "www.l4d.or.kr-jac",
     "www.nowonlib.kr-NowonNews",
     "www.nowonlib.kr-NowonNews2",
     "www.nowonlib.kr-PublicLibNotice",
@@ -59,12 +52,6 @@
     "www.ydplib.or.kr-sylib",
     "www.ydplib.or.kr-wjlib",
     "www.ydplib.or.kr-yulib",
-    "강남구립도서관-happylib",
-    "강남구립도서관-hchildlib",
-    "강남구립도서관-hnkklib2",
-    "강남구립도서관-nhlib",
-    "강남구립도서관-yllib2",
-    "관악문화재단(채용)",
-    "은평구공공도서관"
+    "강남구립도서관-dogoklib2"
   ]
 }
