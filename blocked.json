@@ -1,9 +1,19 @@
 {
-  "generatedAt": "2026-11-21T11:28:43+00:00",
+  "generatedAt": "2026-11-22T11:31:59+00:00",
   "blocked": [
+    "l4d 도서관(추정)",
     "www.junggu.seoul.kr-content.do",
+    "www.jungnanglib.seoul.kr-jhmlib",
+    "www.jungnanglib.seoul.kr-ywlib",
+    "www.l4d.or.kr-bfl",
+    "www.l4d.or.kr-bml",
+    "www.l4d.or.kr-dsn",
     "www.l4d.or.kr-hgc",
+    "www.l4d.or.kr-hgh",
+    "www.l4d.or.kr-imc",
+    "www.l4d.or.kr-info",
     "www.l4d.or.kr-jac",
+    "www.l4d.or.kr-jghl",
     "www.nowonlib.kr-NowonNews",
     "www.nowonlib.kr-NowonNews2",
     "www.nowonlib.kr-PublicLibNotice",
@@ -50,9 +60,6 @@
     "www.ydplib.or.kr-sylib",
     "www.ydplib.or.kr-wjlib",
     "www.ydplib.or.kr-yulib",
-    "강남구립도서관-englib",
-    "강남구립도서관-yllib",
-    "동작문화재단(채용)",
-    "서울교육청도서관-gnlib"
+    "강남구립도서관-hchildlib"
   ]
 }
